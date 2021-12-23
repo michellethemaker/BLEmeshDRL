@@ -1,0 +1,20 @@
+00:00.236	ID:2	Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.236	ID:2	Rime started with address 2.0
+00:00.236	ID:2	MAC 02:00:00:00:00:00:00:00 Rime/CSMA/nullrdc, channel check rate 1000 Hz
+00:00.236	ID:2	Starting 'Mesh example'
+00:00.348	ID:4	Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.348	ID:4	Rime started with address 4.0
+00:00.348	ID:4	MAC 04:00:00:00:00:00:00:00 Rime/CSMA/nullrdc, channel check rate 1000 Hz
+00:00.348	ID:4	Starting 'Mesh example'
+00:00.382	ID:1	Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.382	ID:1	Rime started with address 1.0
+00:00.382	ID:1	MAC 01:00:00:00:00:00:00:00 Rime/CSMA/nullrdc, channel check rate 1000 Hz
+00:00.382	ID:1	Starting 'Mesh example'
+00:00.715	ID:5	Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.715	ID:5	Rime started with address 5.0
+00:00.715	ID:5	MAC 05:00:00:00:00:00:00:00 Rime/CSMA/nullrdc, channel check rate 1000 Hz
+00:00.715	ID:5	Starting 'Mesh example'
+00:00.899	ID:3	Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:00.899	ID:3	Rime started with address 3.0
+00:00.899	ID:3	MAC 03:00:00:00:00:00:00:00 Rime/CSMA/nullrdc, channel check rate 1000 Hz
+00:00.899	ID:3	Starting 'Mesh example'

@@ -1,0 +1,9 @@
+printf("%s %lu P %d.%d %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu %lu
+%lu %lu %lu\n",
+str,
+clock_time(), rimeaddr_node_addr.u8[0],
+rimeaddr_node_addr.u8[1], seqno,
+all_cpu, all_lpm, all_transmit, all_listen, all_idle_transmit,
+all_idle_listen,
+cpu, lpm, transmit, listen, idle_transmit,
+idle_listen,all_time,time);

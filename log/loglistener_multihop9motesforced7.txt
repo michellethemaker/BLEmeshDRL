@@ -1,0 +1,2058 @@
+00:00.338	ID:8	Rime started with address 8.0
+00:00.347	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.357	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.359	ID:8	Starting 'multihop example'
+00:00.361	ID:8	initialised memb_init(&neighbor_mem);
+00:00.364	ID:8	initialised list_init(neighbor_table);
+00:00.366	ID:8	initialised largestinmatrix
+00:00.371	ID:8	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:00.373	ID:8	initialised ROUTE_INIT
+00:00.501	ID:2	Rime started with address 2.0
+00:00.511	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.516	ID:6	Rime started with address 6.0
+00:00.520	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.522	ID:2	Starting 'multihop example'
+00:00.525	ID:2	initialised memb_init(&neighbor_mem);
+00:00.525	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.528	ID:2	initialised list_init(neighbor_table);
+00:00.530	ID:2	initialised largestinmatrix
+00:00.535	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.535	ID:2	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:00.536	ID:2	initialised ROUTE_INIT
+00:00.537	ID:6	Starting 'multihop example'
+00:00.539	ID:6	initialised memb_init(&neighbor_mem);
+00:00.542	ID:6	initialised list_init(neighbor_table);
+00:00.544	ID:6	initialised largestinmatrix
+00:00.549	ID:6	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:00.551	ID:6	initialised ROUTE_INIT
+00:00.614	ID:4	Rime started with address 4.0
+00:00.623	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.632	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.634	ID:4	Starting 'multihop example'
+00:00.637	ID:4	initialised memb_init(&neighbor_mem);
+00:00.640	ID:4	initialised list_init(neighbor_table);
+00:00.642	ID:4	initialised largestinmatrix
+00:00.647	ID:4	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:00.648	ID:1	Rime started with address 1.0
+00:00.649	ID:4	initialised ROUTE_INIT
+00:00.657	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.666	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.667	ID:7	Rime started with address 7.0
+00:00.668	ID:1	Starting 'multihop example'
+00:00.671	ID:1	initialised memb_init(&neighbor_mem);
+00:00.674	ID:1	initialised list_init(neighbor_table);
+00:00.676	ID:1	initialised largestinmatrix
+00:00.676	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.681	ID:1	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:00.682	ID:1	initialised ROUTE_INIT
+00:00.686	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.688	ID:7	Starting 'multihop example'
+00:00.690	ID:7	initialised memb_init(&neighbor_mem);
+00:00.693	ID:7	initialised list_init(neighbor_table);
+00:00.695	ID:7	initialised largestinmatrix
+00:00.700	ID:7	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:00.702	ID:7	initialised ROUTE_INIT
+00:00.974	ID:9	Rime started with address 9.0
+00:00.980	ID:5	Rime started with address 5.0
+00:00.983	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.990	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.992	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.994	ID:9	Starting 'multihop example'
+00:00.997	ID:9	initialised memb_init(&neighbor_mem);
+00:00.999	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.000	ID:9	initialised list_init(neighbor_table);
+00:01.001	ID:5	Starting 'multihop example'
+00:01.002	ID:9	initialised largestinmatrix
+00:01.004	ID:5	initialised memb_init(&neighbor_mem);
+00:01.007	ID:5	initialised list_init(neighbor_table);
+00:01.007	ID:9	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:01.009	ID:5	initialised largestinmatrix
+00:01.009	ID:9	initialised ROUTE_INIT
+00:01.014	ID:5	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:01.015	ID:5	initialised ROUTE_INIT
+00:01.161	ID:6	ANNOUNCEMENT from 9.0, id 135, value 0
+00:01.163	ID:6	neighbor 9 not found, adding new entry 
+00:01.165	ID:3	Rime started with address 3.0
+00:01.174	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.183	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.185	ID:3	Starting 'multihop example'
+00:01.188	ID:3	initialised memb_init(&neighbor_mem);
+00:01.191	ID:3	initialised list_init(neighbor_table);
+00:01.193	ID:3	initialised largestinmatrix
+00:01.198	ID:3	whoopeedoo~largestinmatrix running: Maximum element in the matrix is 11
+00:01.200	ID:3	initialised ROUTE_INIT
+00:01.234	ID:8	ANNOUNCEMENT from 9.0, id 135, value 0
+00:01.237	ID:8	neighbor 9 not found, adding new entry 
+00:01.251	ID:5	ANNOUNCEMENT from 9.0, id 135, value 0
+00:01.253	ID:5	neighbor 9 not found, adding new entry 
+00:01.744	ID:9	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.747	ID:9	neighbor 5 not found, adding new entry 
+00:01.758	ID:4	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.761	ID:4	neighbor 5 not found, adding new entry 
+00:01.769	ID:2	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.772	ID:2	neighbor 5 not found, adding new entry 
+00:01.786	ID:6	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.788	ID:6	neighbor 5 not found, adding new entry 
+00:01.794	ID:1	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.796	ID:1	neighbor 5 not found, adding new entry 
+00:01.810	ID:3	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.813	ID:3	neighbor 5 not found, adding new entry 
+00:01.813	ID:7	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.816	ID:7	neighbor 5 not found, adding new entry 
+00:01.859	ID:8	ANNOUNCEMENT from 5.0, id 135, value 0
+00:01.862	ID:8	neighbor 5 not found, adding new entry 
+00:02.000	ID:5	ANNOUNCEMENT from 1.0, id 135, value 0
+00:02.002	ID:5	neighbor 1 not found, adding new entry 
+00:02.008	ID:4	ANNOUNCEMENT from 1.0, id 135, value 0
+00:02.011	ID:4	neighbor 1 not found, adding new entry 
+00:02.019	ID:2	ANNOUNCEMENT from 1.0, id 135, value 0
+00:02.022	ID:2	neighbor 1 not found, adding new entry 
+00:02.126	ID:5	ANNOUNCEMENT from 6.0, id 135, value 0
+00:02.128	ID:5	neighbor 6 not found, adding new entry 
+00:02.147	ID:2	ANNOUNCEMENT from 6.0, id 135, value 0
+00:02.150	ID:2	neighbor 6 not found, adding new entry 
+00:02.186	ID:3	ANNOUNCEMENT from 6.0, id 135, value 0
+00:02.189	ID:3	neighbor 6 not found, adding new entry 
+00:02.233	ID:8	ANNOUNCEMENT from 6.0, id 135, value 0
+00:02.235	ID:8	neighbor 6 not found, adding new entry 
+00:02.244	ID:9	ANNOUNCEMENT from 6.0, id 135, value 0
+00:02.246	ID:9	neighbor 6 not found, adding new entry 
+00:02.751	ID:5	ANNOUNCEMENT from 2.0, id 135, value 0
+00:02.754	ID:5	neighbor 2 not found, adding new entry 
+00:02.760	ID:4	ANNOUNCEMENT from 2.0, id 135, value 0
+00:02.762	ID:4	neighbor 2 not found, adding new entry 
+00:02.787	ID:6	ANNOUNCEMENT from 2.0, id 135, value 0
+00:02.790	ID:6	neighbor 2 not found, adding new entry 
+00:02.792	ID:1	ANNOUNCEMENT from 2.0, id 135, value 0
+00:02.795	ID:1	neighbor 2 not found, adding new entry 
+00:02.809	ID:3	ANNOUNCEMENT from 2.0, id 135, value 0
+00:02.812	ID:3	neighbor 2 not found, adding new entry 
+00:03.134	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+00:03.137	ID:4	neighbor 7 not found, adding new entry 
+00:03.233	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:03.236	ID:8	neighbor 7 not found, adding new entry 
+00:03.249	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:03.252	ID:5	neighbor 7 not found, adding new entry 
+00:03.662	ID:6	ANNOUNCEMENT from 8.0, id 135, value 0
+00:03.665	ID:6	neighbor 8 not found, adding new entry 
+00:03.687	ID:7	ANNOUNCEMENT from 8.0, id 135, value 0
+00:03.690	ID:7	neighbor 8 not found, adding new entry 
+00:03.744	ID:9	ANNOUNCEMENT from 8.0, id 135, value 0
+00:03.747	ID:9	neighbor 8 not found, adding new entry 
+00:03.750	ID:5	ANNOUNCEMENT from 8.0, id 135, value 0
+00:03.753	ID:5	neighbor 8 not found, adding new entry 
+00:03.758	ID:4	ANNOUNCEMENT from 8.0, id 135, value 0
+00:03.761	ID:4	neighbor 8 not found, adding new entry 
+00:04.251	ID:5	ANNOUNCEMENT from 3.0, id 135, value 0
+00:04.254	ID:5	neighbor 3 not found, adding new entry 
+00:04.273	ID:2	ANNOUNCEMENT from 3.0, id 135, value 0
+00:04.276	ID:2	neighbor 3 not found, adding new entry 
+00:04.286	ID:6	ANNOUNCEMENT from 3.0, id 135, value 0
+00:04.289	ID:6	neighbor 3 not found, adding new entry 
+00:04.522	ID:2	ANNOUNCEMENT from 4.0, id 135, value 0
+00:04.524	ID:2	neighbor 4 not found, adding new entry 
+00:04.543	ID:1	ANNOUNCEMENT from 4.0, id 135, value 0
+00:04.546	ID:1	neighbor 4 not found, adding new entry 
+00:04.563	ID:7	ANNOUNCEMENT from 4.0, id 135, value 0
+00:04.566	ID:7	neighbor 4 not found, adding new entry 
+00:04.610	ID:8	ANNOUNCEMENT from 4.0, id 135, value 0
+00:04.612	ID:8	neighbor 4 not found, adding new entry 
+00:04.626	ID:5	ANNOUNCEMENT from 4.0, id 135, value 0
+00:04.629	ID:5	neighbor 4 not found, adding new entry 
+00:05.562	ID:7	ANNOUNCEMENT from 4.0, id 135, value 0
+00:05.564	ID:7	 Neighbour  4.0 found. 
+00:05.606	ID:8	ANNOUNCEMENT from 4.0, id 135, value 0
+00:05.608	ID:8	 Neighbour  4.0 found. 
+00:05.625	ID:5	ANNOUNCEMENT from 4.0, id 135, value 0
+00:05.627	ID:5	 Neighbour  4.0 found. 
+00:05.645	ID:2	ANNOUNCEMENT from 4.0, id 135, value 0
+00:05.646	ID:2	 Neighbour  4.0 found. 
+00:05.666	ID:1	ANNOUNCEMENT from 4.0, id 135, value 0
+00:05.668	ID:1	 Neighbour  4.0 found. 
+00:05.810	ID:7	ANNOUNCEMENT from 8.0, id 135, value 0
+00:05.812	ID:7	 Neighbour  8.0 found. 
+00:05.867	ID:9	ANNOUNCEMENT from 8.0, id 135, value 0
+00:05.869	ID:9	 Neighbour  8.0 found. 
+00:05.876	ID:5	ANNOUNCEMENT from 8.0, id 135, value 0
+00:05.877	ID:5	 Neighbour  8.0 found. 
+00:05.884	ID:4	ANNOUNCEMENT from 8.0, id 135, value 0
+00:05.885	ID:4	 Neighbour  8.0 found. 
+00:05.911	ID:6	ANNOUNCEMENT from 8.0, id 135, value 0
+00:05.913	ID:6	 Neighbour  8.0 found. 
+00:08.107	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:08.109	ID:8	 Neighbour  7.0 found. 
+00:09.165	ID:1	ANNOUNCEMENT from 2.0, id 135, value 0
+00:09.167	ID:1	 Neighbour  2.0 found. 
+00:09.185	ID:3	ANNOUNCEMENT from 2.0, id 135, value 0
+00:09.186	ID:3	 Neighbour  2.0 found. 
+00:09.251	ID:5	ANNOUNCEMENT from 2.0, id 135, value 0
+00:09.252	ID:5	 Neighbour  2.0 found. 
+00:09.259	ID:4	ANNOUNCEMENT from 2.0, id 135, value 0
+00:09.261	ID:4	 Neighbour  2.0 found. 
+00:09.286	ID:6	ANNOUNCEMENT from 2.0, id 135, value 0
+00:09.288	ID:6	 Neighbour  2.0 found. 
+00:09.733	ID:8	ANNOUNCEMENT from 6.0, id 135, value 0
+00:09.735	ID:8	 Neighbour  6.0 found. 
+00:09.744	ID:9	ANNOUNCEMENT from 6.0, id 135, value 0
+00:09.746	ID:9	 Neighbour  6.0 found. 
+00:09.750	ID:5	ANNOUNCEMENT from 6.0, id 135, value 0
+00:09.751	ID:5	 Neighbour  6.0 found. 
+00:09.772	ID:2	ANNOUNCEMENT from 6.0, id 135, value 0
+00:09.773	ID:2	 Neighbour  6.0 found. 
+00:09.810	ID:3	ANNOUNCEMENT from 6.0, id 135, value 0
+00:09.812	ID:3	 Neighbour  6.0 found. 
+00:10.385	ID:8	 1284 P 8.0 0 31730 296667 4305 3461 0 1946 31730 296667 4305 3461 0 1946 (radio 2.36% / 2.36% tx 1.31% / 1.31% listen 1.05% / 1.05%)
+00:10.388	ID:8	timer triggered!
+00:10.549	ID:2	 1284 P 2.0 0 31638 296759 4315 3335 0 2109 31638 296759 4315 3335 0 2109 (radio 2.32% / 2.32% tx 1.31% / 1.31% listen 1.01% / 1.01%)
+00:10.552	ID:2	timer triggered!
+00:10.563	ID:6	 1284 P 6.0 0 31825 296572 4306 3482 0 2129 31825 296572 4306 3482 0 2129 (radio 2.37% / 2.37% tx 1.31% / 1.31% listen 1.06% / 1.06%)
+00:10.566	ID:6	timer triggered!
+00:10.661	ID:4	 1284 P 4.0 0 31655 296742 4319 3474 0 2163 31655 296742 4319 3474 0 2163 (radio 2.37% / 2.37% tx 1.31% / 1.31% listen 1.05% / 1.05%)
+00:10.663	ID:4	timer triggered!
+00:10.695	ID:1	 1284 P 1.0 0 24694 303700 2169 3080 0 2162 24694 303700 2169 3080 0 2162 (radio 1.59% / 1.59% tx 0.66% / 0.66% listen 0.93% / 0.93%)
+00:10.698	ID:1	timer triggered!
+00:10.714	ID:7	 1284 P 7.0 0 28877 299514 4319 2956 0 2027 28877 299514 4319 2956 0 2027 (radio 2.21% / 2.21% tx 1.31% / 1.31% listen 0.90% / 0.90%)
+00:10.717	ID:7	timer triggered!
+00:10.718	ID:7	data sent from: 7
+00:10.722	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1
+00:10.857	ID:8	node 8.0 fwdto-> node 5.0 (2 in list), hops 2
+00:10.999	ID:5	node 5.0 fwdto-> node 1.0 (6 in list), hops 3
+00:11.021	ID:9	 1284 P 9.0 0 24780 303614 2160 3131 0 2230 24780 303614 2160 3131 0 2230 (radio 1.61% / 1.61% tx 0.65% / 0.65% listen 0.95% / 0.95%)
+00:11.024	ID:9	timer triggered!
+00:11.040	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:11.067	ID:5	 1289 P 5.0 0 33372 296321 2659 4991 0 2345 33372 296321 2659 4991 0 2345 (radio 2.32% / 2.32% tx 0.80% / 0.80% listen 1.51% / 1.51%)
+00:11.069	ID:5	timer triggered!
+00:11.212	ID:3	 1284 P 3.0 0 29449 298942 4313 3014 0 2027 29449 298942 4313 3014 0 2027 (radio 2.23% / 2.23% tx 1.31% / 1.31% listen 0.91% / 0.91%)
+00:11.214	ID:3	timer triggered!
+00:11.216	ID:3	data sent from: 7
+00:11.220	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+00:11.258	ID:4	ANNOUNCEMENT from 1.0, id 135, value 0
+00:11.260	ID:4	 Neighbour  1.0 found. 
+00:11.269	ID:2	ANNOUNCEMENT from 1.0, id 135, value 0
+00:11.271	ID:2	 Neighbour  1.0 found. 
+00:11.412	ID:6	node 6.0 fwdto-> node 5.0 (0 in list), hops 2
+00:11.499	ID:5	node 5.0 fwdto-> node 1.0 (4 in list), hops 3
+00:11.540	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:12.042	ID:1	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.044	ID:1	 Neighbour  5.0 found. 
+00:12.056	ID:3	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.058	ID:3	 Neighbour  5.0 found. 
+00:12.062	ID:7	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.064	ID:7	 Neighbour  5.0 found. 
+00:12.108	ID:8	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.110	ID:8	 Neighbour  5.0 found. 
+00:12.117	ID:9	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.118	ID:9	 Neighbour  5.0 found. 
+00:12.130	ID:4	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.132	ID:4	 Neighbour  5.0 found. 
+00:12.147	ID:2	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.149	ID:2	 Neighbour  5.0 found. 
+00:12.158	ID:6	ANNOUNCEMENT from 5.0, id 135, value 0
+00:12.160	ID:6	 Neighbour  5.0 found. 
+00:12.608	ID:8	ANNOUNCEMENT from 9.0, id 135, value 0
+00:12.610	ID:8	 Neighbour  9.0 found. 
+00:12.622	ID:5	ANNOUNCEMENT from 9.0, id 135, value 0
+00:12.624	ID:5	 Neighbour  9.0 found. 
+00:12.658	ID:6	ANNOUNCEMENT from 9.0, id 135, value 0
+00:12.660	ID:6	 Neighbour  9.0 found. 
+00:12.983	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:12.985	ID:8	 Neighbour  7.0 found. 
+00:12.999	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:13.000	ID:5	 Neighbour  7.0 found. 
+00:13.008	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+00:13.010	ID:4	 Neighbour  7.0 found. 
+00:18.520	ID:2	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.522	ID:2	 Neighbour  5.0 found. 
+00:18.534	ID:6	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.536	ID:6	 Neighbour  5.0 found. 
+00:18.542	ID:1	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.544	ID:1	 Neighbour  5.0 found. 
+00:18.559	ID:3	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.561	ID:3	 Neighbour  5.0 found. 
+00:18.561	ID:7	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.563	ID:7	 Neighbour  5.0 found. 
+00:18.608	ID:8	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.610	ID:8	 Neighbour  5.0 found. 
+00:18.619	ID:9	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.621	ID:9	 Neighbour  5.0 found. 
+00:18.633	ID:4	ANNOUNCEMENT from 5.0, id 135, value 0
+00:18.634	ID:4	 Neighbour  5.0 found. 
+00:18.688	ID:7	ANNOUNCEMENT from 8.0, id 135, value 0
+00:18.689	ID:7	 Neighbour  8.0 found. 
+00:18.742	ID:9	ANNOUNCEMENT from 8.0, id 135, value 0
+00:18.744	ID:9	 Neighbour  8.0 found. 
+00:18.751	ID:5	ANNOUNCEMENT from 8.0, id 135, value 0
+00:18.752	ID:5	 Neighbour  8.0 found. 
+00:18.759	ID:4	ANNOUNCEMENT from 8.0, id 135, value 0
+00:18.761	ID:4	 Neighbour  8.0 found. 
+00:18.786	ID:6	ANNOUNCEMENT from 8.0, id 135, value 0
+00:18.788	ID:6	 Neighbour  8.0 found. 
+00:20.385	ID:8	 2564 P 8.0 1 63741 592333 8893 8384 0 4149 32008 295666 4588 4923 0 2203 (radio 2.63% / 2.90% tx 1.35% / 1.40% listen 1.27% / 1.50%)
+00:20.389	ID:8	timer triggered!
+00:20.391	ID:8	data sent from: 7
+00:20.395	ID:8	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+00:20.499	ID:5	node 5.0 fwdto-> node 1.0 (2 in list), hops 2
+00:20.539	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:20.548	ID:2	 2564 P 2.0 1 54526 601551 4315 6651 0 4934 22885 304792 0 3316 0 2825 (radio 1.67% / 1.01% tx 0.65% / 0.00% listen 1.01% / 1.01%)
+00:20.553	ID:2	timer triggered!
+00:20.563	ID:6	 2564 P 6.0 1 57875 598202 5682 8001 0 4914 26047 301630 1376 4519 0 2785 (radio 2.08% / 1.79% tx 0.86% / 0.41% listen 1.21% / 1.37%)
+00:20.567	ID:6	timer triggered!
+00:20.660	ID:4	 2564 P 4.0 1 54945 601132 4319 6657 0 4568 23287 304390 0 3183 0 2405 (radio 1.67% / 0.97% tx 0.65% / 0.00% listen 1.01% / 0.97%)
+00:20.666	ID:4	timer triggered!
+00:20.667	ID:4	data sent from: 7
+00:20.671	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+00:20.695	ID:1	 2564 P 1.0 1 49862 606210 4326 6086 0 4161 25165 302510 2157 3006 0 1999 (radio 1.58% / 1.57% tx 0.65% / 0.65% listen 0.92% / 0.91%)
+00:20.699	ID:1	timer triggered!
+00:20.714	ID:7	 2564 P 7.0 1 57016 599053 8764 7673 0 4460 28136 299539 4445 4717 0 2433 (radio 2.50% / 2.79% tx 1.33% / 1.35% listen 1.16% / 1.43%)
+00:20.718	ID:7	timer triggered!
+00:20.720	ID:7	data sent from: 7
+00:20.724	ID:7	node 7.0 fwdto-> node 8.0 (1 in list), hops 1
+00:20.791	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:21.021	ID:9	 2564 P 9.0 1 49800 606272 4323 6084 0 4676 25017 302658 2163 2953 0 2446 (radio 1.58% / 1.56% tx 0.65% / 0.66% listen 0.92% / 0.90%)
+00:21.025	ID:9	timer triggered!
+00:21.026	ID:9	data sent from: 7
+00:21.028	ID:5	 2564 P 5.0 1 71652 584429 7981 9450 0 5116 38277 288108 5322 4459 0 2771 (radio 2.65% / 2.99% tx 1.21% / 1.63% listen 1.44% / 1.36%)
+00:21.030	ID:9	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+00:21.070	ID:5	timer triggered!
+00:21.161	ID:6	node 6.0 fwdto-> node 5.0 (3 in list), hops 2
+00:21.212	ID:3	 2564 P 7.0 1 53377 602695 6100 7230 0 4499 23925 303753 1787 4216 0 2472 (radio 2.03% / 1.83% tx 0.92% / 0.54% listen 1.10% / 1.28%)
+00:21.216	ID:3	timer triggered!
+00:21.217	ID:3	data sent from: 7
+00:21.221	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+00:21.251	ID:5	node 5.0 fwdto-> node 1.0 (0 in list), hops 3
+00:21.291	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:21.411	ID:6	node 6.0 fwdto-> node 5.0 (4 in list), hops 2
+00:21.501	ID:5	node 5.0 fwdto-> node 1.0 (1 in list), hops 3
+00:21.541	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:21.608	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:21.609	ID:8	 Neighbour  7.0 found. 
+00:21.750	ID:5	ANNOUNCEMENT from 1.0, id 135, value 0
+00:21.752	ID:5	 Neighbour  1.0 found. 
+00:21.758	ID:4	ANNOUNCEMENT from 1.0, id 135, value 0
+00:21.760	ID:4	 Neighbour  1.0 found. 
+00:21.771	ID:2	ANNOUNCEMENT from 1.0, id 135, value 0
+00:21.773	ID:2	 Neighbour  1.0 found. 
+00:22.251	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:22.253	ID:5	 Neighbour  7.0 found. 
+00:22.271	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+00:22.274	ID:2	neighbor 7 not found, adding new entry 
+00:22.286	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+00:22.289	ID:6	neighbor 7 not found, adding new entry 
+00:22.507	ID:4	ANNOUNCEMENT from 2.0, id 135, value 0
+00:22.509	ID:4	 Neighbour  2.0 found. 
+00:22.534	ID:6	ANNOUNCEMENT from 2.0, id 135, value 0
+00:22.536	ID:6	 Neighbour  2.0 found. 
+00:22.543	ID:1	ANNOUNCEMENT from 2.0, id 135, value 0
+00:22.544	ID:1	 Neighbour  2.0 found. 
+00:22.556	ID:3	ANNOUNCEMENT from 2.0, id 135, value 0
+00:22.558	ID:3	 Neighbour  2.0 found. 
+00:22.624	ID:5	ANNOUNCEMENT from 2.0, id 135, value 0
+00:22.625	ID:5	 Neighbour  2.0 found. 
+00:22.771	ID:2	ANNOUNCEMENT from 6.0, id 135, value 0
+00:22.773	ID:2	 Neighbour  6.0 found. 
+00:22.809	ID:3	ANNOUNCEMENT from 6.0, id 135, value 0
+00:22.811	ID:3	 Neighbour  6.0 found. 
+00:22.859	ID:8	ANNOUNCEMENT from 6.0, id 135, value 0
+00:22.860	ID:8	 Neighbour  6.0 found. 
+00:22.867	ID:9	ANNOUNCEMENT from 6.0, id 135, value 0
+00:22.869	ID:9	 Neighbour  6.0 found. 
+00:22.875	ID:5	ANNOUNCEMENT from 6.0, id 135, value 0
+00:22.877	ID:5	 Neighbour  6.0 found. 
+00:29.624	ID:5	ANNOUNCEMENT from 2.0, id 135, value 0
+00:29.625	ID:5	 Neighbour  2.0 found. 
+00:29.632	ID:4	ANNOUNCEMENT from 2.0, id 135, value 0
+00:29.634	ID:4	 Neighbour  2.0 found. 
+00:29.659	ID:6	ANNOUNCEMENT from 2.0, id 135, value 0
+00:29.661	ID:6	 Neighbour  2.0 found. 
+00:29.667	ID:1	ANNOUNCEMENT from 2.0, id 135, value 0
+00:29.669	ID:1	 Neighbour  2.0 found. 
+00:29.684	ID:3	ANNOUNCEMENT from 2.0, id 135, value 0
+00:29.685	ID:3	 Neighbour  2.0 found. 
+00:30.386	ID:8	 3844 P 7.0 2 89065 894692 10594 13146 0 7280 25321 302359 1701 4762 0 3131 (radio 2.41% / 1.97% tx 1.07% / 0.51% listen 1.33% / 1.45%)
+00:30.397	ID:8	timer triggered!
+00:30.549	ID:2	 3844 P 2.0 2 87239 896518 8624 9980 0 7613 32710 294967 4309 3329 0 2679 (radio 1.89% / 2.33% tx 0.87% / 1.31% listen 1.01% / 1.01%)
+00:30.553	ID:2	timer triggered!
+00:30.564	ID:6	 3844 P 6.0 2 91828 891932 10678 13632 0 7458 33950 293730 4996 5631 0 2544 (radio 2.47% / 3.24% tx 1.08% / 1.52% listen 1.38% / 1.71%)
+00:30.568	ID:6	timer triggered!
+00:30.569	ID:6	data sent from: 7
+00:30.573	ID:6	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+00:30.625	ID:5	node 5.0 fwdto-> node 1.0 (7 in list), hops 2
+00:30.662	ID:4	 3844 P 7.0 2 85549 898208 8509 11110 0 6919 30601 297076 4190 4453 0 2351 (radio 1.99% / 2.63% tx 0.86% / 1.27% listen 1.12% / 1.35%)
+00:30.666	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:30.672	ID:4	timer triggered!
+00:30.674	ID:4	data sent from: 7
+00:30.678	ID:4	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+00:30.695	ID:1	 3844 P 1.0 2 74452 909311 6486 9324 0 6189 24587 303101 2160 3238 0 2028 (radio 1.60% / 1.64% tx 0.65% / 0.65% listen 0.94% / 0.98%)
+00:30.699	ID:1	timer triggered!
+00:30.715	ID:7	 3844 P 7.0 2 80687 903065 11194 11793 0 6774 23668 304012 2430 4120 0 2314 (radio 2.33% / 1.99% tx 1.13% / 0.74% listen 1.19% / 1.25%)
+00:30.726	ID:7	timer triggered!
+00:30.790	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:31.021	ID:9	 3844 P 7.0 2 77725 906027 8691 10566 0 7296 27922 299755 4368 4482 0 2620 (radio 1.95% / 2.70% tx 0.88% / 1.33% listen 1.07% / 1.36%)
+00:31.029	ID:5	 3844 P 5.0 2 102098 881666 9489 14790 0 7714 30443 297237 1508 5340 0 2598 (radio 2.46% / 2.08% tx 0.96% / 0.46% listen 1.50% / 1.62%)
+00:31.032	ID:9	timer triggered!
+00:31.034	ID:9	data sent from: 7
+00:31.038	ID:9	node 7.0 fwdto-> node 6.0 (2 in list), hops 1
+00:31.070	ID:5	timer triggered!
+00:31.212	ID:3	 3844 P 7.0 2 80945 902807 9679 11118 0 6780 27565 300112 3579 3888 0 2281 (radio 2.11% / 2.27% tx 0.98% / 1.09% listen 1.13% / 1.18%)
+00:31.223	ID:3	timer triggered!
+00:31.225	ID:3	data sent from: 7
+00:31.229	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+00:31.624	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:31.626	ID:5	 Neighbour  7.0 found. 
+00:31.646	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+00:31.648	ID:2	 Neighbour  7.0 found. 
+00:31.665	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+00:31.668	ID:1	neighbor 7 not found, adding new entry 
+00:31.688	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+00:31.691	ID:7	neighbor 7 not found, adding new entry 
+00:31.731	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:31.733	ID:8	 Neighbour  7.0 found. 
+00:38.858	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:38.860	ID:8	 Neighbour  7.0 found. 
+00:38.875	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:38.877	ID:5	 Neighbour  7.0 found. 
+00:38.910	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+00:38.912	ID:6	 Neighbour  7.0 found. 
+00:40.386	ID:8	 5124 P 7.0 3 111890 1199546 10594 16135 0 9956 22822 304854 0 2989 0 2676 (radio 2.03% / 0.91% tx 0.80% / 0.00% listen 1.23% / 0.91%)
+00:40.397	ID:8	timer triggered!
+00:40.549	ID:2	 5124 P 2.0 3 109788 1201647 8624 12819 0 10288 22546 305129 0 2839 0 2675 (radio 1.63% / 0.86% tx 0.65% / 0.00% listen 0.97% / 0.86%)
+00:40.553	ID:2	timer triggered!
+00:40.564	ID:6	 5124 P 7.0 3 117491 1193947 11367 16914 0 9958 25660 302015 689 3282 0 2500 (radio 2.15% / 1.21% tx 0.86% / 0.21% listen 1.28% / 1.00%)
+00:40.575	ID:6	timer triggered!
+00:40.662	ID:4	 5124 P 7.0 3 114852 1196581 12540 14709 0 9025 29300 298373 4031 3599 0 2106 (radio 2.07% / 2.32% tx 0.95% / 1.23% listen 1.12% / 1.09%)
+00:40.681	ID:4	timer triggered!
+00:40.694	ID:1	 5124 P 1.0 3 95890 1215544 6486 11691 0 8309 21435 306233 0 2367 0 2120 (radio 1.38% / 0.72% tx 0.49% / 0.00% listen 0.89% / 0.72%)
+00:40.699	ID:1	timer triggered!
+00:40.700	ID:1	data sent from: 7
+00:40.704	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+00:40.715	ID:7	 5124 P 7.0 3 102017 1209417 11194 14116 0 8921 21327 306352 0 2323 0 2147 (radio 1.92% / 0.70% tx 0.85% / 0.00% listen 1.07% / 0.70%)
+00:40.726	ID:7	timer triggered!
+00:40.770	ID:2	node 2.0 fwdto-> node 1.0 (4 in list), hops 2
+00:40.981	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:40.983	ID:8	 Neighbour  7.0 found. 
+00:41.000	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:41.002	ID:5	 Neighbour  7.0 found. 
+00:41.009	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+00:41.011	ID:4	 Neighbour  7.0 found. 
+00:41.022	ID:9	 5124 P 7.0 3 105693 1205735 12874 14260 0 9402 27965 299708 4183 3694 0 2106 (radio 2.06% / 2.40% tx 0.98% / 1.27% listen 1.08% / 1.12%)
+00:41.032	ID:5	 5124 P 5.0 3 129185 1182389 9489 17957 0 10349 27084 300723 0 3167 0 2635 (radio 2.09% / 0.96% tx 0.72% / 0.00% listen 1.36% / 0.96%)
+00:41.041	ID:9	timer triggered!
+00:41.070	ID:5	timer triggered!
+00:41.072	ID:5	data sent from: 7
+00:41.076	ID:5	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+00:41.213	ID:3	 5124 P 7.0 3 102939 1208492 10459 13933 0 8940 21991 305685 780 2815 0 2160 (radio 1.85% / 1.09% tx 0.79% / 0.23% listen 1.06% / 0.85%)
+00:41.232	ID:3	timer triggered!
+00:45.750	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:45.752	ID:5	 Neighbour  7.0 found. 
+00:45.769	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+00:45.771	ID:2	 Neighbour  7.0 found. 
+00:45.786	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+00:45.788	ID:6	 Neighbour  7.0 found. 
+00:48.243	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+00:48.246	ID:9	neighbor 7 not found, adding new entry 
+00:48.250	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:48.252	ID:5	 Neighbour  7.0 found. 
+00:48.270	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+00:48.271	ID:2	 Neighbour  7.0 found. 
+00:48.309	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+00:48.312	ID:3	neighbor 7 not found, adding new entry 
+00:48.358	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:48.359	ID:8	 Neighbour  7.0 found. 
+00:50.386	ID:8	 6404 P 7.0 4 134686 1504430 10594 18752 0 12266 22793 304884 0 2617 0 2310 (radio 1.79% / 0.79% tx 0.64% / 0.00% listen 1.14% / 0.79%)
+00:50.397	ID:8	timer triggered!
+00:50.550	ID:2	 6404 P 2.0 4 133366 1505749 8761 15731 0 12557 23575 304102 137 2912 0 2269 (radio 1.49% / 0.93% tx 0.53% / 0.04% listen 0.95% / 0.88%)
+00:50.552	ID:2	timer triggered!
+00:50.565	ID:6	 6404 P 7.0 4 145560 1493555 13526 19476 0 12268 28066 299608 2159 2562 0 2310 (radio 2.01% / 1.44% tx 0.82% / 0.65% listen 1.18% / 0.78%)
+00:50.575	ID:6	timer triggered!
+00:50.576	ID:6	data sent from: 7
+00:50.580	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+00:50.662	ID:4	 6404 P 7.0 4 136145 1502968 12540 17378 0 11524 21290 306387 0 2669 0 2499 (radio 1.82% / 0.81% tx 0.76% / 0.00% listen 1.06% / 0.81%)
+00:50.681	ID:4	timer triggered!
+00:50.682	ID:4	data sent from: 7
+00:50.686	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+00:50.696	ID:1	 6404 P 7.0 4 119282 1519831 7447 14889 0 10725 23389 304287 961 3198 0 2416 (radio 1.36% / 1.26% tx 0.45% / 0.29% listen 0.90% / 0.97%)
+00:50.706	ID:1	timer triggered!
+00:50.716	ID:7	 6404 P 7.0 4 126437 1512674 13351 16327 0 11053 24417 303257 2157 2211 0 2132 (radio 1.81% / 1.33% tx 0.81% / 0.65% listen 0.99% / 0.67%)
+00:50.726	ID:7	timer triggered!
+00:51.022	ID:9	 6404 P 7.0 4 124820 1514291 12874 16902 0 11887 19124 308556 0 2642 0 2485 (radio 1.81% / 0.80% tx 0.78% / 0.00% listen 1.03% / 0.80%)
+00:51.030	ID:5	 6404 P 7.0 4 159018 1480105 10909 21932 0 12728 29830 297716 1420 3975 0 2379 (radio 2.00% / 1.64% tx 0.66% / 0.43% listen 1.33% / 1.21%)
+00:51.041	ID:9	timer triggered!
+00:51.079	ID:5	timer triggered!
+00:51.214	ID:3	 6404 P 7.0 4 127533 1511578 12615 16287 0 11046 24591 303086 2156 2354 0 2106 (radio 1.76% / 1.37% tx 0.76% / 0.65% listen 0.99% / 0.71%)
+00:51.232	ID:3	timer triggered!
+00:51.633	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+00:51.634	ID:4	 Neighbour  7.0 found. 
+00:51.660	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+00:51.662	ID:6	 Neighbour  7.0 found. 
+00:51.688	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+00:51.689	ID:7	 Neighbour  7.0 found. 
+00:51.742	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+00:51.744	ID:9	 Neighbour  7.0 found. 
+00:51.750	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:51.752	ID:5	 Neighbour  7.0 found. 
+00:57.020	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.022	ID:2	 Neighbour  7.0 found. 
+00:57.036	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.038	ID:6	 Neighbour  7.0 found. 
+00:57.042	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.044	ID:1	 Neighbour  7.0 found. 
+00:57.058	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.060	ID:3	 Neighbour  7.0 found. 
+00:57.061	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.063	ID:7	 Neighbour  7.0 found. 
+00:57.105	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.106	ID:8	 Neighbour  7.0 found. 
+00:57.118	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.120	ID:9	 Neighbour  7.0 found. 
+00:57.132	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.134	ID:4	 Neighbour  7.0 found. 
+00:57.250	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.252	ID:5	 Neighbour  7.0 found. 
+00:57.258	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.260	ID:4	 Neighbour  7.0 found. 
+00:57.269	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+00:57.271	ID:2	 Neighbour  7.0 found. 
+01:00.387	ID:8	 7684 P 7.0 5 160603 1806190 12754 21384 0 14724 25914 301760 2160 2632 0 2458 (radio 1.73% / 1.46% tx 0.64% / 0.65% listen 1.08% / 0.80%)
+01:00.397	ID:8	timer triggered!
+01:00.549	ID:2	 7684 P 2.0 5 156161 1810634 8761 18407 0 14983 22792 304885 0 2676 0 2426 (radio 1.38% / 0.81% tx 0.44% / 0.00% listen 0.93% / 0.81%)
+01:00.553	ID:2	timer triggered!
+01:00.565	ID:6	 7684 P 7.0 5 169834 1796961 14076 22442 0 14388 24271 303406 550 2966 0 2120 (radio 1.85% / 1.07% tx 0.71% / 0.16% listen 1.14% / 0.90%)
+01:00.583	ID:6	timer triggered!
+01:00.584	ID:6	data sent from: 7
+01:00.588	ID:6	node 7.0 fwdto-> node 5.0 (1 in list), hops 1
+01:00.663	ID:4	 7684 P 7.0 5 161339 1805454 14293 21265 0 13590 25191 302486 1753 3887 0 2066 (radio 1.80% / 1.72% tx 0.72% / 0.53% listen 1.08% / 1.18%)
+01:00.688	ID:4	timer triggered!
+01:00.696	ID:1	 7684 P 7.0 5 144816 1821975 9606 17421 0 12992 25531 302144 2159 2532 0 2267 (radio 1.37% / 1.43% tx 0.48% / 0.65% listen 0.88% / 0.77%)
+01:00.706	ID:1	timer triggered!
+01:00.715	ID:7	 7684 P 7.0 5 146703 1820088 13351 18800 0 13173 20263 307414 0 2473 0 2120 (radio 1.63% / 0.75% tx 0.67% / 0.00% listen 0.95% / 0.75%)
+01:00.726	ID:7	timer triggered!
+01:01.022	ID:9	 7684 P 7.0 5 145023 1821768 12874 19526 0 14197 20200 307477 0 2624 0 2310 (radio 1.64% / 0.80% tx 0.65% / 0.00% listen 0.99% / 0.80%)
+01:01.030	ID:5	 7684 P 7.0 5 189678 1777122 13074 24587 0 14978 30658 297017 2165 2655 0 2250 (radio 1.91% / 1.47% tx 0.66% / 0.66% listen 1.25% / 0.81%)
+01:01.041	ID:9	timer triggered!
+01:01.042	ID:9	data sent from: 7
+01:01.046	ID:9	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+01:01.079	ID:5	timer triggered!
+01:01.213	ID:3	 7684 P 7.0 5 147940 1818851 12615 18574 0 13179 20404 307273 0 2287 0 2133 (radio 1.58% / 0.69% tx 0.64% / 0.00% listen 0.94% / 0.69%)
+01:01.232	ID:3	timer triggered!
+01:04.608	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+01:04.610	ID:8	 Neighbour  7.0 found. 
+01:04.622	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:04.624	ID:5	 Neighbour  7.0 found. 
+01:04.657	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+01:04.659	ID:6	 Neighbour  7.0 found. 
+01:07.742	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+01:07.744	ID:9	 Neighbour  7.0 found. 
+01:07.750	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:07.752	ID:5	 Neighbour  7.0 found. 
+01:07.759	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+01:07.760	ID:4	 Neighbour  7.0 found. 
+01:07.786	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+01:07.788	ID:6	 Neighbour  7.0 found. 
+01:07.810	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+01:07.812	ID:7	 Neighbour  7.0 found. 
+01:10.387	ID:8	 8964 P 7.0 6 187384 2107090 14914 23909 0 16993 26778 300900 2160 2525 0 2269 (radio 1.69% / 1.42% tx 0.64% / 0.65% listen 1.04% / 0.77%)
+01:10.397	ID:8	timer triggered!
+01:10.549	ID:2	 8964 P 2.0 6 179816 2114663 8761 20567 0 17143 23652 304029 0 2160 0 2160 (radio 1.27% / 0.65% tx 0.38% / 0.00% listen 0.89% / 0.65%)
+01:10.553	ID:2	timer triggered!
+01:10.565	ID:6	 8964 P 7.0 6 195276 2099203 14489 25351 0 16629 25439 302242 413 2909 0 2241 (radio 1.73% / 1.01% tx 0.63% / 0.12% listen 1.10% / 0.88%)
+01:10.590	ID:6	timer triggered!
+01:10.662	ID:4	 8964 P 7.0 6 183992 2110485 14293 23577 0 15737 22650 305031 0 2312 0 2147 (radio 1.65% / 0.70% tx 0.62% / 0.00% listen 1.02% / 0.70%)
+01:10.688	ID:4	timer triggered!
+01:10.695	ID:1	 8964 P 7.0 6 165926 2128549 9606 19581 0 15152 21107 306574 0 2160 0 2160 (radio 1.27% / 0.65% tx 0.41% / 0.00% listen 0.85% / 0.65%)
+01:10.706	ID:1	timer triggered!
+01:10.715	ID:7	 8964 P 7.0 6 168021 2126454 13351 21090 0 15306 21315 306366 0 2290 0 2133 (radio 1.50% / 0.69% tx 0.58% / 0.00% listen 0.91% / 0.69%)
+01:10.726	ID:7	timer triggered!
+01:10.727	ID:7	data sent from: 7
+01:10.731	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1
+01:11.023	ID:9	 8964 P 7.0 6 173694 2120777 16927 23259 0 16276 28668 299009 4053 3733 0 2079 (radio 1.75% / 2.37% tx 0.73% / 1.23% listen 1.01% / 1.13%)
+01:11.029	ID:5	 8964 P 7.0 6 216579 2077905 13074 27148 0 17274 26898 300783 0 2561 0 2296 (radio 1.75% / 0.78% tx 0.56% / 0.00% listen 1.18% / 0.78%)
+01:11.048	ID:9	timer triggered!
+01:11.079	ID:5	timer triggered!
+01:11.213	ID:3	 8964 P 7.0 6 169428 2125047 12615 20734 0 15339 21485 306196 0 2160 0 2160 (radio 1.45% / 0.65% tx 0.54% / 0.00% listen 0.90% / 0.65%)
+01:11.232	ID:3	timer triggered!
+01:20.386	ID:8	 10244 P 7.0 7 208520 2413633 14914 26171 0 19255 21133 306543 0 2262 0 2262 (radio 1.56% / 0.69% tx 0.56% / 0.00% listen 0.99% / 0.69%)
+01:20.397	ID:8	timer triggered!
+01:20.550	ID:2	 10244 P 2.0 7 203434 2418724 8761 22727 0 19303 23615 304061 0 2160 0 2160 (radio 1.20% / 0.65% tx 0.33% / 0.00% listen 0.86% / 0.65%)
+01:20.553	ID:2	timer triggered!
+01:20.554	ID:2	data sent from: 7
+01:20.558	ID:2	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+01:20.564	ID:6	 10244 P 7.0 7 218933 2403225 14489 27511 0 18789 23654 304022 0 2160 0 2160 (radio 1.60% / 0.65% tx 0.55% / 0.00% listen 1.04% / 0.65%)
+01:20.590	ID:6	timer triggered!
+01:20.662	ID:4	 10244 P 7.0 7 206334 2415822 14293 26117 0 18277 22339 305337 0 2540 0 2540 (radio 1.54% / 0.77% tx 0.54% / 0.00% listen 0.99% / 0.77%)
+01:20.688	ID:4	timer triggered!
+01:20.695	ID:1	 10244 P 7.0 7 187022 2435131 9606 21883 0 17285 21093 306582 0 2302 0 2133 (radio 1.20% / 0.70% tx 0.36% / 0.00% listen 0.83% / 0.70%)
+01:20.706	ID:1	timer triggered!
+01:20.707	ID:1	data sent from: 7
+01:20.711	ID:1	node 7.0 fwdto-> node 2.0 (3 in list), hops 1
+01:20.717	ID:7	 10244 P 7.0 7 193114 2429039 15460 24793 0 17439 25090 302585 2109 3703 0 2133 (radio 1.53% / 1.77% tx 0.58% / 0.64% listen 0.94% / 1.13%)
+01:20.734	ID:7	timer triggered!
+01:21.022	ID:9	 10244 P 7.0 7 193481 2428670 16927 25419 0 18436 19784 307893 0 2160 0 2160 (radio 1.61% / 0.65% tx 0.64% / 0.00% listen 0.96% / 0.65%)
+01:21.029	ID:5	 10244 P 7.0 7 242935 2379228 13074 29680 0 19806 26353 301323 0 2532 0 2532 (radio 1.63% / 0.77% tx 0.49% / 0.00% listen 1.13% / 0.77%)
+01:21.048	ID:9	timer triggered!
+01:21.079	ID:5	timer triggered!
+01:21.213	ID:3	 10244 P 7.0 7 190879 2431274 12615 22894 0 17499 21448 306227 0 2160 0 2160 (radio 1.35% / 0.65% tx 0.48% / 0.00% listen 0.87% / 0.65%)
+01:21.232	ID:3	timer triggered!
+01:21.233	ID:3	data sent from: 7
+01:21.237	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+01:22.244	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.246	ID:9	 Neighbour  7.0 found. 
+01:22.258	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.259	ID:4	 Neighbour  7.0 found. 
+01:22.271	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.273	ID:2	 Neighbour  7.0 found. 
+01:22.285	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.287	ID:6	 Neighbour  7.0 found. 
+01:22.291	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.292	ID:1	 Neighbour  7.0 found. 
+01:22.310	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.311	ID:3	 Neighbour  7.0 found. 
+01:22.312	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.314	ID:7	 Neighbour  7.0 found. 
+01:22.356	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+01:22.358	ID:8	 Neighbour  7.0 found. 
+01:28.000	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:28.002	ID:5	 Neighbour  7.0 found. 
+01:28.009	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+01:28.011	ID:4	 Neighbour  7.0 found. 
+01:28.034	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+01:28.035	ID:6	 Neighbour  7.0 found. 
+01:28.039	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+01:28.041	ID:1	 Neighbour  7.0 found. 
+01:28.058	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+01:28.060	ID:3	 Neighbour  7.0 found. 
+01:30.386	ID:8	 11524 P 7.0 8 229827 2720006 14914 28451 0 21388 21304 306373 0 2280 0 2133 (radio 1.47% / 0.69% tx 0.50% / 0.00% listen 0.96% / 0.69%)
+01:30.397	ID:8	timer triggered!
+01:30.551	ID:2	 11524 P 7.0 8 235020 2714815 12709 26732 0 21703 31583 296091 3948 4005 0 2400 (radio 1.33% / 2.42% tx 0.43% / 1.20% listen 0.90% / 1.22%)
+01:30.560	ID:2	timer triggered!
+01:30.564	ID:6	 11524 P 7.0 8 243096 2706742 14489 30217 0 21222 24160 303517 0 2706 0 2433 (radio 1.51% / 0.82% tx 0.49% / 0.00% listen 1.02% / 0.82%)
+01:30.590	ID:6	timer triggered!
+01:30.592	ID:6	data sent from: 7
+01:30.596	ID:6	node 7.0 fwdto-> node 5.0 (1 in list), hops 1
+01:30.662	ID:4	 11524 P 7.0 8 229148 2720688 14293 28764 0 20573 22811 304866 0 2647 0 2296 (radio 1.45% / 0.80% tx 0.48% / 0.00% listen 0.97% / 0.80%)
+01:30.688	ID:4	timer triggered!
+01:30.697	ID:1	 11524 P 7.0 8 210454 2739379 10433 24915 0 19391 23429 304248 827 3032 0 2106 (radio 1.19% / 1.17% tx 0.35% / 0.25% listen 0.84% / 0.92%)
+01:30.714	ID:1	timer triggered!
+01:30.715	ID:7	 11524 P 7.0 8 214425 2735408 15460 27117 0 19586 21308 306369 0 2324 0 2147 (radio 1.44% / 0.70% tx 0.52% / 0.00% listen 0.91% / 0.70%)
+01:30.734	ID:7	timer triggered!
+01:31.022	ID:9	 11524 P 7.0 8 213476 2736355 16927 27933 0 20773 19992 307685 0 2514 0 2337 (radio 1.52% / 0.76% tx 0.57% / 0.00% listen 0.94% / 0.76%)
+01:31.030	ID:5	 11524 P 7.0 8 272427 2677413 15230 32206 0 22077 29490 298185 2156 2526 0 2271 (radio 1.60% / 1.42% tx 0.51% / 0.65% listen 1.09% / 0.77%)
+01:31.048	ID:9	timer triggered!
+01:31.049	ID:9	data sent from: 7
+01:31.053	ID:9	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+01:31.079	ID:5	timer triggered!
+01:31.214	ID:3	 11524 P 7.0 8 214432 2735401 13259 25915 0 19619 23550 304127 644 3021 0 2120 (radio 1.32% / 1.11% tx 0.44% / 0.19% listen 0.87% / 0.92%)
+01:31.239	ID:3	timer triggered!
+01:31.626	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:31.628	ID:5	 Neighbour  7.0 found. 
+01:31.645	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+01:31.647	ID:2	 Neighbour  7.0 found. 
+01:31.661	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+01:31.663	ID:6	 Neighbour  7.0 found. 
+01:32.021	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+01:32.023	ID:2	 Neighbour  7.0 found. 
+01:32.059	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+01:32.061	ID:3	 Neighbour  7.0 found. 
+01:32.106	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+01:32.108	ID:8	 Neighbour  7.0 found. 
+01:32.117	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+01:32.119	ID:9	 Neighbour  7.0 found. 
+01:32.125	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:32.127	ID:5	 Neighbour  7.0 found. 
+01:34.750	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:34.752	ID:5	 Neighbour  7.0 found. 
+01:34.759	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+01:34.760	ID:4	 Neighbour  7.0 found. 
+01:34.770	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+01:34.771	ID:2	 Neighbour  7.0 found. 
+01:37.107	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+01:37.108	ID:8	 Neighbour  7.0 found. 
+01:37.126	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+01:37.128	ID:5	 Neighbour  7.0 found. 
+01:37.145	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+01:37.147	ID:2	 Neighbour  7.0 found. 
+01:37.167	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+01:37.169	ID:1	 Neighbour  7.0 found. 
+01:37.186	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+01:37.188	ID:7	 Neighbour  7.0 found. 
+01:40.386	ID:8	 12804 P 7.0 9 251364 3026149 14914 31008 0 23684 21534 306143 0 2557 0 2296 (radio 1.40% / 0.78% tx 0.45% / 0.00% listen 0.94% / 0.78%)
+01:40.397	ID:8	timer triggered!
+01:40.550	ID:2	 12804 P 7.0 9 258355 3019161 12709 29420 0 23769 23332 304346 0 2688 0 2066 (radio 1.28% / 0.82% tx 0.38% / 0.00% listen 0.89% / 0.82%)
+01:40.560	ID:2	timer triggered!
+01:40.566	ID:6	 12804 P 7.0 9 271415 3006100 16928 33024 0 23459 28316 299358 2439 2807 0 2237 (radio 1.52% / 1.60% tx 0.51% / 0.74% listen 1.00% / 0.85%)
+01:40.599	ID:6	timer triggered!
+01:40.663	ID:4	 12804 P 7.0 9 255761 3021752 16459 31125 0 22693 26610 301064 2166 2361 0 2120 (radio 1.45% / 1.38% tx 0.50% / 0.66% listen 0.94% / 0.72%)
+01:40.688	ID:4	timer triggered!
+01:40.697	ID:1	 12804 P 7.0 9 235563 3041948 12588 27268 0 21511 25106 302569 2155 2353 0 2120 (radio 1.21% / 1.37% tx 0.38% / 0.65% listen 0.83% / 0.71%)
+01:40.714	ID:1	timer triggered!
+01:40.715	ID:7	 12804 P 7.0 9 235716 3041797 15460 29426 0 21719 21288 306389 0 2309 0 2133 (radio 1.36% / 0.70% tx 0.47% / 0.00% listen 0.89% / 0.70%)
+01:40.734	ID:7	timer triggered!
+01:41.023	ID:9	 12804 P 7.0 9 236936 3040575 18671 31505 0 22879 23457 304220 1744 3572 0 2106 (radio 1.53% / 1.62% tx 0.56% / 0.53% listen 0.96% / 1.09%)
+01:41.029	ID:5	 12804 P 7.0 9 298422 2979098 15230 35180 0 24361 25992 301685 0 2974 0 2284 (radio 1.53% / 0.90% tx 0.46% / 0.00% listen 1.07% / 0.90%)
+01:41.056	ID:9	timer triggered!
+01:41.079	ID:5	timer triggered!
+01:41.080	ID:5	data sent from: 7
+01:41.084	ID:5	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+01:41.214	ID:3	 12804 P 7.0 9 239437 3038074 15420 28270 0 21739 25002 302673 2161 2355 0 2120 (radio 1.33% / 1.37% tx 0.47% / 0.65% listen 0.86% / 0.71%)
+01:41.239	ID:3	timer triggered!
+01:50.387	ID:8	 14084 P 7.0 10 272424 3332769 14914 33344 0 26020 21057 306620 0 2336 0 2336 (radio 1.33% / 0.71% tx 0.41% / 0.00% listen 0.92% / 0.71%)
+01:50.397	ID:8	timer triggered!
+01:50.550	ID:2	 14084 P 7.0 10 280705 3324491 12709 31756 0 26105 22347 305330 0 2336 0 2336 (radio 1.23% / 0.71% tx 0.35% / 0.00% listen 0.88% / 0.71%)
+01:50.560	ID:2	timer triggered!
+01:50.561	ID:2	data sent from: 7
+01:50.565	ID:6	 14084 P 7.0 10 293787 3311409 16928 35360 0 25795 22369 305309 0 2336 0 2336 (radio 1.45% / 0.71% tx 0.46% / 0.00% listen 0.98% / 0.71%)
+01:50.565	ID:2	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+01:50.599	ID:6	timer triggered!
+01:50.662	ID:4	 14084 P 7.0 10 276856 3328337 16459 33665 0 25233 21092 306585 0 2540 0 2540 (radio 1.39% / 0.77% tx 0.45% / 0.00% listen 0.93% / 0.77%)
+01:50.688	ID:4	timer triggered!
+01:50.696	ID:1	 14084 P 7.0 10 255561 3349630 12588 29775 0 23997 19995 307682 0 2507 0 2486 (radio 1.17% / 0.76% tx 0.34% / 0.00% listen 0.82% / 0.76%)
+01:50.714	ID:1	timer triggered!
+01:50.716	ID:1	data sent from: 7
+01:50.720	ID:1	node 7.0 fwdto-> node 2.0 (3 in list), hops 1
+01:50.788	ID:7	timer triggered!
+01:50.821	ID:7	 14097 P 7.0 10 261350 3347197 17625 31639 0 23852 25631 305400 2165 2213 0 2133 (radio 1.36% / 1.32% tx 0.48% / 0.65% listen 0.87% / 0.66%)
+01:51.022	ID:9	 14084 P 7.0 10 256722 3348469 18671 33855 0 25229 19783 307894 0 2350 0 2350 (radio 1.45% / 0.71% tx 0.51% / 0.00% listen 0.93% / 0.71%)
+01:51.030	ID:5	 14084 P 7.0 10 326191 3279010 16517 38879 0 27056 27766 299912 1287 3699 0 2695 (radio 1.53% / 1.52% tx 0.45% / 0.39% listen 1.07% / 1.12%)
+01:51.056	ID:9	timer triggered!
+01:51.086	ID:5	timer triggered!
+01:51.213	ID:3	 14084 P 7.0 10 259632 3345559 15420 30796 0 24265 20192 307485 0 2526 0 2526 (radio 1.28% / 0.77% tx 0.42% / 0.00% listen 0.85% / 0.77%)
+01:51.239	ID:3	timer triggered!
+02:00.387	ID:8	 15364 P 7.0 11 293541 3639333 14914 35654 0 28330 21114 306564 0 2310 0 2310 (radio 1.28% / 0.70% tx 0.37% / 0.00% listen 0.90% / 0.70%)
+02:00.397	ID:8	timer triggered!
+02:00.398	ID:8	data sent from: 7
+02:00.402	ID:8	node 7.0 fwdto-> node 5.0 (1 in list), hops 1
+02:00.551	ID:2	 15364 P 7.0 11 314468 3618408 18803 38456 0 28302 33760 293917 6094 6700 0 2197 (radio 1.45% / 3.90% tx 0.47% / 1.85% listen 0.97% / 2.04%)
+02:00.565	ID:6	 15364 P 7.0 11 316144 3616732 16928 38062 0 28497 22354 305323 0 2702 0 2702 (radio 1.39% / 0.82% tx 0.43% / 0.00% listen 0.96% / 0.82%)
+02:00.568	ID:2	timer triggered!
+02:00.599	ID:6	timer triggered!
+02:00.662	ID:4	 15364 P 7.0 11 297930 3634944 16459 36367 0 27935 21071 306607 0 2702 0 2702 (radio 1.34% / 0.82% tx 0.41% / 0.00% listen 0.92% / 0.82%)
+02:00.688	ID:4	timer triggered!
+02:00.689	ID:4	data sent from: 7
+02:00.693	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+02:00.697	ID:1	 15364 P 7.0 11 279223 3653648 14333 33517 0 26437 23659 304018 1745 3742 0 2440 (radio 1.21% / 1.67% tx 0.36% / 0.53% listen 0.85% / 1.14%)
+02:00.716	ID:7	 15364 P 7.0 11 281102 3651768 17625 33989 0 26202 19749 304571 0 2350 0 2350 (radio 1.31% / 0.72% tx 0.44% / 0.00% listen 0.86% / 0.72%)
+02:00.722	ID:1	timer triggered!
+02:00.788	ID:7	timer triggered!
+02:01.022	ID:9	 15364 P 7.0 11 276499 3656372 18671 36205 0 27579 19774 307903 0 2350 0 2350 (radio 1.39% / 0.71% tx 0.47% / 0.00% listen 0.92% / 0.71%)
+02:01.029	ID:5	 15364 P 7.0 11 351369 3581512 16517 41515 0 29692 25175 302502 0 2636 0 2636 (radio 1.47% / 0.80% tx 0.41% / 0.00% listen 1.05% / 0.80%)
+02:01.056	ID:9	timer triggered!
+02:01.086	ID:5	timer triggered!
+02:01.087	ID:5	data sent from: 7
+02:01.091	ID:5	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+02:01.213	ID:3	 15364 P 7.0 11 279819 3653052 15420 32956 0 26425 20184 307493 0 2160 0 2160 (radio 1.23% / 0.65% tx 0.39% / 0.00% listen 0.83% / 0.65%)
+02:01.239	ID:3	timer triggered!
+02:10.388	ID:8	 16644 P 7.0 12 318568 3941989 16474 39151 0 30639 25024 302656 1560 3497 0 2309 (radio 1.30% / 1.54% tx 0.38% / 0.47% listen 0.91% / 1.06%)
+02:10.405	ID:8	timer triggered!
+02:10.550	ID:2	 16644 P 7.0 12 337824 3922736 18803 40968 0 30814 23353 304328 0 2512 0 2512 (radio 1.40% / 0.76% tx 0.44% / 0.00% listen 0.96% / 0.76%)
+02:10.565	ID:6	 16644 P 7.0 12 339321 3921239 16928 40398 0 30833 23174 304507 0 2336 0 2336 (radio 1.34% / 0.71% tx 0.39% / 0.00% listen 0.94% / 0.71%)
+02:10.569	ID:2	timer triggered!
+02:10.599	ID:6	timer triggered!
+02:10.664	ID:4	 16644 P 7.0 12 323042 3937515 18063 39915 0 30258 25110 302571 1604 3548 0 2323 (radio 1.36% / 1.57% tx 0.42% / 0.48% listen 0.93% / 1.08%)
+02:10.696	ID:1	 16644 P 7.0 12 300109 3960446 14333 35949 0 28869 20883 306798 0 2432 0 2432 (radio 1.18% / 0.74% tx 0.33% / 0.00% listen 0.84% / 0.74%)
+02:10.696	ID:4	timer triggered!
+02:10.716	ID:7	 16644 P 7.0 12 301728 3958827 17625 36149 0 28362 20623 307059 0 2160 0 2160 (radio 1.26% / 0.65% tx 0.41% / 0.00% listen 0.84% / 0.65%)
+02:10.722	ID:1	timer triggered!
+02:10.788	ID:7	timer triggered!
+02:11.023	ID:9	 16644 P 7.0 12 297113 3963442 18671 38555 0 29929 20611 307070 0 2350 0 2350 (radio 1.34% / 0.71% tx 0.43% / 0.00% listen 0.90% / 0.71%)
+02:11.030	ID:5	 16644 P 7.0 12 379721 3880843 17663 44557 0 31825 28349 299331 1146 3042 0 2133 (radio 1.46% / 1.27% tx 0.41% / 0.34% listen 1.04% / 0.92%)
+02:11.056	ID:9	timer triggered!
+02:11.058	ID:9	data sent from: 7
+02:11.062	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+02:11.095	ID:5	timer triggered!
+02:11.213	ID:3	 16644 P 7.0 12 300844 3959711 15420 35116 0 28585 21022 306659 0 2160 0 2160 (radio 1.18% / 0.65% tx 0.36% / 0.00% listen 0.82% / 0.65%)
+02:11.239	ID:3	timer triggered!
+02:16.858	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+02:16.860	ID:8	 Neighbour  7.0 found. 
+02:16.875	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+02:16.877	ID:5	 Neighbour  7.0 found. 
+02:16.897	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+02:16.898	ID:2	 Neighbour  7.0 found. 
+02:16.916	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+02:16.918	ID:1	 Neighbour  7.0 found. 
+02:16.935	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+02:16.937	ID:7	 Neighbour  7.0 found. 
+02:19.748	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+02:19.750	ID:5	 Neighbour  7.0 found. 
+02:19.759	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+02:19.761	ID:4	 Neighbour  7.0 found. 
+02:19.784	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+02:19.785	ID:6	 Neighbour  7.0 found. 
+02:19.792	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+02:19.794	ID:1	 Neighbour  7.0 found. 
+02:19.808	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+02:19.810	ID:3	 Neighbour  7.0 found. 
+02:20.387	ID:8	 17924 P 7.0 13 341209 4247027 16474 41672 0 32976 22638 305038 0 2521 0 2337 (radio 1.26% / 0.76% tx 0.35% / 0.00% listen 0.90% / 0.76%)
+02:20.405	ID:8	timer triggered!
+02:20.551	ID:2	 17924 P 7.0 13 366196 4222040 20957 43344 0 32934 28369 299304 2154 2376 0 2120 (radio 1.40% / 1.38% tx 0.45% / 0.65% listen 0.94% / 0.72%)
+02:20.565	ID:6	 17924 P 7.0 13 363258 4224980 16928 42773 0 33111 23934 303741 0 2375 0 2278 (radio 1.30% / 0.72% tx 0.36% / 0.00% listen 0.93% / 0.72%)
+02:20.568	ID:2	timer triggered!
+02:20.599	ID:6	timer triggered!
+02:20.664	ID:4	 17924 P 7.0 13 349671 4238563 20210 42301 0 32378 26626 301048 2147 2386 0 2120 (radio 1.36% / 1.38% tx 0.44% / 0.65% listen 0.92% / 0.72%)
+02:20.696	ID:1	 17924 P 7.0 13 321781 4266453 14333 38376 0 30989 21669 306007 0 2427 0 2120 (radio 1.14% / 0.74% tx 0.31% / 0.00% listen 0.83% / 0.74%)
+02:20.696	ID:4	timer triggered!
+02:20.716	ID:7	 17924 P 7.0 13 323059 4265175 17625 38426 0 30495 21328 306348 0 2277 0 2133 (radio 1.22% / 0.69% tx 0.38% / 0.00% listen 0.83% / 0.69%)
+02:20.722	ID:1	timer triggered!
+02:20.723	ID:1	data sent from: 7
+02:20.727	ID:1	node 7.0 fwdto-> node 2.0 (2 in list), hops 1
+02:20.788	ID:7	timer triggered!
+02:20.790	ID:7	data sent from: 7
+02:20.793	ID:7	node 7.0 fwdto-> node 8.0 (3 in list), hops 1
+02:21.024	ID:9	 17924 P 7.0 13 321413 4266821 20277 41908 0 32062 24297 303379 1606 3353 0 2133 (radio 1.35% / 1.51% tx 0.44% / 0.49% listen 0.91% / 1.02%)
+02:21.029	ID:5	 17924 P 7.0 13 406666 4181577 17663 47428 0 34284 26942 300734 0 2871 0 2459 (radio 1.41% / 0.87% tx 0.38% / 0.00% listen 1.03% / 0.87%)
+02:21.064	ID:9	timer triggered!
+02:21.095	ID:5	timer triggered!
+02:21.213	ID:3	 17924 P 7.0 13 322573 4265661 15420 37417 0 30718 21726 305950 0 2301 0 2133 (radio 1.15% / 0.70% tx 0.33% / 0.00% listen 0.81% / 0.70%)
+02:21.239	ID:3	timer triggered!
+02:26.731	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+02:26.733	ID:8	 Neighbour  7.0 found. 
+02:26.750	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+02:26.752	ID:5	 Neighbour  7.0 found. 
+02:26.759	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+02:26.760	ID:4	 Neighbour  7.0 found. 
+02:30.387	ID:8	 19204 P 7.0 14 363859 4552057 16474 44088 0 35239 22647 305030 0 2416 0 2263 (radio 1.23% / 0.73% tx 0.33% / 0.00% listen 0.89% / 0.73%)
+02:30.405	ID:8	timer triggered!
+02:30.550	ID:2	 19204 P 7.0 14 388771 4527145 20957 45640 0 35230 22572 305105 0 2296 0 2296 (radio 1.35% / 0.70% tx 0.42% / 0.00% listen 0.92% / 0.70%)
+02:30.565	ID:6	 19204 P 7.0 14 386910 4529008 16928 44933 0 35271 23649 304028 0 2160 0 2160 (radio 1.25% / 0.65% tx 0.34% / 0.00% listen 0.91% / 0.65%)
+02:30.568	ID:2	timer triggered!
+02:30.570	ID:2	data sent from: 7
+02:30.574	ID:2	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+02:30.599	ID:6	timer triggered!
+02:30.600	ID:6	data sent from: 7
+02:30.604	ID:6	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+02:30.662	ID:4	 19204 P 7.0 14 371011 4544903 20210 44971 0 34877 21338 306340 0 2670 0 2499 (radio 1.32% / 0.81% tx 0.41% / 0.00% listen 0.91% / 0.81%)
+02:30.696	ID:4	timer triggered!
+02:30.697	ID:1	 19204 P 7.0 14 344487 4571427 14884 41137 0 33122 22703 304974 551 2761 0 2133 (radio 1.13% / 1.01% tx 0.30% / 0.16% listen 0.83% / 0.84%)
+02:30.698	ID:4	data sent from: 7
+02:30.702	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+02:30.717	ID:7	 19204 P 7.0 14 350236 4565675 20695 41370 0 32601 27174 300500 3070 2944 0 2106 (radio 1.26% / 1.83% tx 0.42% / 0.93% listen 0.84% / 0.89%)
+02:30.730	ID:1	timer triggered!
+02:30.796	ID:7	timer triggered!
+02:31.022	ID:9	 19204 P 7.0 14 342535 4573379 20277 44448 0 34602 21119 306558 0 2540 0 2540 (radio 1.31% / 0.77% tx 0.41% / 0.00% listen 0.90% / 0.77%)
+02:31.029	ID:5	 19204 P 7.0 14 433280 4482643 17663 50480 0 37163 26611 301066 0 3052 0 2879 (radio 1.38% / 0.93% tx 0.35% / 0.00% listen 1.02% / 0.93%)
+02:31.064	ID:9	timer triggered!
+02:31.095	ID:5	timer triggered!
+02:31.096	ID:5	data sent from: 7
+02:31.100	ID:5	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+02:31.213	ID:3	 19204 P 7.0 14 344063 4571851 15420 40119 0 33420 21487 306190 0 2702 0 2702 (radio 1.12% / 0.82% tx 0.31% / 0.00% listen 0.81% / 0.82%)
+02:31.239	ID:3	timer triggered!
+02:40.387	ID:8	 20484 P 7.0 15 386236 4857360 16474 46966 0 38117 22374 305303 0 2878 0 2878 (radio 1.20% / 0.87% tx 0.31% / 0.00% listen 0.89% / 0.87%)
+02:40.405	ID:8	timer triggered!
+02:40.551	ID:2	 20484 P 7.0 15 414297 4829299 22425 49746 0 38199 25523 302154 1468 4106 0 2969 (radio 1.37% / 1.70% tx 0.42% / 0.44% listen 0.94% / 1.25%)
+02:40.566	ID:6	 20484 P 7.0 15 424261 4819337 24712 52482 0 37743 37348 290329 7784 7549 0 2472 (radio 1.47% / 4.67% tx 0.47% / 2.37% listen 1.00% / 2.30%)
+02:40.576	ID:2	timer triggered!
+02:40.577	ID:2	data sent from: 7
+02:40.581	ID:2	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+02:40.606	ID:6	timer triggered!
+02:40.663	ID:4	 20484 P 7.0 15 406971 4836623 28322 53371 0 37281 35958 291720 8112 8400 0 2404 (radio 1.55% / 5.03% tx 0.54% / 2.47% listen 1.01% / 2.56%)
+02:40.696	ID:1	 20484 P 7.0 15 365868 4877726 14884 43633 0 35618 21378 306299 0 2496 0 2496 (radio 1.11% / 0.76% tx 0.28% / 0.00% listen 0.83% / 0.76%)
+02:40.703	ID:4	timer triggered!
+02:40.716	ID:7	 20484 P 7.0 15 370171 4873420 20695 43530 0 34761 19932 307745 0 2160 0 2160 (radio 1.22% / 0.65% tx 0.39% / 0.00% listen 0.83% / 0.65%)
+02:40.730	ID:1	timer triggered!
+02:40.796	ID:7	timer triggered!
+02:40.798	ID:7	data sent from: 7
+02:40.803	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1
+02:41.022	ID:9	 20484 P 7.0 15 363637 4879957 20277 46960 0 37114 21099 306578 0 2512 0 2512 (radio 1.28% / 0.76% tx 0.38% / 0.00% listen 0.89% / 0.76%)
+02:41.030	ID:5	 20484 P 7.0 15 463317 4780286 19409 54268 0 39459 30034 297643 1746 3788 0 2296 (radio 1.40% / 1.68% tx 0.37% / 0.53% listen 1.03% / 1.15%)
+02:41.064	ID:9	timer triggered!
+02:41.065	ID:9	data sent from: 7
+02:41.069	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+02:41.102	ID:5	timer triggered!
+02:41.103	ID:5	data sent from: 7
+02:41.107	ID:5	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+02:41.213	ID:3	 20484 P 7.0 15 365563 4878031 15420 42455 0 35756 21497 306180 0 2336 0 2336 (radio 1.10% / 0.71% tx 0.29% / 0.00% listen 0.80% / 0.71%)
+02:41.239	ID:3	timer triggered!
+02:41.240	ID:3	data sent from: 7
+02:41.244	ID:3	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+02:42.410	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.412	ID:6	 Neighbour  7.0 found. 
+02:42.416	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.418	ID:1	 Neighbour  7.0 found. 
+02:42.435	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.435	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.437	ID:3	 Neighbour  7.0 found. 
+02:42.437	ID:7	 Neighbour  7.0 found. 
+02:42.482	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.484	ID:8	 Neighbour  7.0 found. 
+02:42.493	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.494	ID:9	 Neighbour  7.0 found. 
+02:42.509	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.511	ID:4	 Neighbour  7.0 found. 
+02:42.520	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+02:42.522	ID:2	 Neighbour  7.0 found. 
+02:50.387	ID:8	 21764 P 7.0 16 408897 5162379 16474 49773 0 40757 22658 305019 0 2807 0 2640 (radio 1.18% / 0.85% tx 0.29% / 0.00% listen 0.89% / 0.85%)
+02:50.405	ID:8	timer triggered!
+02:50.551	ID:2	 21764 P 7.0 16 439809 5131467 23757 53437 0 40691 25509 302168 1332 3691 0 2492 (radio 1.38% / 1.53% tx 0.42% / 0.40% listen 0.95% / 1.12%)
+02:50.565	ID:6	 21764 P 7.0 16 448365 5122913 24712 55530 0 40542 24101 303576 0 3048 0 2799 (radio 1.44% / 0.93% tx 0.44% / 0.00% listen 0.99% / 0.93%)
+02:50.584	ID:2	timer triggered!
+02:50.606	ID:6	timer triggered!
+02:50.662	ID:4	 21764 P 7.0 16 428321 5142953 28322 55881 0 39604 21348 306330 0 2510 0 2323 (radio 1.51% / 0.76% tx 0.50% / 0.00% listen 1.00% / 0.76%)
+02:50.696	ID:1	 21764 P 7.0 16 387345 5183929 14884 46023 0 37986 21474 306203 0 2390 0 2368 (radio 1.09% / 0.72% tx 0.26% / 0.00% listen 0.82% / 0.72%)
+02:50.703	ID:4	timer triggered!
+02:50.717	ID:7	 21764 P 7.0 16 392102 5179169 21426 46602 0 37070 21928 305749 731 3072 0 2309 (radio 1.22% / 1.16% tx 0.38% / 0.22% listen 0.83% / 0.93%)
+02:50.730	ID:1	timer triggered!
+02:50.805	ID:7	timer triggered!
+02:50.806	ID:7	data sent from: 7
+02:50.810	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+02:51.024	ID:9	 21764 P 7.0 16 387938 5183336 21745 50544 0 39396 24298 303379 1468 3584 0 2282 (radio 1.29% / 1.54% tx 0.39% / 0.44% listen 0.90% / 1.09%)
+02:51.030	ID:5	 21764 P 7.0 16 497607 5073674 23909 58596 0 41959 34287 293388 4500 4328 0 2500 (radio 1.48% / 2.69% tx 0.42% / 1.37% listen 1.05% / 1.32%)
+02:51.072	ID:9	timer triggered!
+02:51.073	ID:9	data sent from: 7
+02:51.077	ID:9	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+02:51.110	ID:5	timer triggered!
+02:51.111	ID:5	data sent from: 7
+02:51.116	ID:5	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+02:51.214	ID:3	 21764 P 7.0 16 390432 5180842 16843 45931 0 37942 24866 302811 1423 3476 0 2186 (radio 1.12% / 1.49% tx 0.30% / 0.43% listen 0.82% / 1.06%)
+02:51.247	ID:3	timer triggered!
+03:00.387	ID:8	 23044 P 7.0 17 431324 5467632 16474 52226 0 43210 22424 305253 0 2453 0 2453 (radio 1.16% / 0.74% tx 0.27% / 0.00% listen 0.88% / 0.74%)
+03:00.405	ID:8	timer triggered!
+03:00.550	ID:2	 23044 P 7.0 17 462326 5436630 23757 55773 0 43027 22514 305163 0 2336 0 2336 (radio 1.34% / 0.71% tx 0.40% / 0.00% listen 0.94% / 0.71%)
+03:00.565	ID:6	 23044 P 7.0 17 472089 5426869 24712 58008 0 43020 23721 303956 0 2478 0 2478 (radio 1.40% / 0.75% tx 0.41% / 0.00% listen 0.98% / 0.75%)
+03:00.584	ID:2	timer triggered!
+03:00.606	ID:6	timer triggered!
+03:00.662	ID:4	 23044 P 7.0 17 449399 5449555 28322 58217 0 41940 21076 306602 0 2336 0 2336 (radio 1.46% / 0.71% tx 0.48% / 0.00% listen 0.98% / 0.71%)
+03:00.696	ID:1	 23044 P 7.0 17 408590 5490364 14884 48303 0 40266 21242 306435 0 2280 0 2280 (radio 1.07% / 0.69% tx 0.25% / 0.00% listen 0.81% / 0.69%)
+03:00.703	ID:4	timer triggered!
+03:00.716	ID:7	 23044 P 7.0 17 413573 5485378 22022 49285 0 39230 21468 306209 596 2683 0 2160 (radio 1.20% / 1.00% tx 0.37% / 0.18% listen 0.83% / 0.81%)
+03:00.730	ID:1	timer triggered!
+03:00.812	ID:7	timer triggered!
+03:00.813	ID:7	data sent from: 7
+03:00.817	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1
+03:01.024	ID:9	 23044 P 7.0 17 411738 5487216 23035 53861 0 41705 23797 303880 1290 3317 0 2309 (radio 1.30% / 1.40% tx 0.39% / 0.39% listen 0.91% / 1.01%)
+03:01.030	ID:5	 23044 P 7.0 17 525354 5373607 25058 61840 0 44268 27744 299933 1149 3244 0 2309 (radio 1.47% / 1.34% tx 0.42% / 0.35% listen 1.04% / 0.98%)
+03:01.079	ID:9	timer triggered!
+03:01.081	ID:9	data sent from: 7
+03:01.085	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+03:01.118	ID:5	timer triggered!
+03:01.119	ID:5	data sent from: 7
+03:01.124	ID:5	node 7.0 fwdto-> node 1.0 (3 in list), hops 1
+03:01.213	ID:3	 23044 P 7.0 17 411944 5487010 16843 48091 0 40102 21509 306168 0 2160 0 2160 (radio 1.10% / 0.65% tx 0.28% / 0.00% listen 0.81% / 0.65%)
+03:01.247	ID:3	timer triggered!
+03:10.387	ID:8	 24324 P 7.0 18 453757 5772879 16474 54863 0 45847 22430 305247 0 2637 0 2637 (radio 1.14% / 0.80% tx 0.26% / 0.00% listen 0.88% / 0.80%)
+03:10.405	ID:8	timer triggered!
+03:10.550	ID:2	 24324 P 7.0 18 484819 5741817 23757 58109 0 45363 22490 305187 0 2336 0 2336 (radio 1.31% / 0.71% tx 0.38% / 0.00% listen 0.93% / 0.71%)
+03:10.565	ID:6	 24324 P 7.0 18 495814 5730824 24712 60473 0 45485 23722 303955 0 2465 0 2465 (radio 1.36% / 0.75% tx 0.39% / 0.00% listen 0.97% / 0.75%)
+03:10.584	ID:2	timer triggered!
+03:10.606	ID:6	timer triggered!
+03:10.607	ID:6	data sent from: 7
+03:10.611	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+03:10.662	ID:4	 24324 P 7.0 18 470491 5756143 28322 60567 0 44290 21090 306588 0 2350 0 2350 (radio 1.42% / 0.71% tx 0.45% / 0.00% listen 0.97% / 0.71%)
+03:10.696	ID:1	 24324 P 7.0 18 429842 5796792 14884 50607 0 42570 21249 306428 0 2304 0 2304 (radio 1.05% / 0.70% tx 0.23% / 0.00% listen 0.81% / 0.70%)
+03:10.703	ID:4	timer triggered!
+03:10.716	ID:7	 24324 P 7.0 18 434792 5791839 22482 51883 0 41390 21216 306461 460 2598 0 2160 (radio 1.19% / 0.93% tx 0.36% / 0.14% listen 0.83% / 0.79%)
+03:10.730	ID:1	timer triggered!
+03:10.731	ID:1	data sent from: 7
+03:10.735	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+03:10.819	ID:7	timer triggered!
+03:10.821	ID:7	data sent from: 7
+03:10.825	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+03:11.024	ID:9	 24324 P 7.0 18 435321 5791313 24181 57294 0 44224 23580 304097 1146 3433 0 2519 (radio 1.30% / 1.39% tx 0.38% / 0.34% listen 0.92% / 1.04%)
+03:11.030	ID:5	 24324 P 7.0 18 553819 5672822 26524 65485 0 46728 28462 299215 1466 3645 0 2460 (radio 1.47% / 1.55% tx 0.42% / 0.44% listen 1.05% / 1.11%)
+03:11.088	ID:9	timer triggered!
+03:11.089	ID:9	data sent from: 7
+03:11.093	ID:9	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+03:11.126	ID:5	timer triggered!
+03:11.213	ID:3	 24324 P 7.0 18 433434 5793200 16843 50427 0 42438 21487 306190 0 2336 0 2336 (radio 1.08% / 0.71% tx 0.27% / 0.00% listen 0.80% / 0.71%)
+03:11.247	ID:3	timer triggered!
+03:11.249	ID:3	data sent from: 7
+03:11.253	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+03:14.482	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+03:14.484	ID:8	 Neighbour  7.0 found. 
+03:14.498	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+03:14.500	ID:5	 Neighbour  7.0 found. 
+03:14.534	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+03:14.536	ID:6	 Neighbour  7.0 found. 
+03:20.387	ID:8	 25604 P 7.0 19 476405 6077911 16474 57468 0 48284 22645 305032 0 2605 0 2437 (radio 1.12% / 0.79% tx 0.25% / 0.00% listen 0.87% / 0.79%)
+03:20.405	ID:8	timer triggered!
+03:20.407	ID:8	data sent from: 7
+03:20.410	ID:8	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+03:20.550	ID:2	 25604 P 7.0 19 507359 6046957 23757 60579 0 47833 22537 305140 0 2470 0 2470 (radio 1.28% / 0.75% tx 0.36% / 0.00% listen 0.92% / 0.75%)
+03:20.566	ID:6	 25604 P 7.0 19 524301 6030017 27096 64742 0 47857 28484 299193 2384 4269 0 2372 (radio 1.40% / 2.03% tx 0.41% / 0.72% listen 0.98% / 1.30%)
+03:20.584	ID:2	timer triggered!
+03:20.614	ID:6	timer triggered!
+03:20.662	ID:4	 25604 P 7.0 19 491572 6062742 28322 62903 0 46626 21079 306599 0 2336 0 2336 (radio 1.39% / 0.71% tx 0.43% / 0.00% listen 0.95% / 0.71%)
+03:20.697	ID:1	 25604 P 7.0 19 452187 6102127 15252 53136 0 44730 22342 305335 368 2529 0 2160 (radio 1.04% / 0.88% tx 0.23% / 0.11% listen 0.81% / 0.77%)
+03:20.703	ID:4	timer triggered!
+03:20.705	ID:4	data sent from: 7
+03:20.709	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+03:20.716	ID:7	 25604 P 7.0 19 455774 6098537 22803 54557 0 43726 20979 306698 321 2674 0 2336 (radio 1.18% / 0.91% tx 0.34% / 0.09% listen 0.83% / 0.81%)
+03:20.737	ID:1	timer triggered!
+03:20.828	ID:7	timer triggered!
+03:21.024	ID:9	 25604 P 7.0 19 462274 6092037 27358 60470 0 46506 26950 300724 3177 3176 0 2282 (radio 1.34% / 1.93% tx 0.41% / 0.96% listen 0.92% / 0.96%)
+03:21.029	ID:5	 25604 P 7.0 19 579208 5975113 26524 68205 0 49311 25386 302291 0 2720 0 2583 (radio 1.44% / 0.83% tx 0.40% / 0.00% listen 1.04% / 0.83%)
+03:21.095	ID:9	timer triggered!
+03:21.126	ID:5	timer triggered!
+03:21.214	ID:3	 25604 P 7.0 19 455987 6098327 17165 52925 0 44598 22550 305127 322 2498 0 2160 (radio 1.06% / 0.86% tx 0.26% / 0.09% listen 0.80% / 0.76%)
+03:21.254	ID:3	timer triggered!
+03:30.388	ID:8	 26884 P 7.0 20 501608 6380388 17852 60852 0 50593 25200 302477 1378 3384 0 2309 (radio 1.14% / 1.45% tx 0.25% / 0.42% listen 0.88% / 1.03%)
+03:30.412	ID:8	timer triggered!
+03:30.550	ID:2	 26884 P 7.0 20 529840 6352156 23757 62915 0 50169 22478 305199 0 2336 0 2336 (radio 1.25% / 0.71% tx 0.34% / 0.00% listen 0.91% / 0.71%)
+03:30.565	ID:6	 26884 P 7.0 20 547985 6334013 27096 66902 0 50017 23681 303996 0 2160 0 2160 (radio 1.36% / 0.65% tx 0.39% / 0.00% listen 0.97% / 0.65%)
+03:30.584	ID:2	timer triggered!
+03:30.585	ID:2	data sent from: 7
+03:30.589	ID:2	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+03:30.614	ID:6	timer triggered!
+03:30.663	ID:4	 26884 P 7.0 20 515320 6366674 29605 66229 0 48949 23746 303932 1283 3326 0 2323 (radio 1.39% / 1.40% tx 0.43% / 0.39% listen 0.96% / 1.01%)
+03:30.696	ID:1	 26884 P 7.0 20 473517 6408477 15252 55486 0 46983 21327 306350 0 2350 0 2253 (radio 1.02% / 0.71% tx 0.22% / 0.00% listen 0.80% / 0.71%)
+03:30.712	ID:4	timer triggered!
+03:30.716	ID:7	 26884 P 7.0 20 475681 6406310 22803 56717 0 45886 19904 307773 0 2160 0 2160 (radio 1.15% / 0.65% tx 0.33% / 0.00% listen 0.82% / 0.65%)
+03:30.737	ID:1	timer triggered!
+03:30.828	ID:7	timer triggered!
+03:31.022	ID:9	 26884 P 7.0 20 482098 6399893 27358 62630 0 48666 19821 307856 0 2160 0 2160 (radio 1.30% / 0.65% tx 0.39% / 0.00% listen 0.91% / 0.65%)
+03:31.029	ID:5	 26884 P 7.0 20 604284 6277717 26524 70541 0 51647 25073 302604 0 2336 0 2336 (radio 1.41% / 0.71% tx 0.38% / 0.00% listen 1.02% / 0.71%)
+03:31.095	ID:9	timer triggered!
+03:31.096	ID:9	data sent from: 7
+03:31.100	ID:9	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+03:31.126	ID:5	timer triggered!
+03:31.213	ID:3	 26884 P 7.0 20 477494 6404500 17165 55085 0 46758 21504 306173 0 2160 0 2160 (radio 1.04% / 0.65% tx 0.24% / 0.00% listen 0.80% / 0.65%)
+03:31.254	ID:3	timer triggered!
+03:40.387	ID:8	 28164 P 7.0 21 524035 6685641 17852 63012 0 52753 22424 305253 0 2160 0 2160 (radio 1.12% / 0.65% tx 0.24% / 0.00% listen 0.87% / 0.65%)
+03:40.412	ID:8	timer triggered!
+03:40.551	ID:2	 28164 P 7.0 21 554788 6654888 24901 65966 0 52302 24945 302732 1144 3051 0 2133 (radio 1.26% / 1.28% tx 0.34% / 0.34% listen 0.91% / 0.93%)
+03:40.565	ID:6	 28164 P 7.0 21 571704 6637974 27096 69377 0 52492 23716 303961 0 2475 0 2475 (radio 1.33% / 0.75% tx 0.37% / 0.00% listen 0.96% / 0.75%)
+03:40.591	ID:2	timer triggered!
+03:40.614	ID:6	timer triggered!
+03:40.662	ID:4	 28164 P 7.0 21 536436 6673238 29605 68389 0 51109 21114 306564 0 2160 0 2160 (radio 1.35% / 0.65% tx 0.41% / 0.00% listen 0.94% / 0.65%)
+03:40.696	ID:1	 28164 P 7.0 21 494730 6714944 15252 57646 0 49240 21210 306467 0 2160 0 2257 (radio 1.01% / 0.65% tx 0.21% / 0.00% listen 0.79% / 0.65%)
+03:40.712	ID:4	timer triggered!
+03:40.713	ID:4	data sent from: 7
+03:40.716	ID:7	 28164 P 7.0 21 495582 6714089 22803 58877 0 48046 19898 307779 0 2160 0 2160 (radio 1.13% / 0.65% tx 0.31% / 0.00% listen 0.81% / 0.65%)
+03:40.717	ID:4	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+03:40.737	ID:1	timer triggered!
+03:40.739	ID:1	data sent from: 7
+03:40.743	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+03:40.828	ID:7	timer triggered!
+03:40.829	ID:7	data sent from: 7
+03:40.833	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+03:41.023	ID:9	 28164 P 7.0 21 503885 6705786 28229 65479 0 50799 21784 305893 871 2849 0 2133 (radio 1.29% / 1.13% tx 0.39% / 0.26% listen 0.90% / 0.86%)
+03:41.029	ID:5	 28164 P 7.0 21 629375 6580306 26524 73433 0 54539 25088 302589 0 2892 0 2892 (radio 1.38% / 0.88% tx 0.36% / 0.00% listen 1.01% / 0.88%)
+03:41.103	ID:9	timer triggered!
+03:41.126	ID:5	timer triggered!
+03:41.213	ID:3	 28164 P 7.0 21 498995 6710679 17165 57245 0 48918 21498 306179 0 2160 0 2160 (radio 1.03% / 0.65% tx 0.23% / 0.00% listen 0.79% / 0.65%)
+03:41.254	ID:3	timer triggered!
+03:45.125	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+03:45.127	ID:5	 Neighbour  7.0 found. 
+03:45.147	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+03:45.149	ID:2	 Neighbour  7.0 found. 
+03:45.183	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+03:45.185	ID:3	 Neighbour  7.0 found. 
+03:45.232	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+03:45.234	ID:8	 Neighbour  7.0 found. 
+03:45.242	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+03:45.244	ID:9	 Neighbour  7.0 found. 
+03:46.562	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+03:46.563	ID:7	 Neighbour  7.0 found. 
+03:46.617	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+03:46.619	ID:9	 Neighbour  7.0 found. 
+03:46.625	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+03:46.627	ID:5	 Neighbour  7.0 found. 
+03:46.633	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+03:46.635	ID:4	 Neighbour  7.0 found. 
+03:46.660	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+03:46.662	ID:6	 Neighbour  7.0 found. 
+03:50.375	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+03:50.377	ID:5	 Neighbour  7.0 found. 
+03:50.384	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+03:50.385	ID:4	 Neighbour  7.0 found. 
+03:50.388	ID:8	 29444 P 7.0 22 550761 6986593 20015 65861 0 55357 26723 300952 2163 2849 0 2604 (radio 1.13% / 1.52% tx 0.26% / 0.66% listen 0.87% / 0.86%)
+03:50.395	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+03:50.396	ID:2	 Neighbour  7.0 found. 
+03:50.412	ID:8	timer triggered!
+03:50.414	ID:8	data sent from: 7
+03:50.418	ID:8	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+03:50.550	ID:2	 29444 P 7.0 22 577858 6959498 24901 68917 0 54920 23067 304610 0 2951 0 2618 (radio 1.24% / 0.90% tx 0.33% / 0.00% listen 0.91% / 0.90%)
+03:50.566	ID:6	 29444 P 7.0 22 599378 6937978 29257 71728 0 54612 27671 300004 2161 2351 0 2120 (radio 1.33% / 1.37% tx 0.38% / 0.65% listen 0.95% / 0.71%)
+03:50.591	ID:2	timer triggered!
+03:50.614	ID:6	timer triggered!
+03:50.616	ID:6	data sent from: 7
+03:50.620	ID:6	node 7.0 fwdto-> node 5.0 (1 in list), hops 1
+03:50.664	ID:4	 29444 P 7.0 22 560429 6976925 30757 72453 0 53934 23991 303687 1152 4064 0 2825 (radio 1.36% / 1.59% tx 0.40% / 0.35% listen 0.96% / 1.24%)
+03:50.698	ID:1	 29444 P 7.0 22 535329 7002022 25430 65855 0 51292 40596 287078 10178 8209 0 2052 (radio 1.21% / 5.61% tx 0.33% / 3.10% listen 0.87% / 2.50%)
+03:50.717	ID:7	 29444 P 7.0 22 531418 7005933 31743 67125 0 50085 35833 291844 8940 8248 0 2039 (radio 1.31% / 5.24% tx 0.42% / 2.72% listen 0.89% / 2.51%)
+03:50.719	ID:4	timer triggered!
+03:50.720	ID:4	data sent from: 7
+03:50.724	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+03:50.746	ID:1	timer triggered!
+03:50.835	ID:7	timer triggered!
+03:51.022	ID:9	 29444 P 7.0 22 524206 7013145 28229 68371 0 53375 20318 307359 0 2892 0 2576 (radio 1.28% / 0.88% tx 0.37% / 0.00% listen 0.90% / 0.88%)
+03:51.029	ID:5	 29444 P 7.0 22 655264 6882097 26524 77085 0 57715 25886 301791 0 3652 0 3176 (radio 1.37% / 1.11% tx 0.35% / 0.00% listen 1.02% / 1.11%)
+03:51.103	ID:9	timer triggered!
+03:51.105	ID:9	data sent from: 7
+03:51.109	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+03:51.126	ID:5	timer triggered!
+03:51.213	ID:3	 29444 P 7.0 22 520723 7016631 17165 59894 0 51423 21725 305952 0 2649 0 2505 (radio 1.02% / 0.80% tx 0.22% / 0.00% listen 0.79% / 0.80%)
+03:51.254	ID:3	timer triggered!
+04:00.284	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+04:00.286	ID:6	 Neighbour  7.0 found. 
+04:00.372	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+04:00.374	ID:5	 Neighbour  7.0 found. 
+04:00.388	ID:8	 30724 P 7.0 23 574467 7290567 21251 69544 0 58066 23703 303974 1236 3683 0 2709 (radio 1.15% / 1.50% tx 0.27% / 0.37% listen 0.88% / 1.12%)
+04:00.397	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+04:00.399	ID:2	 Neighbour  7.0 found. 
+04:00.421	ID:8	timer triggered!
+04:00.550	ID:2	 30724 P 7.0 23 600590 7264446 24901 71791 0 57609 22729 304948 0 2874 0 2689 (radio 1.22% / 0.87% tx 0.31% / 0.00% listen 0.91% / 0.87%)
+04:00.566	ID:6	 30724 P 7.0 23 630276 7234760 33710 77351 0 56793 30895 296782 4453 5623 0 2181 (radio 1.41% / 3.07% tx 0.42% / 1.35% listen 0.98% / 1.71%)
+04:00.591	ID:2	timer triggered!
+04:00.621	ID:6	timer triggered!
+04:00.623	ID:6	data sent from: 7
+04:00.627	ID:6	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+04:00.664	ID:4	 30724 P 7.0 23 590739 7274295 35649 78157 0 56094 30308 297370 4892 5704 0 2160 (radio 1.44% / 3.23% tx 0.45% / 1.49% listen 0.99% / 1.74%)
+04:00.696	ID:1	 30724 P 7.0 23 555322 7309709 25430 68341 0 53778 19990 307687 0 2486 0 2486 (radio 1.19% / 0.75% tx 0.32% / 0.00% listen 0.86% / 0.75%)
+04:00.716	ID:7	 30724 P 7.0 23 551244 7313787 31743 69657 0 52617 19823 307854 0 2532 0 2532 (radio 1.28% / 0.77% tx 0.40% / 0.00% listen 0.88% / 0.77%)
+04:00.728	ID:4	timer triggered!
+04:00.746	ID:1	timer triggered!
+04:00.835	ID:7	timer triggered!
+04:01.023	ID:9	 30724 P 7.0 23 545653 7319378 28872 71267 0 55710 21444 306233 643 2896 0 2335 (radio 1.27% / 1.08% tx 0.36% / 0.19% listen 0.90% / 0.88%)
+04:01.029	ID:5	 30724 P 7.0 23 680628 7184413 26524 79453 0 59986 25361 302316 0 2368 0 2271 (radio 1.34% / 0.72% tx 0.33% / 0.00% listen 1.01% / 0.72%)
+04:01.111	ID:9	timer triggered!
+04:01.126	ID:5	timer triggered!
+04:01.214	ID:3	 30724 P 7.0 23 546546 7318485 19322 62283 0 53732 25820 301854 2157 2389 0 2309 (radio 1.03% / 1.38% tx 0.24% / 0.65% listen 0.79% / 0.72%)
+04:01.254	ID:3	timer triggered!
+04:01.256	ID:3	data sent from: 7
+04:01.260	ID:3	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+04:10.387	ID:8	 32004 P 7.0 24 595587 7597127 21251 71894 0 60416 21117 306560 0 2350 0 2350 (radio 1.13% / 0.71% tx 0.25% / 0.00% listen 0.87% / 0.71%)
+04:10.421	ID:8	timer triggered!
+04:10.550	ID:2	 32004 P 7.0 24 623097 7569619 24901 73951 0 59769 22504 305173 0 2160 0 2160 (radio 1.20% / 0.65% tx 0.30% / 0.00% listen 0.90% / 0.65%)
+04:10.566	ID:6	 32004 P 7.0 24 656709 7536007 35776 81152 0 59056 26430 301247 2066 3801 0 2263 (radio 1.42% / 1.79% tx 0.43% / 0.63% listen 0.99% / 1.15%)
+04:10.591	ID:2	timer triggered!
+04:10.630	ID:6	timer triggered!
+04:10.631	ID:6	data sent from: 7
+04:10.635	ID:6	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+04:10.662	ID:4	 32004 P 7.0 24 611861 7580853 35649 80317 0 58254 21120 306558 0 2160 0 2160 (radio 1.41% / 0.65% tx 0.43% / 0.00% listen 0.98% / 0.65%)
+04:10.696	ID:1	 32004 P 7.0 24 575227 7617484 25430 70501 0 55938 19902 307775 0 2160 0 2160 (radio 1.17% / 0.65% tx 0.31% / 0.00% listen 0.86% / 0.65%)
+04:10.716	ID:7	 32004 P 7.0 24 571048 7621663 31743 71817 0 54777 19801 307876 0 2160 0 2160 (radio 1.26% / 0.65% tx 0.38% / 0.00% listen 0.87% / 0.65%)
+04:10.728	ID:4	timer triggered!
+04:10.746	ID:1	timer triggered!
+04:10.835	ID:7	timer triggered!
+04:10.836	ID:7	data sent from: 7
+04:10.840	ID:7	node 7.0 fwdto-> node 8.0 (1 in list), hops 1
+04:11.022	ID:9	 32004 P 7.0 24 565502 7627209 28872 73617 0 58060 19846 307831 0 2350 0 2350 (radio 1.25% / 0.71% tx 0.35% / 0.00% listen 0.89% / 0.71%)
+04:11.029	ID:5	 32004 P 7.0 24 705779 7486942 26524 81941 0 62474 25148 302529 0 2488 0 2488 (radio 1.32% / 0.75% tx 0.32% / 0.00% listen 1.00% / 0.75%)
+04:11.111	ID:9	timer triggered!
+04:11.113	ID:9	data sent from: 7
+04:11.117	ID:9	node 7.0 fwdto-> node 6.0 (2 in list), hops 1
+04:11.126	ID:5	timer triggered!
+04:11.214	ID:3	 32004 P 7.0 24 567331 7625380 19506 64862 0 56068 20782 306895 184 2579 0 2336 (radio 1.02% / 0.84% tx 0.23% / 0.05% listen 0.79% / 0.78%)
+04:11.263	ID:3	timer triggered!
+04:11.264	ID:3	data sent from: 7
+04:11.268	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+04:19.374	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+04:19.376	ID:5	 Neighbour  7.0 found. 
+04:19.382	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+04:19.384	ID:4	 Neighbour  7.0 found. 
+04:19.409	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+04:19.411	ID:6	 Neighbour  7.0 found. 
+04:19.417	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+04:19.419	ID:1	 Neighbour  7.0 found. 
+04:19.431	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+04:19.433	ID:3	 Neighbour  7.0 found. 
+04:20.387	ID:8	 33284 P 7.0 25 617777 7902620 21251 74359 0 62881 22187 305493 0 2465 0 2465 (radio 1.12% / 0.75% tx 0.24% / 0.00% listen 0.87% / 0.75%)
+04:20.421	ID:8	timer triggered!
+04:20.551	ID:2	 33284 P 7.0 25 650994 7869403 27061 76338 0 62078 27894 299784 2160 2387 0 2309 (radio 1.21% / 1.38% tx 0.31% / 0.65% listen 0.89% / 0.72%)
+04:20.566	ID:6	 33284 P 7.0 25 684252 7836148 37703 85135 0 61430 27540 300141 1927 3983 0 2374 (radio 1.44% / 1.80% tx 0.44% / 0.58% listen 0.99% / 1.21%)
+04:20.591	ID:2	timer triggered!
+04:20.637	ID:6	timer triggered!
+04:20.638	ID:6	data sent from: 7
+04:20.642	ID:6	node 7.0 fwdto-> node 5.0 (2 in list), hops 1
+04:20.662	ID:4	 33284 P 7.0 25 634233 7886164 35649 82783 0 60563 22370 305311 0 2466 0 2309 (radio 1.38% / 0.75% tx 0.41% / 0.00% listen 0.97% / 0.75%)
+04:20.696	ID:1	 33284 P 7.0 25 596435 7923960 25430 72821 0 58085 21205 306476 0 2320 0 2147 (radio 1.15% / 0.70% tx 0.29% / 0.00% listen 0.85% / 0.70%)
+04:20.717	ID:7	 33284 P 7.0 25 596506 7923889 34173 75748 0 56910 25455 302226 2430 3931 0 2133 (radio 1.29% / 1.94% tx 0.40% / 0.74% listen 0.88% / 1.19%)
+04:20.728	ID:4	timer triggered!
+04:20.729	ID:4	data sent from: 7
+04:20.733	ID:4	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+04:20.746	ID:1	timer triggered!
+04:20.843	ID:7	timer triggered!
+04:20.845	ID:7	data sent from: 7
+04:20.849	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+04:21.023	ID:9	 33284 P 7.0 25 587857 7932538 29421 76467 0 60410 22352 305329 549 2850 0 2350 (radio 1.24% / 1.03% tx 0.34% / 0.16% listen 0.89% / 0.86%)
+04:21.029	ID:5	 33284 P 7.0 25 732212 7788192 26524 84713 0 65089 26430 301250 0 2772 0 2615 (radio 1.30% / 0.84% tx 0.31% / 0.00% listen 0.99% / 0.84%)
+04:21.119	ID:9	timer triggered!
+04:21.126	ID:5	timer triggered!
+04:21.214	ID:3	 33284 P 7.0 25 593042 7927353 21941 69052 0 58364 25708 301973 2435 4190 0 2296 (radio 1.06% / 2.02% tx 0.25% / 0.74% listen 0.81% / 1.27%)
+04:21.270	ID:3	timer triggered!
+04:21.272	ID:3	data sent from: 7
+04:21.275	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+04:28.769	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+04:28.771	ID:2	 Neighbour  7.0 found. 
+04:28.808	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+04:28.810	ID:3	 Neighbour  7.0 found. 
+04:28.857	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+04:28.859	ID:8	 Neighbour  7.0 found. 
+04:28.868	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+04:28.870	ID:9	 Neighbour  7.0 found. 
+04:28.873	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+04:28.875	ID:5	 Neighbour  7.0 found. 
+04:30.387	ID:8	 34564 P 7.0 26 640446 8207630 21251 77125 0 65477 22666 305010 0 2766 0 2596 (radio 1.11% / 0.84% tx 0.24% / 0.00% listen 0.87% / 0.84%)
+04:30.421	ID:8	timer triggered!
+04:30.550	ID:2	 34564 P 7.0 26 673753 8174323 27061 78934 0 64577 22756 304920 0 2596 0 2499 (radio 1.19% / 0.79% tx 0.30% / 0.00% listen 0.89% / 0.79%)
+04:30.566	ID:6	 34564 P 7.0 26 715672 8132404 41605 88780 0 63666 31417 296256 3902 3645 0 2236 (radio 1.47% / 2.30% tx 0.47% / 1.19% listen 1.00% / 1.11%)
+04:30.591	ID:2	timer triggered!
+04:30.646	ID:6	timer triggered!
+04:30.647	ID:6	data sent from: 7
+04:30.652	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+04:30.664	ID:4	 34564 P 7.0 26 660941 8187135 37716 86597 0 62696 26705 300971 2067 3814 0 2133 (radio 1.40% / 1.79% tx 0.42% / 0.63% listen 0.97% / 1.16%)
+04:30.696	ID:1	 34564 P 7.0 26 617681 8230393 25430 75107 0 60371 21243 306433 0 2286 0 2286 (radio 1.13% / 0.69% tx 0.28% / 0.00% listen 0.84% / 0.69%)
+04:30.717	ID:7	 34564 P 7.0 26 618815 8229259 34495 78260 0 59083 22306 305370 322 2512 0 2173 (radio 1.27% / 0.86% tx 0.38% / 0.09% listen 0.88% / 0.76%)
+04:30.735	ID:4	timer triggered!
+04:30.746	ID:1	timer triggered!
+04:30.747	ID:1	data sent from: 7
+04:30.751	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+04:30.851	ID:7	timer triggered!
+04:31.023	ID:9	 34564 P 7.0 26 609187 8238887 29421 78973 0 62739 21327 306349 0 2506 0 2329 (radio 1.22% / 0.76% tx 0.33% / 0.00% listen 0.89% / 0.76%)
+04:31.029	ID:5	 34564 P 7.0 26 758882 8089201 26524 87278 0 67517 26667 301009 0 2565 0 2428 (radio 1.28% / 0.78% tx 0.29% / 0.00% listen 0.98% / 0.78%)
+04:31.119	ID:9	timer triggered!
+04:31.126	ID:5	timer triggered!
+04:31.215	ID:3	 34564 P 7.0 26 618760 8229314 24232 73184 0 60660 25715 301961 2291 4132 0 2296 (radio 1.10% / 1.96% tx 0.27% / 0.69% listen 0.82% / 1.26%)
+04:31.279	ID:3	timer triggered!
+04:40.387	ID:8	 35844 P 7.0 27 662832 8512924 21251 79461 0 67813 22383 305294 0 2336 0 2336 (radio 1.09% / 0.71% tx 0.23% / 0.00% listen 0.86% / 0.71%)
+04:40.421	ID:8	timer triggered!
+04:40.550	ID:2	 35844 P 7.0 27 696318 8479438 27061 81232 0 66875 22562 305115 0 2298 0 2298 (radio 1.18% / 0.70% tx 0.29% / 0.00% listen 0.88% / 0.70%)
+04:40.566	ID:6	 35844 P 7.0 27 741276 8434480 43168 92137 0 65826 25601 302076 1563 3357 0 2160 (radio 1.47% / 1.50% tx 0.47% / 0.47% listen 1.00% / 1.02%)
+04:40.591	ID:2	timer triggered!
+04:40.654	ID:6	timer triggered!
+04:40.655	ID:6	data sent from: 7
+04:40.659	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+04:40.662	ID:4	 35844 P 7.0 27 683377 8492379 37716 88757 0 64856 22433 305244 0 2160 0 2160 (radio 1.37% / 0.65% tx 0.41% / 0.00% listen 0.96% / 0.65%)
+04:40.697	ID:1	 35844 P 7.0 27 639588 8536166 25521 77446 0 62531 21904 305773 91 2339 0 2160 (radio 1.12% / 0.74% tx 0.27% / 0.02% listen 0.84% / 0.71%)
+04:40.716	ID:7	 35844 P 7.0 27 639946 8535808 34495 80420 0 61243 21128 306549 0 2160 0 2160 (radio 1.25% / 0.65% tx 0.37% / 0.00% listen 0.87% / 0.65%)
+04:40.735	ID:4	timer triggered!
+04:40.736	ID:4	data sent from: 7
+04:40.740	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+04:40.753	ID:1	timer triggered!
+04:40.851	ID:7	timer triggered!
+04:41.023	ID:9	 35844 P 7.0 27 630285 8545469 29421 81323 0 65089 21095 306582 0 2350 0 2350 (radio 1.20% / 0.71% tx 0.32% / 0.00% listen 0.88% / 0.71%)
+04:41.029	ID:5	 35844 P 7.0 27 785333 8390430 26524 89539 0 69778 26448 301229 0 2261 0 2261 (radio 1.26% / 0.69% tx 0.28% / 0.00% listen 0.97% / 0.69%)
+04:41.119	ID:9	timer triggered!
+04:41.126	ID:5	timer triggered!
+04:41.127	ID:5	data sent from: 7
+04:41.131	ID:5	node 7.0 fwdto-> node 1.0 (5 in list), hops 1
+04:41.213	ID:3	 35844 P 7.0 27 639894 8535860 24232 75520 0 62996 21131 306546 0 2336 0 2336 (radio 1.08% / 0.71% tx 0.26% / 0.00% listen 0.82% / 0.71%)
+04:41.279	ID:3	timer triggered!
+04:41.280	ID:3	data sent from: 7
+04:41.284	ID:3	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+04:48.384	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+04:48.386	ID:4	 Neighbour  7.0 found. 
+04:48.395	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+04:48.397	ID:2	 Neighbour  7.0 found. 
+04:48.499	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+04:48.501	ID:5	 Neighbour  7.0 found. 
+04:50.387	ID:8	 37124 P 7.0 28 685199 8818237 21251 81797 0 70149 22364 305313 0 2336 0 2336 (radio 1.08% / 0.71% tx 0.22% / 0.00% listen 0.86% / 0.71%)
+04:50.421	ID:8	timer triggered!
+04:50.550	ID:2	 37124 P 7.0 28 719039 8784397 27061 83874 0 69360 22718 304959 0 2642 0 2485 (radio 1.16% / 0.80% tx 0.28% / 0.00% listen 0.88% / 0.80%)
+04:50.566	ID:6	 37124 P 7.0 28 766656 8736780 44593 95689 0 68278 25377 302300 1425 3552 0 2452 (radio 1.47% / 1.51% tx 0.46% / 0.43% listen 1.00% / 1.08%)
+04:50.591	ID:2	timer triggered!
+04:50.661	ID:6	timer triggered!
+04:50.663	ID:4	 37124 P 7.0 28 707668 8795768 38405 91768 0 67092 24288 303389 689 3011 0 2236 (radio 1.36% / 1.12% tx 0.40% / 0.21% listen 0.96% / 0.91%)
+04:50.697	ID:1	 37124 P 7.0 28 665087 8838344 27672 79911 0 64916 25496 302178 2151 2465 0 2385 (radio 1.13% / 1.40% tx 0.29% / 0.65% listen 0.84% / 0.75%)
+04:50.716	ID:7	 37124 P 7.0 28 661038 8842396 34495 82580 0 63403 21089 306588 0 2160 0 2160 (radio 1.23% / 0.65% tx 0.36% / 0.00% listen 0.86% / 0.65%)
+04:50.743	ID:4	timer triggered!
+04:50.753	ID:1	timer triggered!
+04:50.851	ID:7	timer triggered!
+04:51.022	ID:9	 37124 P 7.0 28 651365 8852069 29421 83483 0 67249 21077 306600 0 2160 0 2160 (radio 1.18% / 0.65% tx 0.30% / 0.00% listen 0.87% / 0.65%)
+04:51.030	ID:5	 37124 P 7.0 28 813101 8690342 26890 92389 0 72101 27765 299912 366 2850 0 2323 (radio 1.25% / 0.98% tx 0.28% / 0.11% listen 0.97% / 0.86%)
+04:51.119	ID:9	timer triggered!
+04:51.133	ID:5	timer triggered!
+04:51.215	ID:3	 37124 P 7.0 28 665034 8838400 26346 79236 0 65129 25137 302540 2114 3716 0 2133 (radio 1.11% / 1.77% tx 0.27% / 0.64% listen 0.83% / 1.13%)
+04:51.286	ID:3	timer triggered!
+04:51.287	ID:3	data sent from: 7
+04:51.291	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+05:00.387	ID:8	 38404 P 7.0 29 707566 9123550 21251 83957 0 72309 22364 305313 0 2160 0 2160 (radio 1.07% / 0.65% tx 0.21% / 0.00% listen 0.85% / 0.65%)
+05:00.421	ID:8	timer triggered!
+05:00.550	ID:2	 38404 P 7.0 29 741531 9089585 27061 86210 0 71696 22489 305188 0 2336 0 2336 (radio 1.15% / 0.71% tx 0.27% / 0.00% listen 0.87% / 0.71%)
+05:00.565	ID:6	 38404 P 7.0 29 789098 9042018 44593 97956 0 70545 22439 305238 0 2267 0 2267 (radio 1.44% / 0.69% tx 0.45% / 0.00% listen 0.99% / 0.69%)
+05:00.591	ID:2	timer triggered!
+05:00.661	ID:6	timer triggered!
+05:00.662	ID:4	 38404 P 7.0 29 730063 9101053 38405 93928 0 69252 22392 305285 0 2160 0 2160 (radio 1.34% / 0.65% tx 0.39% / 0.00% listen 0.95% / 0.65%)
+05:00.696	ID:1	 38404 P 7.0 29 685024 9146087 27672 82071 0 67076 19934 307743 0 2160 0 2160 (radio 1.11% / 0.65% tx 0.28% / 0.00% listen 0.83% / 0.65%)
+05:00.716	ID:7	 38404 P 7.0 29 682129 9148985 34495 84740 0 65563 21088 306589 0 2160 0 2160 (radio 1.21% / 0.65% tx 0.35% / 0.00% listen 0.86% / 0.65%)
+05:00.743	ID:4	timer triggered!
+05:00.745	ID:4	data sent from: 7
+05:00.749	ID:4	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+05:00.753	ID:1	timer triggered!
+05:00.851	ID:7	timer triggered!
+05:01.022	ID:9	 38404 P 7.0 29 672444 9158670 29421 85643 0 69409 21076 306601 0 2160 0 2160 (radio 1.17% / 0.65% tx 0.29% / 0.00% listen 0.87% / 0.65%)
+05:01.029	ID:5	 38404 P 7.0 29 839521 8991602 26890 94745 0 74457 26417 301260 0 2356 0 2356 (radio 1.23% / 0.71% tx 0.27% / 0.00% listen 0.96% / 0.71%)
+05:01.119	ID:9	timer triggered!
+05:01.120	ID:9	data sent from: 7
+05:01.124	ID:9	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+05:01.133	ID:5	timer triggered!
+05:01.215	ID:3	 38404 P 7.0 29 689989 9141125 28322 82846 0 67262 24952 302725 1976 3610 0 2133 (radio 1.13% / 1.70% tx 0.28% / 0.60% listen 0.84% / 1.10%)
+05:01.294	ID:3	timer triggered!
+05:01.295	ID:3	data sent from: 7
+05:01.300	ID:3	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+05:10.387	ID:8	 39684 P 7.0 30 729952 9428844 21251 86117 0 74469 22383 305294 0 2160 0 2160 (radio 1.05% / 0.65% tx 0.20% / 0.00% listen 0.84% / 0.65%)
+05:10.421	ID:8	timer triggered!
+05:10.550	ID:2	 39684 P 7.0 30 764044 9394752 27061 88722 0 74208 22510 305167 0 2512 0 2512 (radio 1.13% / 0.76% tx 0.26% / 0.00% listen 0.87% / 0.76%)
+05:10.565	ID:6	 39684 P 7.0 30 811570 9347226 44593 100370 0 72959 22469 305208 0 2414 0 2414 (radio 1.42% / 0.73% tx 0.43% / 0.00% listen 0.98% / 0.73%)
+05:10.591	ID:2	timer triggered!
+05:10.593	ID:2	data sent from: 7
+05:10.597	ID:2	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+05:10.661	ID:6	timer triggered!
+05:10.662	ID:6	data sent from: 7
+05:10.663	ID:4	 39684 P 7.0 30 753883 9404913 38908 96741 0 71602 23817 303860 503 2813 0 2350 (radio 1.33% / 1.01% tx 0.38% / 0.15% listen 0.95% / 0.85%)
+05:10.666	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+05:10.696	ID:1	 39684 P 7.0 30 705044 9453747 27672 84444 0 69352 20017 307660 0 2373 0 2276 (radio 1.10% / 0.72% tx 0.27% / 0.00% listen 0.83% / 0.72%)
+05:10.716	ID:7	 39684 P 7.0 30 703240 9455554 34495 86900 0 67723 21108 306569 0 2160 0 2160 (radio 1.19% / 0.65% tx 0.33% / 0.00% listen 0.85% / 0.65%)
+05:10.751	ID:4	timer triggered!
+05:10.753	ID:1	timer triggered!
+05:10.851	ID:7	timer triggered!
+05:11.023	ID:9	 39684 P 7.0 30 694776 9464018 29835 88396 0 71759 22329 305348 414 2753 0 2350 (radio 1.16% / 0.96% tx 0.29% / 0.12% listen 0.87% / 0.84%)
+05:11.029	ID:5	 39684 P 7.0 30 865983 9292820 26890 97367 0 77079 26459 301218 0 2622 0 2622 (radio 1.22% / 0.80% tx 0.26% / 0.00% listen 0.95% / 0.80%)
+05:11.126	ID:9	timer triggered!
+05:11.133	ID:5	timer triggered!
+05:11.214	ID:3	 39684 P 7.0 30 714698 9444096 30108 86352 0 69422 24706 302971 1786 3506 0 2160 (radio 1.14% / 1.61% tx 0.29% / 0.54% listen 0.85% / 1.06%)
+05:11.302	ID:3	timer triggered!
+05:20.387	ID:8	 40964 P 7.0 31 752318 9734158 21251 88453 0 76805 22363 305314 0 2336 0 2336 (radio 1.04% / 0.71% tx 0.20% / 0.00% listen 0.84% / 0.71%)
+05:20.421	ID:8	timer triggered!
+05:20.422	ID:8	data sent from: 7
+05:20.426	ID:8	node 7.0 fwdto-> node 5.0 (2 in list), hops 1
+05:20.551	ID:2	 40964 P 7.0 31 788746 9697730 28071 91670 0 76341 24699 302978 1010 2948 0 2133 (radio 1.14% / 1.20% tx 0.26% / 0.30% listen 0.87% / 0.89%)
+05:20.566	ID:6	 40964 P 7.0 31 836624 9649852 45879 103716 0 75295 25051 302626 1286 3346 0 2336 (radio 1.42% / 1.41% tx 0.43% / 0.39% listen 0.98% / 1.02%)
+05:20.600	ID:2	timer triggered!
+05:20.662	ID:4	 40964 P 7.0 31 776313 9710163 38908 98901 0 73762 22427 305250 0 2160 0 2160 (radio 1.31% / 0.65% tx 0.37% / 0.00% listen 0.94% / 0.65%)
+05:20.668	ID:6	timer triggered!
+05:20.696	ID:1	 40964 P 7.0 31 724943 9761528 27672 86604 0 71609 19896 307781 0 2160 0 2257 (radio 1.08% / 0.65% tx 0.26% / 0.00% listen 0.82% / 0.65%)
+05:20.716	ID:7	 40964 P 7.0 31 724338 9762136 34495 89060 0 69883 21095 306582 0 2160 0 2160 (radio 1.17% / 0.65% tx 0.32% / 0.00% listen 0.84% / 0.65%)
+05:20.751	ID:4	timer triggered!
+05:20.753	ID:1	timer triggered!
+05:20.754	ID:1	data sent from: 7
+05:20.758	ID:1	node 7.0 fwdto-> node 2.0 (2 in list), hops 1
+05:20.851	ID:7	timer triggered!
+05:20.852	ID:7	data sent from: 7
+05:20.856	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+05:21.023	ID:9	 40964 P 7.0 31 715891 9770583 29835 90746 0 74109 21112 306565 0 2350 0 2350 (radio 1.14% / 0.71% tx 0.28% / 0.00% listen 0.86% / 0.71%)
+05:21.029	ID:5	 40964 P 7.0 31 892516 9593967 26890 99897 0 79302 26530 301147 0 2530 0 2223 (radio 1.20% / 0.77% tx 0.25% / 0.00% listen 0.95% / 0.77%)
+05:21.126	ID:9	timer triggered!
+05:21.133	ID:5	timer triggered!
+05:21.213	ID:3	 40964 P 7.0 31 735849 9750625 30108 88512 0 71582 21148 306529 0 2160 0 2160 (radio 1.13% / 0.65% tx 0.28% / 0.00% listen 0.84% / 0.65%)
+05:21.302	ID:3	timer triggered!
+05:30.388	ID:8	 42244 P 7.0 32 777118 10037038 22349 91795 0 79264 24797 302880 1098 3342 0 2459 (radio 1.05% / 1.35% tx 0.20% / 0.33% listen 0.84% / 1.01%)
+05:30.428	ID:8	timer triggered!
+05:30.429	ID:8	data sent from: 7
+05:30.433	ID:8	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+05:30.551	ID:2	 42244 P 7.0 32 811316 10002840 28071 93950 0 78621 22567 305110 0 2280 0 2280 (radio 1.12% / 0.69% tx 0.25% / 0.00% listen 0.86% / 0.69%)
+05:30.565	ID:6	 42244 P 7.0 32 859038 9955118 45879 105876 0 77455 22411 305266 0 2160 0 2160 (radio 1.40% / 0.65% tx 0.42% / 0.00% listen 0.97% / 0.65%)
+05:30.600	ID:2	timer triggered!
+05:30.663	ID:4	 42244 P 7.0 32 798719 10015437 38908 101603 0 76464 22403 305274 0 2702 0 2702 (radio 1.29% / 0.82% tx 0.35% / 0.00% listen 0.93% / 0.82%)
+05:30.668	ID:6	timer triggered!
+05:30.670	ID:6	data sent from: 7
+05:30.674	ID:6	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+05:30.698	ID:1	 42244 P 7.0 32 757491 10056660 34455 93673 0 73688 32545 295132 6783 7069 0 2079 (radio 1.18% / 4.22% tx 0.31% / 2.07% listen 0.86% / 2.15%)
+05:30.717	ID:7	 42244 P 7.0 32 757622 10056532 41177 95918 0 71962 33281 294396 6682 6858 0 2079 (radio 1.26% / 4.13% tx 0.38% / 2.03% listen 0.88% / 2.09%)
+05:30.751	ID:4	timer triggered!
+05:30.761	ID:1	timer triggered!
+05:30.763	ID:1	data sent from: 7
+05:30.767	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+05:30.859	ID:7	timer triggered!
+05:31.023	ID:9	 42244 P 7.0 32 736983 10077171 29835 93292 0 76655 21089 306588 0 2546 0 2546 (radio 1.13% / 0.77% tx 0.27% / 0.00% listen 0.86% / 0.77%)
+05:31.030	ID:5	 42244 P 7.0 32 919018 9895145 26890 102651 0 82363 26499 301178 0 2754 0 3061 (radio 1.19% / 0.84% tx 0.24% / 0.00% listen 0.94% / 0.84%)
+05:31.126	ID:9	timer triggered!
+05:31.133	ID:5	timer triggered!
+05:31.214	ID:3	 42244 P 7.0 32 756966 10057188 30108 90672 0 73742 21114 306563 0 2160 0 2160 (radio 1.11% / 0.65% tx 0.27% / 0.00% listen 0.83% / 0.65%)
+05:31.302	ID:3	timer triggered!
+05:40.388	ID:8	 43524 P 7.0 33 801691 10340145 23311 94885 0 81573 24570 303107 962 3090 0 2309 (radio 1.06% / 1.23% tx 0.20% / 0.29% listen 0.85% / 0.94%)
+05:40.436	ID:8	timer triggered!
+05:40.551	ID:2	 43524 P 7.0 33 833888 10307948 28071 96261 0 80932 22569 305108 0 2311 0 2311 (radio 1.11% / 0.70% tx 0.25% / 0.00% listen 0.86% / 0.70%)
+05:40.567	ID:6	 43524 P 7.0 33 883881 10257955 47025 108943 0 79615 24840 302837 1146 3067 0 2160 (radio 1.39% / 1.28% tx 0.42% / 0.34% listen 0.97% / 0.93%)
+05:40.600	ID:2	timer triggered!
+05:40.663	ID:4	 43524 P 7.0 33 821170 10320666 38908 103939 0 78800 22448 305229 0 2336 0 2336 (radio 1.28% / 0.71% tx 0.34% / 0.00% listen 0.93% / 0.71%)
+05:40.677	ID:6	timer triggered!
+05:40.698	ID:1	 43524 P 7.0 33 781964 10359867 36662 97460 0 75821 24470 303207 2207 3787 0 2133 (radio 1.20% / 1.82% tx 0.32% / 0.67% listen 0.87% / 1.15%)
+05:40.716	ID:7	 43524 P 7.0 33 778884 10362950 41177 98078 0 74122 21259 306418 0 2160 0 2160 (radio 1.24% / 0.65% tx 0.36% / 0.00% listen 0.88% / 0.65%)
+05:40.751	ID:4	timer triggered!
+05:40.769	ID:1	timer triggered!
+05:40.859	ID:7	timer triggered!
+05:40.860	ID:7	data sent from: 7
+05:40.864	ID:7	node 7.0 fwdto-> node 8.0 (3 in list), hops 1
+05:41.023	ID:9	 43524 P 7.0 33 758106 10383728 29835 95452 0 78815 21120 306557 0 2160 0 2160 (radio 1.12% / 0.65% tx 0.26% / 0.00% listen 0.85% / 0.65%)
+05:41.030	ID:5	 43524 P 7.0 33 945444 10196399 26890 104811 0 84523 26423 301254 0 2160 0 2160 (radio 1.18% / 0.65% tx 0.24% / 0.00% listen 0.94% / 0.65%)
+05:41.126	ID:9	timer triggered!
+05:41.127	ID:9	data sent from: 7
+05:41.131	ID:9	node 7.0 fwdto-> node 6.0 (2 in list), hops 1
+05:41.133	ID:5	timer triggered!
+05:41.214	ID:3	 43524 P 7.0 33 778116 10363718 30108 92832 0 75902 21147 306530 0 2160 0 2160 (radio 1.10% / 0.65% tx 0.27% / 0.00% listen 0.83% / 0.65%)
+05:41.302	ID:3	timer triggered!
+05:41.304	ID:3	data sent from: 7
+05:41.308	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+05:44.683	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.685	ID:3	 Neighbour  7.0 found. 
+05:44.686	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.688	ID:7	 Neighbour  7.0 found. 
+05:44.730	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.731	ID:8	 Neighbour  7.0 found. 
+05:44.744	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.745	ID:9	 Neighbour  7.0 found. 
+05:44.757	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.759	ID:4	 Neighbour  7.0 found. 
+05:44.771	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.773	ID:2	 Neighbour  7.0 found. 
+05:44.785	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.786	ID:6	 Neighbour  7.0 found. 
+05:44.793	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+05:44.794	ID:1	 Neighbour  7.0 found. 
+05:50.387	ID:8	 44804 P 7.0 34 824367 10645149 23311 97185 0 83776 22673 305004 0 2300 0 2203 (radio 1.05% / 0.70% tx 0.20% / 0.00% listen 0.84% / 0.70%)
+05:50.436	ID:8	timer triggered!
+05:50.551	ID:2	 44804 P 7.0 34 856613 10612903 28071 98736 0 83255 22722 304955 0 2475 0 2323 (radio 1.10% / 0.75% tx 0.24% / 0.00% listen 0.86% / 0.75%)
+05:50.566	ID:6	 44804 P 7.0 34 906654 10562862 47025 111495 0 82002 22770 304907 0 2552 0 2387 (radio 1.38% / 0.77% tx 0.40% / 0.00% listen 0.97% / 0.77%)
+05:50.600	ID:2	timer triggered!
+05:50.601	ID:2	data sent from: 7
+05:50.605	ID:2	node 7.0 fwdto-> node 1.0 (5 in list), hops 1
+05:50.663	ID:4	 44804 P 7.0 34 843838 10625678 38908 106412 0 81109 22665 305012 0 2473 0 2309 (radio 1.26% / 0.75% tx 0.33% / 0.00% listen 0.92% / 0.75%)
+05:50.677	ID:6	timer triggered!
+05:50.678	ID:6	data sent from: 7
+05:50.682	ID:6	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+05:50.696	ID:1	 44804 P 7.0 34 802472 10667039 36662 99893 0 77941 20505 307172 0 2433 0 2120 (radio 1.19% / 0.74% tx 0.31% / 0.00% listen 0.87% / 0.74%)
+05:50.718	ID:7	 44804 P 7.0 34 804092 10665422 43116 101815 0 76228 25205 302472 1939 3737 0 2106 (radio 1.26% / 1.73% tx 0.37% / 0.59% listen 0.88% / 1.14%)
+05:50.751	ID:4	timer triggered!
+05:50.769	ID:1	timer triggered!
+05:50.866	ID:7	timer triggered!
+05:51.024	ID:9	 44804 P 7.0 34 780363 10689151 30065 98214 0 81138 22254 305423 230 2762 0 2323 (radio 1.11% / 0.91% tx 0.26% / 0.07% listen 0.85% / 0.84%)
+05:51.031	ID:5	 44804 P 7.0 34 975563 10493958 29050 107532 0 87160 30116 297559 2160 2721 0 2637 (radio 1.19% / 1.48% tx 0.25% / 0.65% listen 0.93% / 0.83%)
+05:51.133	ID:5	timer triggered!
+05:51.135	ID:9	timer triggered!
+05:51.136	ID:9	data sent from: 7
+05:51.140	ID:9	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+05:51.215	ID:3	 44804 P 7.0 34 802832 10666682 31803 96542 0 78165 24713 302964 1695 3710 0 2263 (radio 1.11% / 1.64% tx 0.27% / 0.51% listen 0.84% / 1.13%)
+05:51.310	ID:3	timer triggered!
+05:51.311	ID:3	data sent from: 7
+05:51.315	ID:3	node 7.0 fwdto-> node 6.0 (2 in list), hops 1
+06:00.387	ID:8	 46084 P 7.0 35 846742 10950454 23311 99535 0 86126 22372 305305 0 2350 0 2350 (radio 1.04% / 0.71% tx 0.19% / 0.00% listen 0.84% / 0.71%)
+06:00.436	ID:8	timer triggered!
+06:00.552	ID:2	 46084 P 7.0 35 881093 10916103 28941 101760 0 85564 24477 303200 870 3024 0 2309 (radio 1.10% / 1.18% tx 0.24% / 0.26% listen 0.86% / 0.92%)
+06:00.567	ID:6	 46084 P 7.0 35 931363 10865833 48033 114911 0 84602 24706 302971 1008 3416 0 2600 (radio 1.38% / 1.35% tx 0.40% / 0.30% listen 0.97% / 1.04%)
+06:00.607	ID:2	timer triggered!
+06:00.608	ID:2	data sent from: 7
+06:00.612	ID:2	node 7.0 fwdto-> node 1.0 (5 in list), hops 1
+06:00.663	ID:4	 46084 P 7.0 35 866267 10930929 38908 108748 0 83445 22426 305251 0 2336 0 2336 (radio 1.25% / 0.71% tx 0.32% / 0.00% listen 0.92% / 0.71%)
+06:00.684	ID:6	timer triggered!
+06:00.685	ID:6	data sent from: 7
+06:00.689	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+06:00.697	ID:1	 46084 P 7.0 35 822731 10974460 36662 102173 0 80210 20256 307421 0 2280 0 2269 (radio 1.17% / 0.69% tx 0.31% / 0.00% listen 0.86% / 0.69%)
+06:00.717	ID:7	 46084 P 7.0 35 825354 10971840 43116 103975 0 78388 21259 306418 0 2160 0 2160 (radio 1.24% / 0.65% tx 0.36% / 0.00% listen 0.88% / 0.65%)
+06:00.751	ID:4	timer triggered!
+06:00.769	ID:1	timer triggered!
+06:00.770	ID:1	data sent from: 7
+06:00.774	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+06:00.866	ID:7	timer triggered!
+06:01.024	ID:9	 46084 P 7.0 35 802174 10995020 30157 100729 0 83474 21808 305869 92 2515 0 2336 (radio 1.10% / 0.79% tx 0.25% / 0.02% listen 0.85% / 0.76%)
+06:01.030	ID:5	 46084 P 7.0 35 1000772 10796429 29050 110191 0 89819 25206 302471 0 2659 0 2659 (radio 1.18% / 0.81% tx 0.24% / 0.00% listen 0.93% / 0.81%)
+06:01.133	ID:5	timer triggered!
+06:01.134	ID:5	data sent from: 7
+06:01.138	ID:5	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+06:01.142	ID:9	timer triggered!
+06:01.215	ID:3	 46084 P 7.0 35 827027 10970167 33323 99868 0 80325 24192 303485 1520 3326 0 2160 (radio 1.12% / 1.47% tx 0.28% / 0.46% listen 0.84% / 1.01%)
+06:01.317	ID:3	timer triggered!
+06:08.750	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+06:08.752	ID:5	 Neighbour  7.0 found. 
+06:08.770	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+06:08.771	ID:2	 Neighbour  7.0 found. 
+06:08.786	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+06:08.788	ID:6	 Neighbour  7.0 found. 
+06:10.388	ID:8	 47364 P 7.0 36 869141 11255735 23311 101891 0 88482 22396 305281 0 2356 0 2356 (radio 1.03% / 0.71% tx 0.19% / 0.00% listen 0.84% / 0.71%)
+06:10.436	ID:8	timer triggered!
+06:10.438	ID:8	data sent from: 7
+06:10.442	ID:8	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+06:10.552	ID:2	 47364 P 7.0 36 905705 11219171 29674 104776 0 87812 24609 303068 733 3016 0 2248 (radio 1.10% / 1.14% tx 0.24% / 0.22% listen 0.86% / 0.92%)
+06:10.566	ID:6	 47364 P 7.0 36 956033 11168843 48905 118332 0 87135 24667 303010 872 3421 0 2533 (radio 1.37% / 1.31% tx 0.40% / 0.26% listen 0.97% / 1.04%)
+06:10.615	ID:2	timer triggered!
+06:10.663	ID:4	 47364 P 7.0 36 888720 11236156 38908 111084 0 85781 22450 305227 0 2336 0 2336 (radio 1.23% / 0.71% tx 0.32% / 0.00% listen 0.91% / 0.71%)
+06:10.692	ID:6	timer triggered!
+06:10.698	ID:1	 47364 P 7.0 36 846998 11277873 38724 105968 0 82460 24264 303413 2062 3795 0 2250 (radio 1.19% / 1.78% tx 0.31% / 0.62% listen 0.87% / 1.15%)
+06:10.717	ID:7	 47364 P 7.0 36 846603 11278271 43116 106135 0 80548 21246 306431 0 2160 0 2160 (radio 1.23% / 0.65% tx 0.35% / 0.00% listen 0.87% / 0.65%)
+06:10.751	ID:4	timer triggered!
+06:10.777	ID:1	timer triggered!
+06:10.866	ID:7	timer triggered!
+06:10.868	ID:7	data sent from: 7
+06:10.872	ID:7	node 7.0 fwdto-> node 8.0 (3 in list), hops 1
+06:11.023	ID:9	 47364 P 7.0 36 823321 11301553 30157 103065 0 85810 21144 306533 0 2336 0 2336 (radio 1.09% / 0.71% tx 0.24% / 0.00% listen 0.85% / 0.71%)
+06:11.031	ID:5	 47364 P 7.0 36 1027141 11097740 29279 112912 0 92097 26366 301311 229 2721 0 2278 (radio 1.17% / 0.90% tx 0.24% / 0.06% listen 0.93% / 0.83%)
+06:11.141	ID:5	timer triggered!
+06:11.142	ID:9	timer triggered!
+06:11.143	ID:5	data sent from: 7
+06:11.147	ID:5	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+06:11.215	ID:3	 47364 P 7.0 36 852350 11272521 35482 102081 0 82458 25320 302354 2159 2213 0 2133 (radio 1.13% / 1.33% tx 0.29% / 0.65% listen 0.84% / 0.67%)
+06:11.317	ID:3	timer triggered!
+06:11.318	ID:3	data sent from: 7
+06:11.322	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+06:20.388	ID:8	 48644 P 7.0 37 893494 11559062 24135 104851 0 90756 24350 303327 824 2960 0 2274 (radio 1.03% / 1.15% tx 0.19% / 0.25% listen 0.84% / 0.90%)
+06:20.444	ID:8	timer triggered!
+06:20.445	ID:8	data sent from: 7
+06:20.449	ID:8	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+06:20.551	ID:2	 48644 P 7.0 37 928234 11524322 29674 107112 0 90148 22526 305151 0 2336 0 2336 (radio 1.09% / 0.71% tx 0.23% / 0.00% listen 0.86% / 0.71%)
+06:20.566	ID:6	 48644 P 7.0 37 978489 11474067 48905 120599 0 89402 22453 305224 0 2267 0 2267 (radio 1.36% / 0.69% tx 0.39% / 0.00% listen 0.96% / 0.69%)
+06:20.615	ID:2	timer triggered!
+06:20.617	ID:2	data sent from: 7
+06:20.621	ID:2	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+06:20.663	ID:4	 48644 P 7.0 37 911149 11541407 38908 113244 0 87941 22426 305251 0 2160 0 2160 (radio 1.22% / 0.65% tx 0.31% / 0.00% listen 0.90% / 0.65%)
+06:20.692	ID:6	timer triggered!
+06:20.694	ID:6	data sent from: 7
+06:20.697	ID:1	 48644 P 7.0 37 867350 11585201 38724 108384 0 84732 20349 307328 0 2416 0 2272 (radio 1.18% / 0.73% tx 0.31% / 0.00% listen 0.87% / 0.73%)
+06:20.698	ID:6	node 7.0 fwdto-> node 5.0 (5 in list), hops 1
+06:20.718	ID:7	 48644 P 7.0 37 871409 11581145 44946 109649 0 82681 24803 302874 1830 3514 0 2133 (radio 1.24% / 1.63% tx 0.36% / 0.55% listen 0.88% / 1.07%)
+06:20.751	ID:4	timer triggered!
+06:20.753	ID:4	data sent from: 7
+06:20.757	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+06:20.777	ID:1	timer triggered!
+06:20.875	ID:7	timer triggered!
+06:21.023	ID:9	 48644 P 7.0 37 844428 11608126 30157 105597 0 88342 21104 306573 0 2532 0 2532 (radio 1.09% / 0.77% tx 0.24% / 0.00% listen 0.84% / 0.77%)
+06:21.031	ID:5	 48644 P 7.0 37 1053088 11399473 29371 115708 0 94711 25944 301733 92 2796 0 2614 (radio 1.16% / 0.88% tx 0.23% / 0.02% listen 0.92% / 0.85%)
+06:21.142	ID:9	timer triggered!
+06:21.148	ID:5	timer triggered!
+06:21.215	ID:3	 48644 P 7.0 37 875027 11577524 36858 105308 0 84618 22674 305003 1376 3227 0 2160 (radio 1.14% / 1.40% tx 0.29% / 0.41% listen 0.84% / 0.98%)
+06:21.325	ID:3	timer triggered!
+06:30.388	ID:8	 49924 P 7.0 38 917592 11862644 24823 107748 0 93065 24095 303582 688 2897 0 2309 (radio 1.03% / 1.09% tx 0.19% / 0.20% listen 0.84% / 0.88%)
+06:30.452	ID:8	timer triggered!
+06:30.453	ID:8	data sent from: 7
+06:30.457	ID:8	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+06:30.552	ID:2	 49924 P 7.0 38 952266 11827970 30266 109776 0 92281 24029 303648 592 2664 0 2133 (radio 1.09% / 0.99% tx 0.23% / 0.18% listen 0.85% / 0.81%)
+06:30.567	ID:6	 49924 P 7.0 38 1002559 11777677 49591 123530 0 91738 24067 303610 686 2931 0 2336 (radio 1.35% / 1.10% tx 0.38% / 0.20% listen 0.96% / 0.89%)
+06:30.623	ID:2	timer triggered!
+06:30.664	ID:4	 49924 P 7.0 38 934718 11845518 39276 115773 0 90101 23566 304111 368 2529 0 2160 (radio 1.21% / 0.88% tx 0.30% / 0.11% listen 0.90% / 0.77%)
+06:30.697	ID:1	 49924 P 7.0 38 887603 11892628 38724 110675 0 87167 20250 307427 0 2291 0 2435 (radio 1.16% / 0.69% tx 0.30% / 0.00% listen 0.86% / 0.69%)
+06:30.700	ID:6	timer triggered!
+06:30.717	ID:7	 49924 P 7.0 38 892656 11887578 44946 111809 0 84841 21244 306433 0 2160 0 2160 (radio 1.22% / 0.65% tx 0.35% / 0.00% listen 0.87% / 0.65%)
+06:30.759	ID:4	timer triggered!
+06:30.777	ID:1	timer triggered!
+06:30.875	ID:7	timer triggered!
+06:31.023	ID:9	 49924 P 7.0 38 865535 11914699 30157 107933 0 90678 21104 306573 0 2336 0 2336 (radio 1.08% / 0.71% tx 0.23% / 0.00% listen 0.84% / 0.71%)
+06:31.030	ID:5	 49924 P 7.0 38 1078285 11701956 29371 117990 0 96993 25194 302483 0 2282 0 2282 (radio 1.15% / 0.69% tx 0.22% / 0.00% listen 0.92% / 0.69%)
+06:31.142	ID:9	timer triggered!
+06:31.148	ID:5	timer triggered!
+06:31.214	ID:3	 49924 P 7.0 38 894863 11885368 36858 107468 0 86778 19833 307844 0 2160 0 2160 (radio 1.12% / 0.65% tx 0.28% / 0.00% listen 0.84% / 0.65%)
+06:31.325	ID:3	timer triggered!
+06:34.436	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+06:34.438	ID:7	 Neighbour  7.0 found. 
+06:34.492	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+06:34.494	ID:9	 Neighbour  7.0 found. 
+06:34.500	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+06:34.502	ID:5	 Neighbour  7.0 found. 
+06:34.508	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+06:34.510	ID:4	 Neighbour  7.0 found. 
+06:34.536	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+06:34.537	ID:6	 Neighbour  7.0 found. 
+06:40.389	ID:8	 51204 P 7.0 39 945129 12162785 27496 110403 0 95171 27534 300141 2673 2655 0 2106 (radio 1.05% / 1.62% tx 0.20% / 0.81% listen 0.84% / 0.81%)
+06:40.459	ID:8	timer triggered!
+06:40.551	ID:2	 51204 P 7.0 39 974828 12133088 30266 111936 0 94441 22559 305118 0 2160 0 2160 (radio 1.08% / 0.65% tx 0.23% / 0.00% listen 0.85% / 0.65%)
+06:40.566	ID:6	 51204 P 7.0 39 1025242 12082674 49591 125834 0 93885 22680 304997 0 2304 0 2147 (radio 1.33% / 0.70% tx 0.37% / 0.00% listen 0.95% / 0.70%)
+06:40.623	ID:2	timer triggered!
+06:40.624	ID:2	data sent from: 7
+06:40.628	ID:2	node 7.0 fwdto-> node 1.0 (3 in list), hops 1
+06:40.663	ID:4	 51204 P 7.0 39 957396 12150520 39276 118074 0 92248 22675 305002 0 2301 0 2147 (radio 1.20% / 0.70% tx 0.29% / 0.00% listen 0.90% / 0.70%)
+06:40.697	ID:1	 51204 P 7.0 39 907874 12200037 38724 112979 0 89314 20268 307409 0 2304 0 2147 (radio 1.15% / 0.70% tx 0.29% / 0.00% listen 0.86% / 0.70%)
+06:40.700	ID:6	timer triggered!
+06:40.701	ID:6	data sent from: 7
+06:40.705	ID:6	node 7.0 fwdto-> node 5.0 (0 in list), hops 1
+06:40.717	ID:7	 51204 P 7.0 39 914130 12193784 44946 114110 0 86988 21471 306206 0 2301 0 2147 (radio 1.21% / 0.70% tx 0.34% / 0.00% listen 0.87% / 0.70%)
+06:40.759	ID:4	timer triggered!
+06:40.777	ID:1	timer triggered!
+06:40.875	ID:7	timer triggered!
+06:41.023	ID:9	 51204 P 7.0 39 886909 12221005 30157 110388 0 92987 21371 306306 0 2455 0 2309 (radio 1.07% / 0.74% tx 0.23% / 0.00% listen 0.84% / 0.74%)
+06:41.030	ID:5	 51204 P 7.0 39 1103723 12004198 29371 120420 0 99267 25435 302242 0 2430 0 2274 (radio 1.14% / 0.74% tx 0.22% / 0.00% listen 0.91% / 0.74%)
+06:41.142	ID:9	timer triggered!
+06:41.148	ID:5	timer triggered!
+06:41.214	ID:3	 51204 P 7.0 39 914687 12193224 36858 109628 0 88938 19821 307856 0 2160 0 2160 (radio 1.11% / 0.65% tx 0.28% / 0.00% listen 0.83% / 0.65%)
+06:41.325	ID:3	timer triggered!
+06:49.483	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+06:49.485	ID:8	 Neighbour  7.0 found. 
+06:49.499	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+06:49.501	ID:5	 Neighbour  7.0 found. 
+06:49.507	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+06:49.509	ID:4	 Neighbour  7.0 found. 
+06:50.387	ID:8	 52484 P 7.0 40 966503 12469091 27496 112894 0 97494 21371 306306 0 2491 0 2323 (radio 1.04% / 0.76% tx 0.20% / 0.00% listen 0.84% / 0.76%)
+06:50.459	ID:8	timer triggered!
+06:50.552	ID:2	 52484 P 7.0 40 998643 12436953 30724 114506 0 96574 23812 303865 458 2570 0 2133 (radio 1.08% / 0.92% tx 0.22% / 0.13% listen 0.85% / 0.78%)
+06:50.566	ID:6	 52484 P 7.0 40 1049096 12386500 50143 128671 0 96221 23851 303826 552 2837 0 2336 (radio 1.33% / 1.03% tx 0.37% / 0.16% listen 0.95% / 0.86%)
+06:50.631	ID:2	timer triggered!
+06:50.663	ID:4	 52484 P 7.0 40 980023 12455573 39276 120378 0 94381 22624 305053 0 2304 0 2133 (radio 1.18% / 0.70% tx 0.29% / 0.00% listen 0.89% / 0.70%)
+06:50.697	ID:1	 52484 P 7.0 40 928072 12507519 38724 115139 0 91631 20195 307482 0 2160 0 2317 (radio 1.14% / 0.65% tx 0.28% / 0.00% listen 0.85% / 0.65%)
+06:50.708	ID:6	timer triggered!
+06:50.718	ID:7	 52484 P 7.0 40 939658 12495933 47097 116323 0 89121 25525 302149 2151 2213 0 2133 (radio 1.21% / 1.33% tx 0.35% / 0.65% listen 0.86% / 0.67%)
+06:50.759	ID:4	timer triggered!
+06:50.777	ID:1	timer triggered!
+06:50.778	ID:1	data sent from: 7
+06:50.783	ID:1	node 7.0 fwdto-> node 2.0 (2 in list), hops 1
+06:50.875	ID:7	timer triggered!
+06:51.023	ID:9	 52484 P 7.0 40 908017 12527577 30157 112548 0 95147 21105 306572 0 2160 0 2160 (radio 1.06% / 0.65% tx 0.22% / 0.00% listen 0.83% / 0.65%)
+06:51.031	ID:5	 52484 P 7.0 40 1129086 12306515 29371 122917 0 101590 25360 302317 0 2497 0 2323 (radio 1.13% / 0.76% tx 0.21% / 0.00% listen 0.91% / 0.76%)
+06:51.142	ID:9	timer triggered!
+06:51.143	ID:9	data sent from: 7
+06:51.147	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+06:51.148	ID:5	timer triggered!
+06:51.214	ID:3	 52484 P 7.0 40 934485 12501106 36858 111788 0 91098 19795 307882 0 2160 0 2160 (radio 1.10% / 0.65% tx 0.27% / 0.00% listen 0.83% / 0.65%)
+06:51.325	ID:3	timer triggered!
+06:51.327	ID:3	data sent from: 7
+06:51.331	ID:3	node 7.0 fwdto-> node 6.0 (2 in list), hops 1
+07:00.387	ID:8	 53764 P 7.0 41 987599 12775675 27496 115230 0 99830 21093 306584 0 2336 0 2336 (radio 1.03% / 0.71% tx 0.19% / 0.00% listen 0.83% / 0.71%)
+07:00.459	ID:8	timer triggered!
+07:00.461	ID:8	data sent from: 7
+07:00.464	ID:8	node 7.0 fwdto-> node 5.0 (2 in list), hops 1
+07:00.551	ID:2	 53764 P 7.0 41 1021214 12742062 30724 116966 0 99034 22568 305109 0 2460 0 2460 (radio 1.07% / 0.75% tx 0.22% / 0.00% listen 0.84% / 0.75%)
+07:00.566	ID:6	 53764 P 7.0 41 1071606 12691670 50143 131056 0 98606 22507 305170 0 2385 0 2385 (radio 1.31% / 0.72% tx 0.36% / 0.00% listen 0.95% / 0.72%)
+07:00.631	ID:2	timer triggered!
+07:00.664	ID:4	 53764 P 7.0 41 1002415 12760861 39276 122714 0 96717 22389 305288 0 2336 0 2336 (radio 1.17% / 0.71% tx 0.28% / 0.00% listen 0.89% / 0.71%)
+07:00.698	ID:1	 53764 P 7.0 41 951935 12811336 40564 118688 0 93790 23860 303817 1840 3549 0 2159 (radio 1.15% / 1.64% tx 0.29% / 0.56% listen 0.86% / 1.08%)
+07:00.708	ID:6	timer triggered!
+07:00.716	ID:7	 53764 P 7.0 41 959606 12803665 47097 118483 0 91281 19945 307732 0 2160 0 2160 (radio 1.20% / 0.65% tx 0.34% / 0.00% listen 0.86% / 0.65%)
+07:00.759	ID:4	timer triggered!
+07:00.760	ID:4	data sent from: 7
+07:00.764	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+07:00.785	ID:1	timer triggered!
+07:00.875	ID:7	timer triggered!
+07:01.024	ID:9	 53764 P 7.0 41 933555 12829719 32495 116591 0 97456 25535 302142 2338 4043 0 2309 (radio 1.08% / 1.94% tx 0.23% / 0.71% listen 0.84% / 1.23%)
+07:01.031	ID:5	 53764 P 7.0 41 1154273 12609008 29371 125573 0 104246 25184 302493 0 2656 0 2656 (radio 1.12% / 0.81% tx 0.21% / 0.00% listen 0.91% / 0.81%)
+07:01.148	ID:5	timer triggered!
+07:01.150	ID:5	data sent from: 7
+07:01.150	ID:9	timer triggered!
+07:01.154	ID:5	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+07:01.215	ID:3	 53764 P 7.0 41 956897 12806374 38101 115099 0 93434 22409 305268 1243 3311 0 2336 (radio 1.11% / 1.38% tx 0.27% / 0.37% listen 0.83% / 1.01%)
+07:01.333	ID:3	timer triggered!
+07:01.334	ID:3	data sent from: 7
+07:01.338	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+07:10.389	ID:8	 55044 P 7.0 42 1009871 13081083 27865 117904 0 102139 22269 305408 369 2674 0 2309 (radio 1.03% / 0.92% tx 0.19% / 0.11% listen 0.83% / 0.81%)
+07:10.468	ID:8	timer triggered!
+07:10.469	ID:8	data sent from: 7
+07:10.474	ID:8	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+07:10.551	ID:2	 55044 P 7.0 42 1043752 13047204 30724 119492 0 101560 22535 305142 0 2526 0 2526 (radio 1.06% / 0.77% tx 0.21% / 0.00% listen 0.84% / 0.77%)
+07:10.566	ID:6	 55044 P 7.0 42 1094082 12996874 50143 133545 0 101095 22473 305204 0 2489 0 2489 (radio 1.30% / 0.75% tx 0.35% / 0.00% listen 0.94% / 0.75%)
+07:10.631	ID:2	timer triggered!
+07:10.664	ID:4	 55044 P 7.0 42 1025767 13065189 39506 125324 0 99053 23349 304328 230 2610 0 2336 (radio 1.16% / 0.86% tx 0.28% / 0.07% listen 0.88% / 0.79%)
+07:10.697	ID:1	 55044 P 7.0 42 972340 13118611 40564 121104 0 96206 20402 307275 0 2416 0 2416 (radio 1.14% / 0.73% tx 0.28% / 0.00% listen 0.85% / 0.73%)
+07:10.708	ID:6	timer triggered!
+07:10.716	ID:7	 55044 P 7.0 42 979543 13111408 47097 120819 0 93617 19934 307743 0 2336 0 2336 (radio 1.19% / 0.71% tx 0.33% / 0.00% listen 0.85% / 0.71%)
+07:10.766	ID:4	timer triggered!
+07:10.767	ID:4	data sent from: 7
+07:10.771	ID:4	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+07:10.785	ID:1	timer triggered!
+07:10.875	ID:7	timer triggered!
+07:11.023	ID:9	 55044 P 7.0 42 954717 13136237 32495 118941 0 99806 21159 306518 0 2350 0 2350 (radio 1.07% / 0.71% tx 0.23% / 0.00% listen 0.84% / 0.71%)
+07:11.032	ID:5	 55044 P 7.0 42 1183901 12907060 31708 129744 0 106692 29625 298052 2337 4171 0 2446 (radio 1.14% / 1.98% tx 0.22% / 0.71% listen 0.92% / 1.27%)
+07:11.150	ID:9	timer triggered!
+07:11.157	ID:5	timer triggered!
+07:11.158	ID:5	data sent from: 7
+07:11.162	ID:5	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+07:11.215	ID:3	 55044 P 7.0 42 979145 13111806 39203 118332 0 95790 22245 305432 1102 3233 0 2356 (radio 1.11% / 1.32% tx 0.27% / 0.33% listen 0.83% / 0.98%)
+07:11.341	ID:3	timer triggered!
+07:20.389	ID:8	 56324 P 7.0 43 1031907 13386727 28048 120496 0 104488 22033 305644 183 2592 0 2349 (radio 1.03% / 0.84% tx 0.19% / 0.05% listen 0.83% / 0.79%)
+07:20.476	ID:8	timer triggered!
+07:20.551	ID:2	 56324 P 7.0 43 1066271 13352365 30724 121828 0 103896 22516 305161 0 2336 0 2336 (radio 1.05% / 0.71% tx 0.21% / 0.00% listen 0.84% / 0.71%)
+07:20.566	ID:6	 56324 P 7.0 43 1116479 13302157 50143 135881 0 103431 22394 305283 0 2336 0 2336 (radio 1.29% / 0.71% tx 0.34% / 0.00% listen 0.94% / 0.71%)
+07:20.631	ID:2	timer triggered!
+07:20.664	ID:4	 56324 P 7.0 43 1048884 13369752 39597 127853 0 101403 23114 304563 91 2529 0 2350 (radio 1.16% / 0.79% tx 0.27% / 0.02% listen 0.88% / 0.77%)
+07:20.697	ID:1	 56324 P 7.0 43 992683 13425948 40564 123543 0 98645 20340 307337 0 2439 0 2439 (radio 1.13% / 0.74% tx 0.28% / 0.00% listen 0.85% / 0.74%)
+07:20.708	ID:6	timer triggered!
+07:20.709	ID:6	data sent from: 7
+07:20.713	ID:6	node 7.0 fwdto-> node 5.0 (1 in list), hops 1
+07:20.716	ID:7	 56324 P 7.0 43 999452 13419179 47097 123175 0 95973 19906 307771 0 2356 0 2356 (radio 1.18% / 0.71% tx 0.32% / 0.00% listen 0.85% / 0.71%)
+07:20.774	ID:4	timer triggered!
+07:20.785	ID:1	timer triggered!
+07:20.875	ID:7	timer triggered!
+07:21.024	ID:9	 56324 P 7.0 43 975813 13442821 32495 121453 0 102318 21093 306584 0 2512 0 2512 (radio 1.06% / 0.76% tx 0.22% / 0.00% listen 0.84% / 0.76%)
+07:21.032	ID:5	 56324 P 7.0 43 1213299 13205342 33906 133657 0 108962 29395 298282 2198 3913 0 2270 (radio 1.16% / 1.86% tx 0.23% / 0.67% listen 0.92% / 1.19%)
+07:21.150	ID:9	timer triggered!
+07:21.152	ID:9	data sent from: 7
+07:21.155	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+07:21.164	ID:5	timer triggered!
+07:21.214	ID:3	 56324 P 7.0 43 998992 13419639 39203 120492 0 97950 19844 307833 0 2160 0 2160 (radio 1.10% / 0.65% tx 0.27% / 0.00% listen 0.83% / 0.65%)
+07:21.341	ID:3	timer triggered!
+07:30.388	ID:8	 57604 P 7.0 44 1053070 13693244 28048 123036 0 107028 21160 306517 0 2540 0 2540 (radio 1.02% / 0.77% tx 0.19% / 0.00% listen 0.83% / 0.77%)
+07:30.476	ID:8	timer triggered!
+07:30.551	ID:2	 57604 P 7.0 44 1088791 13657525 30724 123988 0 106056 22517 305160 0 2160 0 2160 (radio 1.04% / 0.65% tx 0.20% / 0.00% listen 0.84% / 0.65%)
+07:30.567	ID:6	 57604 P 7.0 44 1140155 13606161 50556 138512 0 105661 23673 304004 413 2631 0 2230 (radio 1.28% / 0.92% tx 0.34% / 0.12% listen 0.93% / 0.80%)
+07:30.631	ID:2	timer triggered!
+07:30.632	ID:2	data sent from: 7
+07:30.637	ID:2	node 7.0 fwdto-> node 1.0 (3 in list), hops 1
+07:30.664	ID:4	 57604 P 7.0 44 1071307 13675009 39597 130013 0 103563 22420 305257 0 2160 0 2160 (radio 1.15% / 0.65% tx 0.26% / 0.00% listen 0.88% / 0.65%)
+07:30.698	ID:1	 57604 P 7.0 44 1012987 13733324 40564 125854 0 100792 20301 307376 0 2311 0 2147 (radio 1.12% / 0.70% tx 0.27% / 0.00% listen 0.85% / 0.70%)
+07:30.715	ID:6	timer triggered!
+07:30.717	ID:7	 57604 P 7.0 44 1019363 13726948 47097 125335 0 98133 19908 307769 0 2160 0 2160 (radio 1.16% / 0.65% tx 0.31% / 0.00% listen 0.84% / 0.65%)
+07:30.774	ID:4	timer triggered!
+07:30.776	ID:4	data sent from: 7
+07:30.780	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+07:30.785	ID:1	timer triggered!
+07:30.875	ID:7	timer triggered!
+07:30.876	ID:7	data sent from: 7
+07:30.880	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+07:31.025	ID:9	 57604 P 7.0 44 1001067 13745247 34656 125198 0 104451 25251 302426 2161 3745 0 2133 (radio 1.08% / 1.80% tx 0.23% / 0.65% listen 0.84% / 1.14%)
+07:31.031	ID:5	 57604 P 7.0 44 1238475 13507846 33906 136169 0 111474 25173 302504 0 2512 0 2512 (radio 1.15% / 0.76% tx 0.22% / 0.00% listen 0.92% / 0.76%)
+07:31.157	ID:9	timer triggered!
+07:31.164	ID:5	timer triggered!
+07:31.215	ID:3	 57604 P 7.0 44 1018801 13727510 39203 122652 0 100110 19806 307871 0 2160 0 2160 (radio 1.09% / 0.65% tx 0.26% / 0.00% listen 0.83% / 0.65%)
+07:31.341	ID:3	timer triggered!
+07:40.388	ID:8	 58884 P 7.0 45 1074297 13999697 28048 125475 0 109467 21224 306453 0 2439 0 2439 (radio 1.01% / 0.74% tx 0.18% / 0.00% listen 0.83% / 0.74%)
+07:40.476	ID:8	timer triggered!
+07:40.499	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+07:40.501	ID:5	 Neighbour  7.0 found. 
+07:40.521	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+07:40.523	ID:2	 Neighbour  7.0 found. 
+07:40.540	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+07:40.542	ID:1	 Neighbour  7.0 found. 
+07:40.556	ID:2	 58884 P 7.0 45 1112637 13961488 31000 126785 0 108379 23843 303963 276 2797 0 2323 (radio 1.04% / 0.93% tx 0.20% / 0.08% listen 0.84% / 0.85%)
+07:40.562	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+07:40.564	ID:7	 Neighbour  7.0 found. 
+07:40.566	ID:6	 58884 P 7.0 45 1162620 13911376 50556 140862 0 108011 22462 305215 0 2350 0 2350 (radio 1.26% / 0.71% tx 0.33% / 0.00% listen 0.93% / 0.71%)
+07:40.606	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+07:40.608	ID:8	 Neighbour  7.0 found. 
+07:40.639	ID:2	timer triggered!
+07:40.640	ID:2	data sent from: 7
+07:40.644	ID:2	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+07:40.665	ID:4	 58884 P 7.0 45 1102639 13971355 44093 133930 0 105669 31329 296346 4496 3917 0 2106 (radio 1.18% / 2.56% tx 0.29% / 1.37% listen 0.88% / 1.19%)
+07:40.698	ID:1	 58884 P 7.0 45 1033627 14040364 40564 128396 0 103215 20637 307040 0 2542 0 2423 (radio 1.12% / 0.77% tx 0.26% / 0.00% listen 0.85% / 0.77%)
+07:40.715	ID:6	timer triggered!
+07:40.717	ID:6	data sent from: 7
+07:40.718	ID:7	 58884 P 7.0 45 1041720 14032271 48017 128597 0 100443 22354 305323 920 3262 0 2310 (radio 1.17% / 1.27% tx 0.31% / 0.28% listen 0.85% / 0.99%)
+07:40.720	ID:6	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+07:40.782	ID:4	timer triggered!
+07:40.785	ID:1	timer triggered!
+07:40.882	ID:7	timer triggered!
+07:41.024	ID:9	 58884 P 7.0 45 1022259 14051735 34656 127548 0 106801 21189 306488 0 2350 0 2350 (radio 1.07% / 0.71% tx 0.22% / 0.00% listen 0.84% / 0.71%)
+07:41.031	ID:5	 58884 P 7.0 45 1263929 13810072 33906 138617 0 113750 25451 302226 0 2448 0 2276 (radio 1.14% / 0.74% tx 0.22% / 0.00% listen 0.91% / 0.74%)
+07:41.157	ID:9	timer triggered!
+07:41.164	ID:5	timer triggered!
+07:41.165	ID:5	data sent from: 7
+07:41.169	ID:5	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+07:41.215	ID:3	 58884 P 7.0 45 1038660 14035331 39203 124812 0 102270 19856 307821 0 2160 0 2160 (radio 1.08% / 0.65% tx 0.26% / 0.00% listen 0.82% / 0.65%)
+07:41.341	ID:3	timer triggered!
+07:41.342	ID:3	data sent from: 7
+07:41.346	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+07:50.388	ID:8	 60164 P 7.0 46 1095683 14305991 28048 127943 0 111790 21383 306294 0 2468 0 2323 (radio 1.01% / 0.75% tx 0.18% / 0.00% listen 0.83% / 0.75%)
+07:50.476	ID:8	timer triggered!
+07:50.477	ID:8	data sent from: 7
+07:50.481	ID:8	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+07:50.552	ID:2	 60164 P 7.0 46 1135970 14265706 31138 129520 0 110905 23330 304218 138 2735 0 2526 (radio 1.04% / 0.87% tx 0.20% / 0.04% listen 0.84% / 0.83%)
+07:50.567	ID:6	 60164 P 7.0 46 1186078 14215598 50830 143800 0 110643 23455 304222 274 2938 0 2632 (radio 1.26% / 0.98% tx 0.33% / 0.08% listen 0.93% / 0.89%)
+07:50.647	ID:2	timer triggered!
+07:50.664	ID:4	 60164 P 7.0 46 1123797 14277877 44093 136476 0 108215 21156 306522 0 2546 0 2546 (radio 1.17% / 0.77% tx 0.28% / 0.00% listen 0.88% / 0.77%)
+07:50.698	ID:1	 60164 P 7.0 46 1053937 14347734 40564 130692 0 105657 20307 307370 0 2296 0 2442 (radio 1.11% / 0.70% tx 0.26% / 0.00% listen 0.84% / 0.70%)
+07:50.717	ID:7	 60164 P 7.0 46 1061687 14339984 48017 130933 0 102779 19964 307713 0 2336 0 2336 (radio 1.16% / 0.71% tx 0.31% / 0.00% listen 0.85% / 0.71%)
+07:50.724	ID:6	timer triggered!
+07:50.782	ID:4	timer triggered!
+07:50.783	ID:4	data sent from: 7
+07:50.785	ID:1	timer triggered!
+07:50.787	ID:4	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+07:50.882	ID:7	timer triggered!
+07:51.024	ID:9	 60164 P 7.0 46 1043388 14358286 34656 130060 0 109313 21126 306551 0 2512 0 2512 (radio 1.06% / 0.76% tx 0.22% / 0.00% listen 0.84% / 0.76%)
+07:51.032	ID:5	 60164 P 7.0 46 1293073 14108608 35969 142777 0 116366 29141 298536 2063 4160 0 2616 (radio 1.16% / 1.89% tx 0.23% / 0.62% listen 0.92% / 1.26%)
+07:51.157	ID:9	timer triggered!
+07:51.173	ID:5	timer triggered!
+07:51.174	ID:5	data sent from: 7
+07:51.178	ID:5	node 7.0 fwdto-> node 1.0 (2 in list), hops 1
+07:51.215	ID:3	 60164 P 7.0 46 1060563 14341108 40125 127725 0 104430 21900 305777 922 2913 0 2160 (radio 1.08% / 1.17% tx 0.26% / 0.28% listen 0.82% / 0.88%)
+07:51.348	ID:3	timer triggered!
+08:00.389	ID:8	 61444 P 7.0 47 1121476 14607878 30518 132255 0 114275 25790 301887 2470 4312 0 2485 (radio 1.03% / 2.06% tx 0.19% / 0.75% listen 0.84% / 1.31%)
+08:00.483	ID:8	timer triggered!
+08:00.485	ID:8	data sent from: 7
+08:00.488	ID:8	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+08:00.551	ID:2	 61444 P 7.0 47 1158513 14570843 31138 132032 0 113417 22540 305137 0 2512 0 2512 (radio 1.03% / 0.76% tx 0.19% / 0.00% listen 0.83% / 0.76%)
+08:00.566	ID:6	 61444 P 7.0 47 1208500 14520856 50830 146312 0 113155 22419 305258 0 2512 0 2512 (radio 1.25% / 0.76% tx 0.32% / 0.00% listen 0.93% / 0.76%)
+08:00.647	ID:2	timer triggered!
+08:00.665	ID:4	 61444 P 7.0 47 1149116 14580238 46294 140616 0 110714 25317 302361 2201 4140 0 2499 (radio 1.18% / 1.93% tx 0.29% / 0.67% listen 0.89% / 1.26%)
+08:00.698	ID:1	 61444 P 7.0 47 1074295 14655056 40564 133124 0 108089 20355 307322 0 2432 0 2432 (radio 1.10% / 0.74% tx 0.25% / 0.00% listen 0.84% / 0.74%)
+08:00.717	ID:7	 61444 P 7.0 47 1081629 14647722 48017 133459 0 105305 19939 307738 0 2526 0 2526 (radio 1.15% / 0.77% tx 0.30% / 0.00% listen 0.84% / 0.77%)
+08:00.724	ID:6	timer triggered!
+08:00.785	ID:1	timer triggered!
+08:00.786	ID:1	data sent from: 7
+08:00.790	ID:4	timer triggered!
+08:00.791	ID:1	node 7.0 fwdto-> node 2.0 (2 in list), hops 1
+08:00.791	ID:4	data sent from: 7
+08:00.795	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+08:00.882	ID:7	timer triggered!
+08:01.024	ID:9	 61444 P 7.0 47 1064517 14664837 34656 132600 0 111853 21126 306551 0 2540 0 2540 (radio 1.06% / 0.77% tx 0.22% / 0.00% listen 0.84% / 0.77%)
+08:01.032	ID:5	 61444 P 7.0 47 1321960 14407401 37854 146672 0 118840 28884 298793 1885 3895 0 2474 (radio 1.17% / 1.76% tx 0.24% / 0.57% listen 0.93% / 1.18%)
+08:01.157	ID:9	timer triggered!
+08:01.180	ID:5	timer triggered!
+08:01.215	ID:3	 61444 P 7.0 47 1080426 14648925 40125 129885 0 106590 19860 307817 0 2160 0 2160 (radio 1.08% / 0.65% tx 0.25% / 0.00% listen 0.82% / 0.65%)
+08:01.348	ID:3	timer triggered!
+08:01.350	ID:3	data sent from: 7
+08:01.353	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+08:10.389	ID:8	 62724 P 7.0 48 1147093 14909941 32865 136127 0 116408 25614 302063 2347 3872 0 2133 (radio 1.05% / 1.89% tx 0.20% / 0.71% listen 0.84% / 1.18%)
+08:10.490	ID:8	timer triggered!
+08:10.551	ID:2	 62724 P 7.0 48 1181111 14875925 31138 134510 0 115895 22595 305082 0 2478 0 2478 (radio 1.03% / 0.75% tx 0.19% / 0.00% listen 0.83% / 0.75%)
+08:10.566	ID:6	 62724 P 7.0 48 1230995 14826041 50830 148592 0 115435 22492 305185 0 2280 0 2280 (radio 1.24% / 0.69% tx 0.31% / 0.00% listen 0.92% / 0.69%)
+08:10.647	ID:2	timer triggered!
+08:10.664	ID:4	 62724 P 7.0 48 1171267 14885767 46386 143186 0 113104 22149 305529 92 2570 0 2390 (radio 1.18% / 0.81% tx 0.28% / 0.02% listen 0.89% / 0.78%)
+08:10.698	ID:1	 62724 P 7.0 48 1098084 14958947 42307 136726 0 110369 23786 303891 1743 3602 0 2280 (radio 1.11% / 1.63% tx 0.26% / 0.53% listen 0.85% / 1.09%)
+08:10.717	ID:7	 62724 P 7.0 48 1101603 14955428 48017 135619 0 107465 19971 307706 0 2160 0 2160 (radio 1.14% / 0.65% tx 0.29% / 0.00% listen 0.84% / 0.65%)
+08:10.724	ID:6	timer triggered!
+08:10.793	ID:1	timer triggered!
+08:10.797	ID:4	timer triggered!
+08:10.799	ID:4	data sent from: 7
+08:10.803	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+08:10.882	ID:7	timer triggered!
+08:10.883	ID:7	data sent from: 7
+08:10.887	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1
+08:11.024	ID:9	 62724 P 7.0 48 1085686 14971348 34656 134760 0 114013 21166 306511 0 2160 0 2160 (radio 1.05% / 0.65% tx 0.21% / 0.00% listen 0.83% / 0.65%)
+08:11.031	ID:5	 62724 P 7.0 48 1347168 14709873 37854 149198 0 121366 25205 302472 0 2526 0 2526 (radio 1.16% / 0.77% tx 0.23% / 0.00% listen 0.92% / 0.77%)
+08:11.157	ID:9	timer triggered!
+08:11.180	ID:5	timer triggered!
+08:11.215	ID:3	 62724 P 7.0 48 1102128 14954903 40903 132693 0 108750 21699 305978 778 2808 0 2160 (radio 1.08% / 1.09% tx 0.25% / 0.23% listen 0.82% / 0.85%)
+08:11.357	ID:3	timer triggered!
+08:11.358	ID:3	data sent from: 7
+08:11.362	ID:3	node 7.0 fwdto-> node 6.0 (2 in list), hops 1
+08:20.388	ID:8	 64004 P 7.0 49 1168303 15216411 32865 138605 0 118886 21207 306470 0 2478 0 2478 (radio 1.04% / 0.75% tx 0.20% / 0.00% listen 0.84% / 0.75%)
+08:20.490	ID:8	timer triggered!
+08:20.492	ID:8	data sent from: 7
+08:20.496	ID:8	node 7.0 fwdto-> node 5.0 (4 in list), hops 1
+08:20.551	ID:2	 64004 P 7.0 49 1203630 15181086 31138 137050 0 118435 22516 305161 0 2540 0 2540 (radio 1.02% / 0.77% tx 0.19% / 0.00% listen 0.83% / 0.77%)
+08:20.566	ID:6	 64004 P 7.0 49 1253459 15131257 50830 151065 0 117908 22461 305216 0 2473 0 2473 (radio 1.23% / 0.75% tx 0.31% / 0.00% listen 0.92% / 0.75%)
+08:20.647	ID:2	timer triggered!
+08:20.665	ID:4	 64004 P 7.0 49 1196064 15188650 48264 146731 0 115237 24795 302883 1878 3545 0 2133 (radio 1.19% / 1.65% tx 0.29% / 0.57% listen 0.89% / 1.08%)
+08:20.698	ID:1	 64004 P 7.0 49 1118389 15266322 42307 138992 0 112635 20302 307375 0 2266 0 2266 (radio 1.10% / 0.69% tx 0.25% / 0.00% listen 0.84% / 0.69%)
+08:20.718	ID:7	 64004 P 7.0 49 1123059 15261652 48520 138444 0 109828 21453 306224 503 2825 0 2363 (radio 1.14% / 1.01% tx 0.29% / 0.15% listen 0.84% / 0.86%)
+08:20.724	ID:6	timer triggered!
+08:20.793	ID:1	timer triggered!
+08:20.806	ID:4	timer triggered!
+08:20.890	ID:7	timer triggered!
+08:21.024	ID:9	 64004 P 7.0 49 1106823 15277891 34656 137110 0 116363 21134 306543 0 2350 0 2350 (radio 1.04% / 0.71% tx 0.21% / 0.00% listen 0.83% / 0.71%)
+08:21.031	ID:5	 64004 P 7.0 49 1372356 15012365 37854 151502 0 123670 25185 302492 0 2304 0 2304 (radio 1.15% / 0.70% tx 0.23% / 0.00% listen 0.92% / 0.70%)
+08:21.157	ID:9	timer triggered!
+08:21.180	ID:5	timer triggered!
+08:21.181	ID:5	data sent from: 7
+08:21.185	ID:5	node 7.0 fwdto-> node 1.0 (6 in list), hops 1
+08:21.215	ID:3	 64004 P 7.0 49 1123594 15261117 41546 135420 0 110910 21463 306214 643 2727 0 2160 (radio 1.08% / 1.02% tx 0.25% / 0.19% listen 0.82% / 0.83%)
+08:21.364	ID:3	timer triggered!
+08:21.365	ID:3	data sent from: 7
+08:21.369	ID:3	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+08:24.356	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+08:24.358	ID:8	 Neighbour  7.0 found. 
+08:24.375	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+08:24.377	ID:5	 Neighbour  7.0 found. 
+08:24.411	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+08:24.413	ID:6	 Neighbour  7.0 found. 
+08:30.389	ID:8	 65284 P 7.0 50 1194148 15518249 35064 142670 0 121168 25842 301838 2199 4065 0 2282 (radio 1.06% / 1.91% tx 0.20% / 0.67% listen 0.85% / 1.24%)
+08:30.499	ID:8	timer triggered!
+08:30.500	ID:8	data sent from: 7
+08:30.504	ID:8	node 7.0 fwdto-> node 5.0 (1 in list), hops 1
+08:30.552	ID:2	 65284 P 7.0 50 1226461 15485939 31138 139576 0 120961 22828 304853 0 2526 0 2526 (radio 1.02% / 0.77% tx 0.18% / 0.00% listen 0.83% / 0.77%)
+08:30.566	ID:6	 65284 P 7.0 50 1276448 15435952 50830 153888 0 120566 22986 304695 0 2823 0 2658 (radio 1.22% / 0.86% tx 0.30% / 0.00% listen 0.92% / 0.86%)
+08:30.647	ID:2	timer triggered!
+08:30.664	ID:4	 65284 P 7.0 50 1217509 15494888 48264 149067 0 117573 21442 306238 0 2336 0 2336 (radio 1.18% / 0.71% tx 0.28% / 0.00% listen 0.89% / 0.71%)
+08:30.698	ID:1	 65284 P 7.0 50 1138950 15573445 42307 141282 0 114925 20558 307123 0 2290 0 2290 (radio 1.09% / 0.69% tx 0.25% / 0.00% listen 0.84% / 0.69%)
+08:30.717	ID:7	 65284 P 7.0 50 1143320 15569075 48520 140780 0 112164 20258 307423 0 2336 0 2336 (radio 1.13% / 0.71% tx 0.29% / 0.00% listen 0.84% / 0.71%)
+08:30.724	ID:6	timer triggered!
+08:30.793	ID:1	timer triggered!
+08:30.806	ID:4	timer triggered!
+08:30.807	ID:4	data sent from: 7
+08:30.811	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+08:30.890	ID:7	timer triggered!
+08:30.892	ID:7	data sent from: 7
+08:30.896	ID:7	node 7.0 fwdto-> node 8.0 (3 in list), hops 1
+08:31.025	ID:9	 65284 P 7.0 50 1131863 15580532 36809 139689 0 118862 25037 302641 2153 2579 0 2499 (radio 1.05% / 1.44% tx 0.22% / 0.65% listen 0.83% / 0.78%)
+08:31.032	ID:5	 65284 P 7.0 50 1401523 15310881 39601 155430 0 126106 29164 298516 1747 3928 0 2436 (radio 1.16% / 1.73% tx 0.23% / 0.53% listen 0.93% / 1.19%)
+08:31.157	ID:9	timer triggered!
+08:31.159	ID:9	data sent from: 7
+08:31.163	ID:9	node 7.0 fwdto-> node 6.0 (0 in list), hops 1
+08:31.188	ID:5	timer triggered!
+08:31.215	ID:3	 65284 P 7.0 50 1145138 15567257 42050 138043 0 113070 21541 306140 504 2623 0 2160 (radio 1.07% / 0.95% tx 0.25% / 0.15% listen 0.82% / 0.80%)
+08:31.372	ID:3	timer triggered!
+08:32.118	ID:9	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.120	ID:9	 Neighbour  7.0 found. 
+08:32.132	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.134	ID:4	 Neighbour  7.0 found. 
+08:32.145	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.147	ID:2	 Neighbour  7.0 found. 
+08:32.159	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.161	ID:6	 Neighbour  7.0 found. 
+08:32.167	ID:1	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.169	ID:1	 Neighbour  7.0 found. 
+08:32.184	ID:3	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.186	ID:3	 Neighbour  7.0 found. 
+08:32.186	ID:7	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.188	ID:7	 Neighbour  7.0 found. 
+08:32.233	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+08:32.235	ID:8	 Neighbour  7.0 found. 
+08:40.389	ID:8	 66564 P 7.0 51 1220820 15819256 37084 147452 0 124270 26669 301007 2020 4782 0 3102 (radio 1.08% / 2.07% tx 0.21% / 0.61% listen 0.86% / 1.45%)
+08:40.506	ID:8	timer triggered!
+08:40.552	ID:2	 66564 P 7.0 51 1250553 15789526 31138 142062 0 123270 24090 303587 0 2486 0 2309 (radio 1.01% / 0.75% tx 0.18% / 0.00% listen 0.83% / 0.75%)
+08:40.566	ID:6	 66564 P 7.0 51 1300474 15739604 50830 156691 0 123217 24023 303652 0 2803 0 2651 (radio 1.21% / 0.85% tx 0.29% / 0.00% listen 0.91% / 0.85%)
+08:40.647	ID:2	timer triggered!
+08:40.665	ID:4	 66564 P 7.0 51 1243633 15796443 50009 153377 0 120411 26121 301555 1745 4310 0 2838 (radio 1.19% / 1.84% tx 0.29% / 0.53% listen 0.90% / 1.31%)
+08:40.698	ID:1	 66564 P 7.0 51 1160800 15879274 42307 143731 0 117206 21847 305829 0 2449 0 2281 (radio 1.09% / 0.74% tx 0.24% / 0.00% listen 0.84% / 0.74%)
+08:40.719	ID:7	 66564 P 7.0 51 1185248 15854826 59726 151200 0 114215 41925 285751 11206 10420 0 2051 (radio 1.23% / 6.59% tx 0.35% / 3.41% listen 0.88% / 3.17%)
+08:40.724	ID:6	timer triggered!
+08:40.793	ID:1	timer triggered!
+08:40.794	ID:1	data sent from: 7
+08:40.798	ID:1	node 7.0 fwdto-> node 2.0 (0 in list), hops 1
+08:40.813	ID:4	timer triggered!
+08:40.898	ID:7	timer triggered!
+08:41.025	ID:9	 66564 P 7.0 51 1169263 15870811 45567 148497 0 121037 37397 290279 8758 8808 0 2175 (radio 1.13% / 5.36% tx 0.26% / 2.67% listen 0.87% / 2.68%)
+08:41.032	ID:5	 66564 P 7.0 51 1431681 15608400 41764 158771 0 129369 30155 297519 2163 3341 0 3263 (radio 1.17% / 1.67% tx 0.24% / 0.66% listen 0.93% / 1.01%)
+08:41.166	ID:9	timer triggered!
+08:41.188	ID:5	timer triggered!
+08:41.190	ID:5	data sent from: 7
+08:41.194	ID:5	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+08:41.215	ID:3	 66564 P 7.0 51 1166546 15873528 42050 140360 0 115203 21405 306271 0 2317 0 2133 (radio 1.07% / 0.70% tx 0.24% / 0.00% listen 0.82% / 0.70%)
+08:41.372	ID:3	timer triggered!
+08:50.388	ID:8	 67844 P 7.0 52 1243277 16124479 37084 149802 0 126620 22454 305223 0 2350 0 2350 (radio 1.07% / 0.71% tx 0.21% / 0.00% listen 0.86% / 0.71%)
+08:50.506	ID:8	timer triggered!
+08:50.552	ID:2	 67844 P 7.0 52 1274438 16093321 31138 144516 0 125724 23883 303795 0 2454 0 2454 (radio 1.01% / 0.74% tx 0.17% / 0.00% listen 0.83% / 0.74%)
+08:50.566	ID:6	 67844 P 7.0 52 1324175 16043584 50830 159027 0 125553 23698 303980 0 2336 0 2336 (radio 1.20% / 0.71% tx 0.29% / 0.00% listen 0.91% / 0.71%)
+08:50.647	ID:2	timer triggered!
+08:50.664	ID:4	 67844 P 7.0 52 1266082 16101674 50009 155889 0 122923 22446 305231 0 2512 0 2512 (radio 1.18% / 0.76% tx 0.28% / 0.00% listen 0.89% / 0.76%)
+08:50.699	ID:1	 67844 P 7.0 52 1185516 16182238 43873 147232 0 119509 24713 302964 1566 3501 0 2303 (radio 1.10% / 1.54% tx 0.25% / 0.47% listen 0.84% / 1.06%)
+08:50.717	ID:7	 67844 P 7.0 52 1206442 16161312 59726 153360 0 116375 21191 306486 0 2160 0 2160 (radio 1.22% / 0.65% tx 0.34% / 0.00% listen 0.88% / 0.65%)
+08:50.724	ID:6	timer triggered!
+08:50.725	ID:6	data sent from: 7
+08:50.729	ID:6	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+08:50.800	ID:1	timer triggered!
+08:50.813	ID:4	timer triggered!
+08:50.898	ID:7	timer triggered!
+08:50.899	ID:7	data sent from: 7
+08:50.903	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1
+08:51.024	ID:9	 67844 P 7.0 52 1190408 16177346 45567 150833 0 123373 21142 306535 0 2336 0 2336 (radio 1.13% / 0.71% tx 0.26% / 0.00% listen 0.86% / 0.71%)
+08:51.032	ID:5	 67844 P 7.0 52 1460107 15907654 43373 162264 0 131639 28423 299254 1609 3493 0 2270 (radio 1.18% / 1.55% tx 0.24% / 0.49% listen 0.93% / 1.06%)
+08:51.166	ID:9	timer triggered!
+08:51.195	ID:5	timer triggered!
+08:51.197	ID:5	data sent from: 7
+08:51.201	ID:5	node 7.0 fwdto-> node 1.0 (7 in list), hops 1
+08:51.215	ID:3	 67844 P 7.0 52 1187656 16180098 42050 142520 0 117363 21108 306570 0 2160 0 2160 (radio 1.06% / 0.65% tx 0.24% / 0.00% listen 0.82% / 0.65%)
+08:51.372	ID:3	timer triggered!
+09:00.388	ID:8	 69124 P 7.0 53 1265763 16429673 37084 152284 0 129102 22483 305194 0 2482 0 2482 (radio 1.07% / 0.75% tx 0.20% / 0.00% listen 0.86% / 0.75%)
+09:00.506	ID:8	timer triggered!
+09:00.552	ID:2	 69124 P 7.0 53 1298290 16397149 31138 146866 0 128074 23849 303828 0 2350 0 2350 (radio 1.00% / 0.71% tx 0.17% / 0.00% listen 0.82% / 0.71%)
+09:00.567	ID:6	 69124 P 7.0 53 1348601 16346838 50921 161557 0 127903 24423 303254 91 2530 0 2350 (radio 1.20% / 0.79% tx 0.28% / 0.02% listen 0.91% / 0.77%)
+09:00.647	ID:2	timer triggered!
+09:00.648	ID:2	data sent from: 7
+09:00.652	ID:2	node 7.0 fwdto-> node 1.0 (5 in list), hops 1
+09:00.664	ID:4	 69124 P 7.0 53 1288514 16406922 50009 158225 0 125259 22429 305248 0 2336 0 2336 (radio 1.17% / 0.71% tx 0.28% / 0.00% listen 0.89% / 0.71%)
+09:00.698	ID:1	 69124 P 7.0 53 1207149 16488285 43873 149493 0 121770 21630 306047 0 2261 0 2261 (radio 1.09% / 0.69% tx 0.24% / 0.00% listen 0.84% / 0.69%)
+09:00.718	ID:7	 69124 P 7.0 53 1230176 16465258 60962 156466 0 118508 23731 303946 1236 3106 0 2133 (radio 1.22% / 1.32% tx 0.34% / 0.37% listen 0.88% / 0.94%)
+09:00.731	ID:6	timer triggered!
+09:00.800	ID:1	timer triggered!
+09:00.813	ID:4	timer triggered!
+09:00.814	ID:4	data sent from: 7
+09:00.818	ID:4	node 7.0 fwdto-> node 1.0 (0 in list), hops 1
+09:00.906	ID:7	timer triggered!
+09:01.024	ID:9	 69124 P 7.0 53 1211534 16483900 45567 153169 0 125709 21123 306554 0 2336 0 2336 (radio 1.12% / 0.71% tx 0.25% / 0.00% listen 0.86% / 0.71%)
+09:01.032	ID:5	 69124 P 7.0 53 1488193 16207248 44793 165857 0 134124 28083 299594 1420 3593 0 2485 (radio 1.19% / 1.52% tx 0.25% / 0.43% listen 0.93% / 1.09%)
+09:01.166	ID:9	timer triggered!
+09:01.204	ID:5	timer triggered!
+09:01.215	ID:3	 69124 P 7.0 53 1208782 16486652 42050 144870 0 119713 21123 306554 0 2350 0 2350 (radio 1.05% / 0.71% tx 0.23% / 0.00% listen 0.81% / 0.71%)
+09:01.372	ID:3	timer triggered!
+09:10.388	ID:8	 70404 P 7.0 54 1288228 16734888 37084 154634 0 131452 22462 305215 0 2350 0 2350 (radio 1.06% / 0.71% tx 0.20% / 0.00% listen 0.85% / 0.71%)
+09:10.506	ID:8	timer triggered!
+09:10.507	ID:8	data sent from: 7
+09:10.511	ID:8	node 7.0 fwdto-> node 5.0 (3 in list), hops 1
+09:10.553	ID:2	 70404 P 7.0 54 1326694 16696425 33527 150941 0 130383 28401 299276 2389 4075 0 2309 (radio 1.02% / 1.97% tx 0.18% / 0.72% listen 0.83% / 1.24%)
+09:10.566	ID:6	 70404 P 7.0 54 1372384 16650735 50921 164069 0 130415 23780 303897 0 2512 0 2512 (radio 1.19% / 0.76% tx 0.28% / 0.00% listen 0.91% / 0.76%)
+09:10.654	ID:2	timer triggered!
+09:10.665	ID:4	 70404 P 7.0 54 1314185 16708931 51618 161762 0 127568 25668 302009 1609 3537 0 2309 (radio 1.18% / 1.57% tx 0.28% / 0.49% listen 0.89% / 1.07%)
+09:10.698	ID:1	 70404 P 7.0 54 1228843 16794271 43873 151925 0 124202 21691 305986 0 2432 0 2432 (radio 1.08% / 0.74% tx 0.24% / 0.00% listen 0.84% / 0.74%)
+09:10.717	ID:7	 70404 P 7.0 54 1251378 16771736 60962 158802 0 120844 21199 306478 0 2336 0 2336 (radio 1.21% / 0.71% tx 0.33% / 0.00% listen 0.88% / 0.71%)
+09:10.731	ID:6	timer triggered!
+09:10.732	ID:6	data sent from: 7
+09:10.736	ID:6	node 7.0 fwdto-> node 5.0 (2 in list), hops 1
+09:10.800	ID:1	timer triggered!
+09:10.821	ID:4	timer triggered!
+09:10.906	ID:7	timer triggered!
+09:10.907	ID:7	data sent from: 7
+09:10.911	ID:7	node 7.0 fwdto-> node 8.0 (3 in list), hops 1
+09:11.024	ID:9	 70404 P 7.0 54 1232697 16790417 45567 155695 0 128235 21160 306517 0 2526 0 2526 (radio 1.11% / 0.77% tx 0.25% / 0.00% listen 0.86% / 0.77%)
+09:11.031	ID:5	 70404 P 7.0 54 1513514 16509607 44793 168231 0 136498 25318 302359 0 2374 0 2374 (radio 1.18% / 0.72% tx 0.24% / 0.00% listen 0.93% / 0.72%)
+09:11.166	ID:9	timer triggered!
+09:11.204	ID:5	timer triggered!
+09:11.215	ID:3	 70404 P 7.0 54 1229947 16793167 42050 147206 0 122049 21162 306515 0 2336 0 2336 (radio 1.05% / 0.71% tx 0.23% / 0.00% listen 0.81% / 0.71%)
+09:11.372	ID:3	timer triggered!
+09:11.374	ID:3	data sent from: 7
+09:11.378	ID:3	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+09:20.389	ID:8	 71684 P 7.0 55 1314293 17036503 38921 158445 0 133871 26062 301615 1837 3811 0 2419 (radio 1.07% / 1.72% tx 0.21% / 0.56% listen 0.86% / 1.16%)
+09:20.515	ID:8	timer triggered!
+09:20.552	ID:2	 71684 P 7.0 55 1350594 17000205 33527 153291 0 132733 23897 303780 0 2350 0 2350 (radio 1.01% / 0.71% tx 0.18% / 0.00% listen 0.83% / 0.71%)
+09:20.567	ID:6	 71684 P 7.0 55 1400663 16950136 53301 168090 0 132674 28276 299401 2380 4021 0 2259 (radio 1.20% / 1.95% tx 0.29% / 0.72% listen 0.91% / 1.22%)
+09:20.654	ID:2	timer triggered!
+09:20.655	ID:2	data sent from: 7
+09:20.659	ID:2	node 7.0 fwdto-> node 1.0 (4 in list), hops 1
+09:20.664	ID:4	 71684 P 7.0 55 1336639 17014157 51618 163922 0 129728 22451 305226 0 2160 0 2160 (radio 1.17% / 0.65% tx 0.28% / 0.00% listen 0.89% / 0.65%)
+09:20.698	ID:1	 71684 P 7.0 55 1250384 17100410 43873 154085 0 126362 21538 306139 0 2160 0 2160 (radio 1.07% / 0.65% tx 0.23% / 0.00% listen 0.83% / 0.65%)
+09:20.718	ID:7	 71684 P 7.0 55 1274810 17075984 62016 161778 0 122977 23429 304248 1054 2976 0 2133 (radio 1.21% / 1.22% tx 0.33% / 0.32% listen 0.88% / 0.90%)
+09:20.739	ID:6	timer triggered!
+09:20.800	ID:1	timer triggered!
+09:20.821	ID:4	timer triggered!
+09:20.823	ID:4	data sent from: 7
+09:20.827	ID:4	node 7.0 fwdto-> node 1.0 (3 in list), hops 1
+09:20.913	ID:7	timer triggered!
+09:21.024	ID:9	 71684 P 7.0 55 1253825 17096969 45567 157855 0 130395 21125 306552 0 2160 0 2160 (radio 1.10% / 0.65% tx 0.24% / 0.00% listen 0.86% / 0.65%)
+09:21.031	ID:5	 71684 P 7.0 55 1538673 16812128 44793 170757 0 139024 25156 302521 0 2526 0 2526 (radio 1.17% / 0.77% tx 0.24% / 0.00% listen 0.93% / 0.77%)
+09:21.166	ID:9	timer triggered!
+09:21.204	ID:5	timer triggered!
+09:21.205	ID:5	data sent from: 7
+09:21.209	ID:5	node 7.0 fwdto-> node 1.0 (3 in list), hops 1
+09:21.215	ID:3	 71684 P 7.0 55 1252150 17098644 42372 149896 0 124399 22200 305477 322 2690 0 2350 (radio 1.04% / 0.91% tx 0.23% / 0.09% listen 0.81% / 0.82%)
+09:21.379	ID:3	timer triggered!
+09:21.381	ID:3	data sent from: 7
+09:21.385	ID:3	node 7.0 fwdto-> node 6.0 (1 in list), hops 1
+09:30.134	ID:4	ANNOUNCEMENT from 7.0, id 135, value 0
+09:30.136	ID:4	 Neighbour  7.0 found. 
+09:30.145	ID:2	ANNOUNCEMENT from 7.0, id 135, value 0
+09:30.147	ID:2	 Neighbour  7.0 found. 
+09:30.249	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+09:30.251	ID:5	 Neighbour  7.0 found. 
+09:30.388	ID:8	 72964 P 7.0 56 1336745 17341731 38921 160957 0 136383 22449 305228 0 2512 0 2512 (radio 1.07% / 0.76% tx 0.20% / 0.00% listen 0.86% / 0.76%)
+09:30.515	ID:8	timer triggered!
+09:30.553	ID:2	 72964 P 7.0 56 1378960 17299519 35774 157592 0 135211 28363 299314 2247 4301 0 2478 (radio 1.03% / 1.99% tx 0.19% / 0.68% listen 0.84% / 1.31%)
+09:30.566	ID:6	 72964 P 7.0 56 1424468 17254011 53301 170732 0 135316 23802 303875 0 2642 0 2642 (radio 1.19% / 0.80% tx 0.28% / 0.00% listen 0.91% / 0.80%)
+09:30.662	ID:2	timer triggered!
+09:30.665	ID:4	 72964 P 7.0 56 1362194 17316282 53034 167810 0 132344 25552 302125 1416 3888 0 2616 (radio 1.18% / 1.61% tx 0.28% / 0.43% listen 0.89% / 1.18%)
+09:30.699	ID:1	 72964 P 7.0 56 1276506 17401965 46029 156684 0 128882 26119 301555 2156 2599 0 2520 (radio 1.08% / 1.45% tx 0.24% / 0.65% listen 0.83% / 0.79%)
+09:30.717	ID:7	 72964 P 7.0 56 1295988 17382486 62016 163938 0 125137 21175 306502 0 2160 0 2160 (radio 1.20% / 0.65% tx 0.33% / 0.00% listen 0.87% / 0.65%)
+09:30.739	ID:6	timer triggered!
+09:30.800	ID:1	timer triggered!
+09:30.801	ID:1	data sent from: 7
+09:30.805	ID:1	node 7.0 fwdto-> node 2.0 (2 in list), hops 1
+09:30.829	ID:4	timer triggered!
+09:30.830	ID:4	data sent from: 7
+09:30.834	ID:4	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+09:30.913	ID:7	timer triggered!
+09:30.915	ID:7	data sent from: 7
+09:30.918	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1
+09:31.024	ID:9	 72964 P 7.0 56 1274952 17403522 45567 160205 0 132745 21124 306553 0 2350 0 2350 (radio 1.10% / 0.71% tx 0.24% / 0.00% listen 0.85% / 0.71%)
+09:31.032	ID:5	 72964 P 7.0 56 1566733 17111748 46083 174217 0 141320 28057 299620 1290 3460 0 2296 (radio 1.17% / 1.44% tx 0.24% / 0.39% listen 0.93% / 1.05%)
+09:31.166	ID:9	timer triggered!
+09:31.167	ID:9	data sent from: 7
+09:31.171	ID:9	node 7.0 fwdto-> node 6.0 (3 in list), hops 1
+09:31.211	ID:5	timer triggered!
+09:31.212	ID:5	data sent from: 7
+09:31.215	ID:3	 72964 P 7.0 56 1274153 17404321 42556 152299 0 126559 22000 305677 184 2403 0 2160 (radio 1.04% / 0.78% tx 0.22% / 0.05% listen 0.81% / 0.73%)
+09:31.216	ID:5	node 7.0 fwdto-> node 1.0 (1 in list), hops 1
+09:31.388	ID:3	timer triggered!
+09:40.388	ID:8	 74244 P 7.0 57 1359246 17646910 38921 163613 0 139039 22498 305179 0 2656 0 2656 (radio 1.06% / 0.81% tx 0.20% / 0.00% listen 0.86% / 0.81%)
+09:40.515	ID:8	timer triggered!
+09:40.552	ID:2	 74244 P 7.0 57 1402945 17603214 35774 160043 0 137662 23982 303695 0 2451 0 2451 (radio 1.03% / 0.74% tx 0.18% / 0.00% listen 0.84% / 0.74%)
+09:40.566	ID:6	 74244 P 7.0 57 1448287 17557872 53301 173202 0 137786 23816 303861 0 2470 0 2470 (radio 1.19% / 0.75% tx 0.28% / 0.00% listen 0.91% / 0.75%)
+09:40.662	ID:2	timer triggered!
+09:40.664	ID:2	data sent from: 7
+09:40.665	ID:4	 74244 P 7.0 57 1385801 17620355 53308 170641 0 134869 23604 304073 274 2831 0 2525 (radio 1.17% / 0.94% tx 0.28% / 0.08% listen 0.89% / 0.86%)
+09:40.668	ID:2	node 7.0 fwdto-> node 1.0 (5 in list), hops 1
+09:40.698	ID:1	 74244 P 7.0 57 1299838 17706313 47451 160175 0 131276 23329 304348 1422 3491 0 2394 (radio 1.09% / 1.49% tx 0.24% / 0.43% listen 0.84% / 1.06%)
+09:40.718	ID:7	 74244 P 7.0 57 1319241 17686913 62933 166832 0 127270 23250 304427 917 2894 0 2133 (radio 1.20% / 1.16% tx 0.33% / 0.27% listen 0.87% / 0.88%)
+09:40.739	ID:6	timer triggered!
+09:40.808	ID:1	timer triggered!
+09:40.837	ID:4	timer triggered!
+09:40.922	ID:7	timer triggered!
+09:41.025	ID:9	 74244 P 7.0 57 1299809 17706345 47455 163936 0 135054 24854 302823 1888 3731 0 2309 (radio 1.11% / 1.71% tx 0.24% / 0.57% listen 0.86% / 1.13%)
+09:41.032	ID:5	 74244 P 7.0 57 1595419 17410742 47689 177973 0 143846 28683 298994 1606 3756 0 2526 (radio 1.18% / 1.63% tx 0.25% / 0.49% listen 0.93% / 1.14%)
+09:41.173	ID:9	timer triggered!
+09:41.215	ID:3	 74244 P 7.0 57 1295342 17710812 42556 154459 0 128719 21186 306491 0 2160 0 2160 (radio 1.03% / 0.65% tx 0.22% / 0.00% listen 0.81% / 0.65%)
+09:41.219	ID:5	timer triggered!
+09:41.388	ID:3	timer triggered!
+09:49.481	ID:8	ANNOUNCEMENT from 7.0, id 135, value 0
+09:49.483	ID:8	 Neighbour  7.0 found. 
+09:49.500	ID:5	ANNOUNCEMENT from 7.0, id 135, value 0
+09:49.502	ID:5	 Neighbour  7.0 found. 
+09:49.536	ID:6	ANNOUNCEMENT from 7.0, id 135, value 0
+09:49.538	ID:6	 Neighbour  7.0 found. 
+09:50.388	ID:8	 75524 P 7.0 58 1381904 17951932 38921 165890 0 141172 22655 305022 0 2277 0 2133 (radio 1.05% / 0.69% tx 0.20% / 0.00% listen 0.85% / 0.69%)
+09:50.515	ID:8	timer triggered!
+09:50.553	ID:2	 75524 P 7.0 58 1430789 17903050 37845 163732 0 139795 27841 299836 2071 3689 0 2133 (radio 1.04% / 1.75% tx 0.19% / 0.63% listen 0.84% / 1.12%)
+09:50.566	ID:6	 75524 P 7.0 58 1472254 17861585 53301 175704 0 140123 23964 303713 0 2502 0 2337 (radio 1.18% / 0.76% tx 0.27% / 0.00% listen 0.90% / 0.76%)
+09:50.664	ID:4	 75524 P 7.0 58 1408246 17925590 53308 172977 0 137205 22442 305235 0 2336 0 2336 (radio 1.17% / 0.71% tx 0.27% / 0.00% listen 0.89% / 0.71%)
+09:50.669	ID:2	timer triggered!
+09:50.697	ID:1	 75524 P 7.0 58 1320151 18013680 47451 162442 0 133543 20310 307367 0 2267 0 2267 (radio 1.08% / 0.69% tx 0.24% / 0.00% listen 0.84% / 0.69%)
+09:50.717	ID:7	 75524 P 7.0 58 1340397 17993437 62933 168992 0 129430 21153 306524 0 2160 0 2160 (radio 1.19% / 0.65% tx 0.32% / 0.00% listen 0.87% / 0.65%)
+09:50.739	ID:6	timer triggered!
+09:50.808	ID:1	timer triggered!
+09:50.837	ID:4	timer triggered!
+09:50.922	ID:7	timer triggered!
+09:51.025	ID:9	 75524 P 7.0 58 1325265 18008566 49611 166147 0 137187 25453 302221 2156 2211 0 2133 (radio 1.11% / 1.33% tx 0.25% / 0.65% listen 0.85% / 0.67%)
+09:51.031	ID:5	 75524 P 7.0 58 1620857 17712984 47689 180285 0 145993 25435 302242 0 2312 0 2147 (radio 1.17% / 0.70% tx 0.24% / 0.00% listen 0.93% / 0.70%)
+09:51.173	ID:9	timer triggered!
+09:51.215	ID:3	 75524 P 7.0 58 1316471 18017363 42556 156619 0 130879 21126 306551 0 2160 0 2160 (radio 1.03% / 0.65% tx 0.22% / 0.00% listen 0.81% / 0.65%)
+09:51.219	ID:5	timer triggered!
+09:51.388	ID:3	timer triggered!

@@ -1,0 +1,20 @@
+00:00.333	ID:3	Rime started with address 3.0
+00:00.342	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:00.352	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.354	ID:3	Starting 'multihop example'
+00:00.511	ID:1	Rime started with address 1.0
+00:00.520	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.529	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.532	ID:1	Starting 'multihop example'
+00:00.662	ID:2	Rime started with address 2.0
+00:00.671	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.681	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.683	ID:2	Starting 'multihop example'
+00:00.817	ID:5	Rime started with address 5.0
+00:00.826	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.835	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.837	ID:5	Starting 'multihop example'
+00:00.969	ID:4	Rime started with address 4.0
+00:00.978	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.987	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.989	ID:4	Starting 'multihop example'

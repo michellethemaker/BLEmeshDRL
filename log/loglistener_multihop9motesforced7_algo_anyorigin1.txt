@@ -1,0 +1,2415 @@
+00:00.343	ID:8	Rime started with address 8.0
+00:00.353	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.362	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.364	ID:8	Starting 'multihop example'
+00:00.367	ID:8	initialised memb_init(&neighbor_mem);
+00:00.370	ID:8	initialised list_init(neighbor_table);
+00:00.372	ID:8	initialising reward matrix
+00:00.375	ID:8	Matrix rmatrixUPDATE: 
+00:00.385	ID:8	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:00.396	ID:8	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:00.407	ID:8	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:00.419	ID:8	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.429	ID:8	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.439	ID:8	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:00.450	ID:8	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.460	ID:8	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.468	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.469	ID:8	Matrix qmatrixUPDATE: 
+00:00.477	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.487	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.494	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.502	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.507	ID:2	Rime started with address 2.0
+00:00.510	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.516	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.518	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.521	ID:6	Rime started with address 6.0
+00:00.525	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.526	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.527	ID:2	Starting 'multihop example'
+00:00.530	ID:2	initialised memb_init(&neighbor_mem);
+00:00.531	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.533	ID:2	initialised list_init(neighbor_table);
+00:00.534	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.535	ID:2	initialising reward matrix
+00:00.538	ID:2	Matrix rmatrixUPDATE: 
+00:00.540	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.542	ID:6	Starting 'multihop example'
+00:00.542	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.544	ID:8	initialised ROUTE_INIT
+00:00.545	ID:6	initialised memb_init(&neighbor_mem);
+00:00.548	ID:6	initialised list_init(neighbor_table);
+00:00.548	ID:2	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:00.549	ID:6	initialising reward matrix
+00:00.552	ID:6	Matrix rmatrixUPDATE: 
+00:00.559	ID:2	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:00.563	ID:6	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:00.570	ID:2	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:00.573	ID:6	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:00.582	ID:2	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.585	ID:6	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:00.593	ID:2	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.596	ID:6	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.603	ID:2	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:00.607	ID:6	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.613	ID:2	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.617	ID:6	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:00.619	ID:4	Rime started with address 4.0
+00:00.623	ID:2	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.628	ID:6	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.628	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.631	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.633	ID:2	Matrix qmatrixUPDATE: 
+00:00.638	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.638	ID:6	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.640	ID:4	Starting 'multihop example'
+00:00.640	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.642	ID:4	initialised memb_init(&neighbor_mem);
+00:00.645	ID:4	initialised list_init(neighbor_table);
+00:00.646	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.647	ID:6	Matrix qmatrixUPDATE: 
+00:00.647	ID:4	initialising reward matrix
+00:00.650	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.650	ID:4	Matrix rmatrixUPDATE: 
+00:00.653	ID:1	Rime started with address 1.0
+00:00.655	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.658	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.661	ID:4	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:00.662	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.665	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.666	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.671	ID:4	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:00.671	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.672	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.672	ID:7	Rime started with address 7.0
+00:00.673	ID:1	Starting 'multihop example'
+00:00.673	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.676	ID:1	initialised memb_init(&neighbor_mem);
+00:00.679	ID:1	initialised list_init(neighbor_table);
+00:00.680	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.681	ID:1	initialising reward matrix
+00:00.681	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.682	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.682	ID:4	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:00.684	ID:1	Matrix rmatrixUPDATE: 
+00:00.688	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.689	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.691	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.693	ID:7	Starting 'multihop example'
+00:00.694	ID:4	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.694	ID:1	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:00.696	ID:7	initialised memb_init(&neighbor_mem);
+00:00.696	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.697	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.699	ID:7	initialised list_init(neighbor_table);
+00:00.701	ID:7	initialising reward matrix
+00:00.704	ID:7	Matrix rmatrixUPDATE: 
+00:00.704	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.705	ID:4	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.705	ID:1	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:00.706	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.707	ID:2	initialised ROUTE_INIT
+00:00.712	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.714	ID:7	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:00.715	ID:4	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:00.716	ID:1	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:00.720	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.722	ID:6	initialised ROUTE_INIT
+00:00.725	ID:7	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:00.726	ID:4	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.728	ID:1	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.735	ID:4	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.736	ID:7	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:00.739	ID:1	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.743	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.745	ID:4	Matrix qmatrixUPDATE: 
+00:00.748	ID:7	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.749	ID:1	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:00.753	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.758	ID:7	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.759	ID:1	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.762	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.768	ID:7	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:00.769	ID:1	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.770	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.777	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.778	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.779	ID:1	Matrix qmatrixUPDATE: 
+00:00.779	ID:7	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:00.786	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.786	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.789	ID:7	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:00.794	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.796	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.797	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.798	ID:7	Matrix qmatrixUPDATE: 
+00:00.801	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.804	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.806	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.809	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.812	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.816	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.818	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.820	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.820	ID:4	initialised ROUTE_INIT
+00:00.823	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.827	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.831	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.835	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.839	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.843	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.847	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.852	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.853	ID:1	initialised ROUTE_INIT
+00:00.855	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.863	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.871	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:00.873	ID:7	initialised ROUTE_INIT
+00:00.979	ID:9	Rime started with address 9.0
+00:00.986	ID:5	Rime started with address 5.0
+00:00.989	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.995	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.998	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.000	ID:9	Starting 'multihop example'
+00:01.002	ID:9	initialised memb_init(&neighbor_mem);
+00:01.004	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.005	ID:9	initialised list_init(neighbor_table);
+00:01.006	ID:5	Starting 'multihop example'
+00:01.007	ID:9	initialising reward matrix
+00:01.009	ID:5	initialised memb_init(&neighbor_mem);
+00:01.010	ID:9	Matrix rmatrixUPDATE: 
+00:01.012	ID:5	initialised list_init(neighbor_table);
+00:01.014	ID:5	initialising reward matrix
+00:01.017	ID:5	Matrix rmatrixUPDATE: 
+00:01.021	ID:9	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:01.027	ID:5	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:01.031	ID:9	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:01.038	ID:5	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:01.042	ID:9	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:01.049	ID:5	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:01.054	ID:9	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:01.061	ID:5	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:01.065	ID:9	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:01.072	ID:5	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:01.075	ID:9	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:01.081	ID:5	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:01.086	ID:9	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:01.092	ID:5	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:01.096	ID:9	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:01.102	ID:5	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:01.103	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.105	ID:9	Matrix qmatrixUPDATE: 
+00:01.110	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.112	ID:5	Matrix qmatrixUPDATE: 
+00:01.113	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.119	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.122	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.129	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.130	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.137	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.138	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.145	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.146	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.152	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.154	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.160	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.161	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.168	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.169	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.170	ID:3	Rime started with address 3.0
+00:01.176	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.178	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.179	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.180	ID:9	initialised ROUTE_INIT
+00:01.185	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.186	ID:5	initialised ROUTE_INIT
+00:01.189	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.191	ID:3	Starting 'multihop example'
+00:01.193	ID:3	initialised memb_init(&neighbor_mem);
+00:01.196	ID:3	initialised list_init(neighbor_table);
+00:01.198	ID:3	initialising reward matrix
+00:01.201	ID:3	Matrix rmatrixUPDATE: 
+00:01.212	ID:3	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	
+00:01.222	ID:3	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	0.0	100.0	
+00:01.233	ID:3	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	100.0	
+00:01.245	ID:3	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:01.256	ID:3	-1.0	-1.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:01.266	ID:3	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	0.0	
+00:01.277	ID:3	0.0	0.0	-1.0	-1.0	-1.0	-1.0	-1.0	-1.0	0.0	
+00:01.286	ID:3	0.0	0.0	0.0	-1.0	-1.0	0.0	-1.0	-1.0	0.0	
+00:01.294	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.296	ID:3	Matrix qmatrixUPDATE: 
+00:01.304	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.313	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.321	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.329	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.337	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.345	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.352	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.360	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.369	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:01.371	ID:3	initialised ROUTE_INIT
+00:05.543	ID:8	timer triggered!
+00:05.707	ID:2	timer triggered!
+00:05.708	ID:2	data sent from: 2
+00:05.714	ID:2	node 2.0 fwdto-> node 1.0 (3 in list), hops 1   ->state: 2, action: 1
+00:05.716	ID:2	temp_max == qMatrix[1][1]
+00:05.718	ID:2	temp_max == qMatrix[1][2]
+00:05.720	ID:2	temp_max == qMatrix[1][3]
+00:05.721	ID:6	timer triggered!
+00:05.722	ID:2	temp_max == qMatrix[1][4]
+00:05.723	ID:2	temp_max == qMatrix[1][5]
+00:05.725	ID:2	temp_max == qMatrix[1][6]
+00:05.727	ID:2	temp_max == qMatrix[1][7]
+00:05.729	ID:2	temp_max == qMatrix[1][8]
+00:05.731	ID:2	temp_max == qMatrix[1][9]
+00:05.734	ID:2	random a out of all max: 5 index of max= 6
+00:05.735	ID:2	0.0
+00:05.738	ID:2	qMatrix state of 2 & action of 1 
+00:05.741	ID:2	rMatrix value = -1.0
+00:05.743	ID:2	GAMMA * max_value = 0.0
+00:05.746	ID:2	qMatrix state = 0.8000
+00:05.752	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.8000
+00:05.762	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:05.768	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:05.774	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:05.774	ID:2	
+00:05.776	ID:2	Q Max: 0.0
+00:05.777	ID:2	Matrix updatedqMatrix: 
+00:05.785	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.794	ID:2	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.802	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.810	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.817	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.825	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.833	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.834	ID:4	timer triggered!
+00:05.841	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.850	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.853	ID:1	timer triggered!
+00:05.870	ID:2	qMatrix got updaTED with sumA = 0.0
+00:05.870	ID:2	
+00:05.871	ID:2	Score: 0.0
+00:05.872	ID:7	timer triggered!
+00:05.874	ID:7	data sent from: 7
+00:05.875	ID:2	new final_max is: 0.8000
+00:05.879	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1   ->state: 7, action: 8
+00:05.881	ID:7	temp_max == qMatrix[8][1]
+00:05.883	ID:7	temp_max == qMatrix[8][2]
+00:05.884	ID:2	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:05.885	ID:7	temp_max == qMatrix[8][3]
+00:05.887	ID:7	temp_max == qMatrix[8][4]
+00:05.889	ID:7	temp_max == qMatrix[8][5]
+00:05.891	ID:7	temp_max == qMatrix[8][6]
+00:05.892	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.893	ID:7	temp_max == qMatrix[8][7]
+00:05.895	ID:7	temp_max == qMatrix[8][8]
+00:05.897	ID:7	temp_max == qMatrix[8][9]
+00:05.900	ID:7	random a out of all max: 0 index of max= 1
+00:05.901	ID:7	0.0
+00:05.901	ID:2	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.904	ID:7	qMatrix state of 7 & action of 8 
+00:05.906	ID:7	rMatrix value = -1.0
+00:05.908	ID:7	GAMMA * max_value = 0.0
+00:05.909	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.911	ID:7	qMatrix state = 0.8000
+00:05.917	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.921	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.8000
+00:05.925	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.927	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:05.933	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.934	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:05.940	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:05.940	ID:7	
+00:05.940	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.941	ID:7	Q Max: 0.0
+00:05.943	ID:7	Matrix updatedqMatrix: 
+00:05.948	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.951	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.957	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.959	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.967	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.974	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.982	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.990	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:05.999	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8000	0.0	
+00:06.006	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.015	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.035	ID:7	qMatrix got updaTED with sumA = 0.0
+00:06.035	ID:7	
+00:06.036	ID:7	Score: 0.0
+00:06.043	ID:7	new final_max is: 0.8000
+00:06.048	ID:7	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:06.056	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.066	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.073	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.081	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.089	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.097	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.105	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.8000	0.0	
+00:06.113	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.122	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.179	ID:9	timer triggered!
+00:06.186	ID:5	timer triggered!
+00:06.370	ID:3	timer triggered!
+00:06.489	ID:8	node 8.0 fwdto-> node 5.0 (2 in list), hops 2   ->state: 8, action: 5
+00:06.491	ID:8	temp_max == qMatrix[5][1]
+00:06.493	ID:8	temp_max == qMatrix[5][2]
+00:06.495	ID:8	temp_max == qMatrix[5][3]
+00:06.497	ID:8	temp_max == qMatrix[5][4]
+00:06.499	ID:8	temp_max == qMatrix[5][5]
+00:06.500	ID:8	temp_max == qMatrix[5][6]
+00:06.502	ID:8	temp_max == qMatrix[5][7]
+00:06.504	ID:8	temp_max == qMatrix[5][8]
+00:06.506	ID:8	temp_max == qMatrix[5][9]
+00:06.509	ID:8	random a out of all max: 4 index of max= 5
+00:06.510	ID:8	0.0
+00:06.514	ID:8	qMatrix state of 8 & action of 5 
+00:06.516	ID:8	rMatrix value = -1.0
+00:06.518	ID:8	GAMMA * max_value = 0.0
+00:06.521	ID:8	qMatrix state = 0.8000
+00:06.531	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.8000
+00:06.537	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:06.542	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:06.546	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:06.548	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:06.548	ID:8	
+00:06.550	ID:8	Q Max: 0.0
+00:06.551	ID:8	Matrix updatedqMatrix: 
+00:06.559	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.567	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.575	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.583	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.590	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.598	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.608	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.616	ID:8	0.0	0.0	0.0	0.0	0.8000	0.0	0.0	0.0	0.0	
+00:06.625	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.644	ID:8	qMatrix got updaTED with sumA = 0.0
+00:06.644	ID:8	
+00:06.646	ID:8	Score: 0.0
+00:06.653	ID:8	new final_max is: 0.8000
+00:06.657	ID:8	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:06.665	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.673	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.681	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.689	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.697	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.704	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.712	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.721	ID:8	0.0	0.0	0.0	0.0	0.8000	0.0	0.0	0.0	0.0	
+00:06.731	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.756	ID:5	node 5.0 fwdto-> node 1.0 (7 in list), hops 3   ->state: 5, action: 1
+00:06.758	ID:5	temp_max == qMatrix[1][1]
+00:06.760	ID:5	temp_max == qMatrix[1][2]
+00:06.762	ID:5	temp_max == qMatrix[1][3]
+00:06.764	ID:5	temp_max == qMatrix[1][4]
+00:06.766	ID:5	temp_max == qMatrix[1][5]
+00:06.768	ID:5	temp_max == qMatrix[1][6]
+00:06.770	ID:5	temp_max == qMatrix[1][7]
+00:06.772	ID:5	temp_max == qMatrix[1][8]
+00:06.774	ID:5	temp_max == qMatrix[1][9]
+00:06.777	ID:5	random a out of all max: 1 index of max= 2
+00:06.778	ID:5	0.0
+00:06.781	ID:5	qMatrix state of 5 & action of 1 
+00:06.783	ID:5	rMatrix value = -1.0
+00:06.786	ID:5	GAMMA * max_value = 0.0
+00:06.788	ID:5	qMatrix state = 0.8000
+00:06.797	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.8000
+00:06.804	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:06.810	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:06.815	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:06.815	ID:5	
+00:06.817	ID:5	Q Max: 0.0
+00:06.819	ID:5	Matrix updatedqMatrix: 
+00:06.826	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.834	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.842	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.850	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.859	ID:5	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.866	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.876	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.884	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.892	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.912	ID:5	qMatrix got updaTED with sumA = 0.0
+00:06.912	ID:5	
+00:06.914	ID:5	Score: 0.0
+00:06.919	ID:5	new final_max is: 0.8000
+00:06.926	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:06.934	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.941	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.949	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.957	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.966	ID:5	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.974	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.981	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:06.989	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:07.000	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:07.045	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:10.391	ID:8	 1284 P 8.0 0 44343 284054 4462 4170 0 2487 44343 284054 4462 4170 0 2487 (radio 2.62% / 2.62% tx 1.35% / 1.35% listen 1.26% / 1.26%)
+00:10.543	ID:8	timer triggered!
+00:10.555	ID:2	 1284 P 2.0 0 60262 268135 13223 13956 0 6119 60262 268135 13223 13956 0 6119 (radio 8.27% / 8.27% tx 4.02% / 4.02% listen 4.24% / 4.24%)
+00:10.569	ID:6	 1284 P 6.0 0 36068 292329 4311 4352 0 3011 36068 292329 4311 4352 0 3011 (radio 2.63% / 2.63% tx 1.31% / 1.31% listen 1.32% / 1.32%)
+00:10.666	ID:4	 1284 P 4.0 0 35913 292484 4311 4164 0 2692 35913 292484 4311 4164 0 2692 (radio 2.58% / 2.58% tx 1.31% / 1.31% listen 1.26% / 1.26%)
+00:10.700	ID:1	 1284 P 1.0 0 29704 298690 2160 3565 0 2436 29704 298690 2160 3565 0 2436 (radio 1.74% / 1.74% tx 0.65% / 0.65% listen 1.08% / 1.08%)
+00:10.720	ID:7	 1284 P 7.0 0 52962 275429 10648 9698 0 2013 52962 275429 10648 9698 0 2013 (radio 6.19% / 6.19% tx 3.24% / 3.24% listen 2.95% / 2.95%)
+00:10.721	ID:6	timer triggered!
+00:10.834	ID:4	timer triggered!
+00:10.853	ID:1	timer triggered!
+00:10.956	ID:2	timer triggered!
+00:11.026	ID:9	 1284 P 9.0 0 29431 298963 2166 2893 0 2012 29431 298963 2166 2893 0 2012 (radio 1.54% / 1.54% tx 0.65% / 0.65% listen 0.88% / 0.88%)
+00:11.033	ID:5	 1284 P 5.0 0 44766 283642 2757 5731 0 2839 44766 283642 2757 5731 0 2839 (radio 2.58% / 2.58% tx 0.83% / 0.83% listen 1.74% / 1.74%)
+00:11.122	ID:7	timer triggered!
+00:11.179	ID:9	timer triggered!
+00:11.186	ID:5	timer triggered!
+00:11.217	ID:3	 1284 P 3.0 0 34069 294322 4321 3549 0 2555 34069 294322 4321 3549 0 2555 (radio 2.39% / 2.39% tx 1.31% / 1.31% listen 1.08% / 1.08%)
+00:11.370	ID:3	timer triggered!
+00:15.543	ID:8	timer triggered!
+00:15.721	ID:6	timer triggered!
+00:15.834	ID:4	timer triggered!
+00:15.836	ID:4	data sent from: 4
+00:15.842	ID:4	node 4.0 fwdto-> node 1.0 (3 in list), hops 1   ->state: 4, action: 1
+00:15.844	ID:4	temp_max == qMatrix[1][1]
+00:15.845	ID:4	temp_max == qMatrix[1][2]
+00:15.847	ID:4	temp_max == qMatrix[1][3]
+00:15.849	ID:4	temp_max == qMatrix[1][4]
+00:15.851	ID:4	temp_max == qMatrix[1][5]
+00:15.853	ID:1	timer triggered!
+00:15.853	ID:4	temp_max == qMatrix[1][6]
+00:15.855	ID:4	temp_max == qMatrix[1][7]
+00:15.857	ID:4	temp_max == qMatrix[1][8]
+00:15.859	ID:4	temp_max == qMatrix[1][9]
+00:15.862	ID:4	random a out of all max: 6 index of max= 7
+00:15.863	ID:4	0.0
+00:15.866	ID:4	qMatrix state of 4 & action of 1 
+00:15.869	ID:4	rMatrix value = -1.0
+00:15.871	ID:4	GAMMA * max_value = 0.0
+00:15.873	ID:4	qMatrix state = 0.8000
+00:15.883	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.8000
+00:15.891	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+00:15.896	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+00:15.902	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+00:15.902	ID:4	
+00:15.904	ID:4	Q Max: 0.0
+00:15.905	ID:4	Matrix updatedqMatrix: 
+00:15.913	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.921	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.929	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.937	ID:4	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.945	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.953	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.956	ID:2	timer triggered!
+00:15.961	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.969	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.977	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:15.997	ID:4	qMatrix got updaTED with sumA = 0.0
+00:15.997	ID:4	
+00:15.999	ID:4	Score: 0.0
+00:16.003	ID:4	new final_max is: 0.8000
+00:16.012	ID:4	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:16.020	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.028	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.036	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.045	ID:4	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.052	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.060	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.068	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.076	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.085	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.122	ID:7	timer triggered!
+00:16.171	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:16.179	ID:9	timer triggered!
+00:16.186	ID:5	timer triggered!
+00:16.187	ID:5	data sent from: 5
+00:16.193	ID:5	node 5.0 fwdto-> node 1.0 (0 in list), hops 1   ->state: 5, action: 1
+00:16.195	ID:5	temp_max == qMatrix[1][1]
+00:16.197	ID:5	temp_max == qMatrix[1][2]
+00:16.199	ID:5	temp_max == qMatrix[1][3]
+00:16.201	ID:5	temp_max == qMatrix[1][4]
+00:16.202	ID:5	temp_max == qMatrix[1][5]
+00:16.204	ID:5	temp_max == qMatrix[1][6]
+00:16.206	ID:5	temp_max == qMatrix[1][7]
+00:16.208	ID:5	temp_max == qMatrix[1][8]
+00:16.210	ID:5	temp_max == qMatrix[1][9]
+00:16.213	ID:5	random a out of all max: 0 index of max= 1
+00:16.214	ID:5	0.0
+00:16.218	ID:5	qMatrix state of 5 & action of 1 
+00:16.220	ID:5	rMatrix value = -1.0
+00:16.222	ID:5	GAMMA * max_value = 0.0
+00:16.225	ID:5	qMatrix state = 0.9600
+00:16.233	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9600
+00:16.241	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:16.248	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:16.253	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:16.253	ID:5	
+00:16.255	ID:5	Q Max: 0.0
+00:16.257	ID:5	Matrix updatedqMatrix: 
+00:16.265	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.272	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.280	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.288	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.297	ID:5	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.305	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.312	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.320	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.329	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.349	ID:5	qMatrix got updaTED with sumA = 0.0
+00:16.349	ID:5	
+00:16.350	ID:5	Score: 0.0
+00:16.356	ID:5	new final_max is: 0.9600
+00:16.363	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:16.370	ID:3	timer triggered!
+00:16.371	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.380	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.388	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.396	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.404	ID:5	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.412	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.420	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.428	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.437	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:16.546	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:20.390	ID:8	 2564 P 8.0 1 66903 589174 4462 7194 0 5054 22557 305120 0 3024 0 2567 (radio 1.77% / 0.92% tx 0.68% / 0.00% listen 1.09% / 0.92%)
+00:20.543	ID:8	timer triggered!
+00:20.554	ID:2	 2564 P 2.0 1 82846 573231 13223 16847 0 8550 22581 305096 0 2891 0 2431 (radio 4.58% / 0.88% tx 2.01% / 0.00% listen 2.56% / 0.88%)
+00:20.568	ID:6	 2564 P 6.0 1 58602 597475 4311 7121 0 5294 22531 305146 0 2769 0 2283 (radio 1.74% / 0.84% tx 0.65% / 0.00% listen 1.08% / 0.84%)
+00:20.666	ID:4	 2564 P 4.0 1 69130 586947 5684 7983 0 4961 33214 294463 1373 3819 0 2269 (radio 2.08% / 1.58% tx 0.86% / 0.41% listen 1.21% / 1.16%)
+00:20.700	ID:1	 2564 P 1.0 1 54404 601668 4322 6331 0 4489 24697 302978 2162 2766 0 2053 (radio 1.62% / 1.50% tx 0.65% / 0.65% listen 0.96% / 0.84%)
+00:20.719	ID:7	 2564 P 7.0 1 72839 583233 10648 12120 0 4133 19874 307804 0 2422 0 2120 (radio 3.47% / 0.73% tx 1.62% / 0.00% listen 1.84% / 0.73%)
+00:20.721	ID:6	timer triggered!
+00:20.853	ID:1	timer triggered!
+00:20.956	ID:2	timer triggered!
+00:21.026	ID:9	 2564 P 9.0 1 53970 602102 4333 5555 0 4267 24536 303139 2167 2662 0 2255 (radio 1.50% / 1.47% tx 0.66% / 0.66% listen 0.84% / 0.81%)
+00:21.033	ID:5	 2564 P 5.0 1 90473 565608 8908 9844 0 5066 45704 281966 6151 4113 0 2227 (radio 2.85% / 3.13% tx 1.35% / 1.87% listen 1.50% / 1.25%)
+00:21.084	ID:4	timer triggered!
+00:21.122	ID:7	timer triggered!
+00:21.179	ID:9	timer triggered!
+00:21.216	ID:3	 2564 P 3.0 1 53890 602182 4321 5976 0 4661 19818 307860 0 2427 0 2106 (radio 1.56% / 0.74% tx 0.65% / 0.00% listen 0.91% / 0.74%)
+00:21.370	ID:3	timer triggered!
+00:21.435	ID:5	timer triggered!
+00:25.543	ID:8	timer triggered!
+00:25.721	ID:6	timer triggered!
+00:25.852	ID:1	timer triggered!
+00:25.956	ID:2	timer triggered!
+00:26.084	ID:4	timer triggered!
+00:26.122	ID:7	timer triggered!
+00:26.179	ID:9	timer triggered!
+00:26.370	ID:3	timer triggered!
+00:26.435	ID:5	timer triggered!
+00:30.391	ID:8	 3844 P 8.0 2 93705 890052 6617 9950 0 7093 26799 300878 2155 2756 0 2039 (radio 1.68% / 1.49% tx 0.67% / 0.65% listen 1.01% / 0.84%)
+00:30.543	ID:8	timer triggered!
+00:30.555	ID:2	 3844 P 2.0 2 109588 874169 15384 19737 0 10617 26739 300938 2161 2890 0 2067 (radio 3.57% / 1.54% tx 1.56% / 0.65% listen 2.00% / 0.88%)
+00:30.569	ID:6	 3844 P 6.0 2 85197 898560 6470 9920 0 7333 26592 301085 2159 2799 0 2039 (radio 1.66% / 1.51% tx 0.65% / 0.65% listen 1.00% / 0.85%)
+00:30.667	ID:4	 3844 P 4.0 2 96297 887460 7843 10803 0 7000 27164 300513 2159 2820 0 2039 (radio 1.89% / 1.51% tx 0.79% / 0.65% listen 1.09% / 0.86%)
+00:30.700	ID:1	 3844 P 1.0 2 78488 905264 6483 8832 0 6582 24081 303596 2161 2501 0 2093 (radio 1.55% / 1.42% tx 0.65% / 0.65% listen 0.89% / 0.76%)
+00:30.720	ID:7	 3844 P 7.0 2 97151 886601 12808 14656 0 6240 24309 303368 2160 2536 0 2107 (radio 2.79% / 1.43% tx 1.30% / 0.65% listen 1.48% / 0.77%)
+00:30.721	ID:6	timer triggered!
+00:30.853	ID:1	timer triggered!
+00:30.956	ID:2	timer triggered!
+00:31.026	ID:9	 3844 P 9.0 2 78105 905647 6490 7967 0 6346 24132 303545 2157 2412 0 2079 (radio 1.46% / 1.39% tx 0.65% / 0.65% listen 0.80% / 0.73%)
+00:31.033	ID:5	 3844 P 5.0 2 116302 867462 8908 13190 0 7052 25826 301854 0 3346 0 1986 (radio 2.24% / 1.02% tx 0.90% / 0.00% listen 1.34% / 1.02%)
+00:31.084	ID:4	timer triggered!
+00:31.122	ID:7	timer triggered!
+00:31.179	ID:9	timer triggered!
+00:31.217	ID:3	 3844 P 3.0 2 77431 906321 6485 8472 0 6754 23538 304139 2164 2496 0 2093 (radio 1.52% / 1.42% tx 0.65% / 0.66% listen 0.86% / 0.76%)
+00:31.370	ID:3	timer triggered!
+00:31.435	ID:5	timer triggered!
+00:31.436	ID:5	data sent from: 5
+00:31.442	ID:5	node 5.0 fwdto-> node 1.0 (2 in list), hops 1   ->state: 5, action: 1
+00:31.444	ID:5	temp_max == qMatrix[1][1]
+00:31.446	ID:5	temp_max == qMatrix[1][2]
+00:31.448	ID:5	temp_max == qMatrix[1][3]
+00:31.450	ID:5	temp_max == qMatrix[1][4]
+00:31.452	ID:5	temp_max == qMatrix[1][5]
+00:31.454	ID:5	temp_max == qMatrix[1][6]
+00:31.456	ID:5	temp_max == qMatrix[1][7]
+00:31.458	ID:5	temp_max == qMatrix[1][8]
+00:31.460	ID:5	temp_max == qMatrix[1][9]
+00:31.463	ID:5	random a out of all max: 2 index of max= 3
+00:31.464	ID:5	0.0
+00:31.467	ID:5	qMatrix state of 5 & action of 1 
+00:31.469	ID:5	rMatrix value = -1.0
+00:31.471	ID:5	GAMMA * max_value = 0.0
+00:31.474	ID:5	qMatrix state = 0.9920
+00:31.482	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9920
+00:31.490	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:31.497	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:31.503	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:31.503	ID:5	
+00:31.504	ID:5	Q Max: 0.0
+00:31.506	ID:5	Matrix updatedqMatrix: 
+00:31.514	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.522	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.530	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.537	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.546	ID:5	0.9920	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.554	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.562	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.570	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.578	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.598	ID:5	qMatrix got updaTED with sumA = 0.0
+00:31.598	ID:5	
+00:31.600	ID:5	Score: 0.0
+00:31.605	ID:5	new final_max is: 0.9920
+00:31.612	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:31.620	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.629	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.637	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.645	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.654	ID:5	0.9920	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.662	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.669	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.677	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.686	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:31.796	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:35.543	ID:8	timer triggered!
+00:35.721	ID:6	timer triggered!
+00:35.722	ID:6	data sent from: 6
+00:35.728	ID:6	node 6.0 fwdto-> node 5.0 (4 in list), hops 1   ->state: 6, action: 5
+00:35.730	ID:6	temp_max == qMatrix[5][1]
+00:35.732	ID:6	temp_max == qMatrix[5][2]
+00:35.734	ID:6	temp_max == qMatrix[5][3]
+00:35.736	ID:6	temp_max == qMatrix[5][4]
+00:35.738	ID:6	temp_max == qMatrix[5][5]
+00:35.740	ID:6	temp_max == qMatrix[5][6]
+00:35.742	ID:6	temp_max == qMatrix[5][7]
+00:35.744	ID:6	temp_max == qMatrix[5][8]
+00:35.745	ID:6	temp_max == qMatrix[5][9]
+00:35.749	ID:6	random a out of all max: 1 index of max= 2
+00:35.749	ID:6	0.0
+00:35.752	ID:6	qMatrix state of 6 & action of 5 
+00:35.754	ID:6	rMatrix value = 0.0
+00:35.757	ID:6	GAMMA * max_value = 0.0
+00:35.759	ID:6	qMatrix state = 0.0
+00:35.769	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+00:35.774	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+00:35.779	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+00:35.780	ID:6	
+00:35.783	ID:6	Q Max: 0.0
+00:35.785	ID:6	Matrix updatedqMatrix: 
+00:35.792	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.800	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.808	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.816	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.824	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.832	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.839	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.847	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.852	ID:1	timer triggered!
+00:35.854	ID:1	data sent from: 1
+00:35.856	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.860	ID:1	node 1.0 fwdto-> node 2.0 (2 in list), hops 1   ->state: 1, action: 2
+00:35.862	ID:1	temp_max == qMatrix[2][1]
+00:35.863	ID:1	temp_max == qMatrix[2][2]
+00:35.865	ID:1	temp_max == qMatrix[2][3]
+00:35.867	ID:1	temp_max == qMatrix[2][4]
+00:35.869	ID:1	temp_max == qMatrix[2][5]
+00:35.871	ID:1	temp_max == qMatrix[2][6]
+00:35.873	ID:1	temp_max == qMatrix[2][7]
+00:35.875	ID:1	temp_max == qMatrix[2][8]
+00:35.876	ID:6	qMatrix got updaTED with sumA = -13544.-1
+00:35.876	ID:6	
+00:35.877	ID:1	temp_max == qMatrix[2][9]
+00:35.879	ID:6	Score: -13544.-1
+00:35.880	ID:1	random a out of all max: 3 index of max= 4
+00:35.881	ID:1	0.0
+00:35.884	ID:1	qMatrix state of 1 & action of 2 
+00:35.887	ID:1	rMatrix value = -1.0
+00:35.888	ID:6	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:35.889	ID:1	GAMMA * max_value = 0.0
+00:35.891	ID:1	qMatrix state = 0.8000
+00:35.896	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.897	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.8000
+00:35.904	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.907	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.0
+00:35.913	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.914	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.0
+00:35.920	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.0
+00:35.920	ID:1	
+00:35.921	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.922	ID:1	Q Max: 0.0
+00:35.923	ID:1	Matrix updatedqMatrix: 
+00:35.929	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.932	ID:1	0.0	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.936	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.940	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.944	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.948	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.952	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.955	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.956	ID:2	timer triggered!
+00:35.957	ID:2	data sent from: 2
+00:35.961	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.963	ID:2	node 2.0 fwdto-> node 1.0 (0 in list), hops 1   ->state: 2, action: 1
+00:35.963	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.965	ID:2	temp_max == qMatrix[1][1]
+00:35.967	ID:2	temp_max == qMatrix[1][2]
+00:35.969	ID:2	temp_max == qMatrix[1][3]
+00:35.971	ID:2	temp_max == qMatrix[1][4]
+00:35.971	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.973	ID:2	temp_max == qMatrix[1][5]
+00:35.975	ID:2	temp_max == qMatrix[1][6]
+00:35.977	ID:2	temp_max == qMatrix[1][7]
+00:35.978	ID:2	temp_max == qMatrix[1][8]
+00:35.979	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.980	ID:2	temp_max == qMatrix[1][9]
+00:35.984	ID:2	random a out of all max: 3 index of max= 4
+00:35.984	ID:2	0.0
+00:35.987	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:35.988	ID:2	qMatrix state of 2 & action of 1 
+00:35.990	ID:2	rMatrix value = -1.0
+00:35.992	ID:2	GAMMA * max_value = 0.0
+00:35.995	ID:2	qMatrix state = 0.9600
+00:35.995	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.002	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.9600
+00:36.007	ID:5	node 5.0 fwdto-> node 1.0 (0 in list), hops 2   ->state: 5, action: 1
+00:36.009	ID:5	temp_max == qMatrix[1][1]
+00:36.011	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:36.011	ID:5	temp_max == qMatrix[1][2]
+00:36.013	ID:5	temp_max == qMatrix[1][3]
+00:36.015	ID:5	temp_max == qMatrix[1][4]
+00:36.016	ID:1	qMatrix got updaTED with sumA = 0.0
+00:36.016	ID:1	
+00:36.017	ID:5	temp_max == qMatrix[1][5]
+00:36.017	ID:1	Score: 0.0
+00:36.018	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:36.019	ID:5	temp_max == qMatrix[1][6]
+00:36.020	ID:1	new final_max is: 0.8000
+00:36.021	ID:5	temp_max == qMatrix[1][7]
+00:36.023	ID:5	temp_max == qMatrix[1][8]
+00:36.024	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:36.024	ID:2	
+00:36.025	ID:5	temp_max == qMatrix[1][9]
+00:36.025	ID:2	Q Max: 0.0
+00:36.027	ID:2	Matrix updatedqMatrix: 
+00:36.028	ID:5	random a out of all max: 3 index of max= 4
+00:36.029	ID:5	0.0
+00:36.030	ID:1	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:36.032	ID:5	qMatrix state of 5 & action of 1 
+00:36.035	ID:5	rMatrix value = -1.0
+00:36.035	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.037	ID:5	GAMMA * max_value = 0.0
+00:36.040	ID:5	qMatrix state = 0.9984
+00:36.040	ID:1	0.0	0.8000	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.043	ID:2	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.048	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9984
+00:36.048	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.051	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.055	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:36.056	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.059	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.061	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:36.064	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.066	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:36.066	ID:5	
+00:36.067	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.068	ID:5	Q Max: 0.0
+00:36.070	ID:5	Matrix updatedqMatrix: 
+00:36.071	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.075	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.077	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.079	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.083	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.084	ID:4	timer triggered!
+00:36.085	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.087	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.090	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.093	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.095	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.099	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.101	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.104	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.110	ID:5	0.9984	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.117	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.119	ID:2	qMatrix got updaTED with sumA = 0.0
+00:36.119	ID:2	
+00:36.121	ID:2	Score: 0.0
+00:36.122	ID:7	timer triggered!
+00:36.124	ID:2	new final_max is: 0.9600
+00:36.129	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.133	ID:2	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:36.136	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.141	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.145	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.151	ID:2	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.159	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.165	ID:5	qMatrix got updaTED with sumA = 0.0
+00:36.165	ID:5	
+00:36.166	ID:5	Score: 0.0
+00:36.167	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.172	ID:5	new final_max is: 0.9984
+00:36.175	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.179	ID:9	timer triggered!
+00:36.179	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:36.183	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.187	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.190	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.195	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.198	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.202	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.207	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.210	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.216	ID:2	node 2.0 fwdto-> node 1.0 (2 in list), hops 2   ->state: 2, action: 1
+00:36.218	ID:2	temp_max == qMatrix[1][1]
+00:36.219	ID:5	0.9984	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.220	ID:2	temp_max == qMatrix[1][2]
+00:36.221	ID:2	temp_max == qMatrix[1][3]
+00:36.223	ID:2	temp_max == qMatrix[1][4]
+00:36.225	ID:2	temp_max == qMatrix[1][5]
+00:36.227	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.227	ID:2	temp_max == qMatrix[1][6]
+00:36.229	ID:2	temp_max == qMatrix[1][7]
+00:36.231	ID:2	temp_max == qMatrix[1][8]
+00:36.233	ID:2	temp_max == qMatrix[1][9]
+00:36.235	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.236	ID:2	random a out of all max: 8 index of max= 9
+00:36.237	ID:2	0.0
+00:36.240	ID:2	qMatrix state of 2 & action of 1 
+00:36.242	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.243	ID:2	rMatrix value = -1.0
+00:36.245	ID:2	GAMMA * max_value = 0.0
+00:36.248	ID:2	qMatrix state = 0.9920
+00:36.253	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.254	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.9920
+00:36.264	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:36.270	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:36.276	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+00:36.276	ID:2	
+00:36.278	ID:2	Q Max: 0.0
+00:36.280	ID:2	Matrix updatedqMatrix: 
+00:36.287	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.296	ID:2	0.9920	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.296	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:36.304	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.312	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.319	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.327	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.335	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.343	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.352	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.370	ID:3	timer triggered!
+00:36.372	ID:2	qMatrix got updaTED with sumA = 0.0
+00:36.372	ID:2	
+00:36.373	ID:2	Score: 0.0
+00:36.377	ID:2	new final_max is: 0.9920
+00:36.386	ID:2	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:36.395	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.404	ID:2	0.9920	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.412	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.420	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.428	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.435	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.443	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.451	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.460	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.547	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:36.552	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:36.685	ID:5	timer triggered!
+00:36.686	ID:5	data sent from: 5
+00:36.692	ID:5	node 5.0 fwdto-> node 1.0 (7 in list), hops 1   ->state: 5, action: 1
+00:36.694	ID:5	temp_max == qMatrix[1][1]
+00:36.696	ID:5	temp_max == qMatrix[1][2]
+00:36.698	ID:5	temp_max == qMatrix[1][3]
+00:36.700	ID:5	temp_max == qMatrix[1][4]
+00:36.702	ID:5	temp_max == qMatrix[1][5]
+00:36.704	ID:5	temp_max == qMatrix[1][6]
+00:36.706	ID:5	temp_max == qMatrix[1][7]
+00:36.708	ID:5	temp_max == qMatrix[1][8]
+00:36.709	ID:5	temp_max == qMatrix[1][9]
+00:36.713	ID:5	random a out of all max: 2 index of max= 3
+00:36.713	ID:5	0.0
+00:36.717	ID:5	qMatrix state of 5 & action of 1 
+00:36.719	ID:5	rMatrix value = -1.0
+00:36.721	ID:5	GAMMA * max_value = 0.0
+00:36.724	ID:5	qMatrix state = 0.9996
+00:36.732	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9996
+00:36.740	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:36.747	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:36.753	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:36.753	ID:5	
+00:36.754	ID:5	Q Max: 0.0
+00:36.756	ID:5	Matrix updatedqMatrix: 
+00:36.764	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.772	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.780	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.787	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.796	ID:5	0.9996	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.804	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.812	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.819	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.828	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.848	ID:5	qMatrix got updaTED with sumA = 0.0
+00:36.848	ID:5	
+00:36.849	ID:5	Score: 0.0
+00:36.855	ID:5	new final_max is: 0.9996
+00:36.862	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:36.870	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.879	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.887	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.895	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.904	ID:5	0.9996	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.912	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.919	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.927	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:36.936	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:37.046	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:40.391	ID:8	 5124 P 8.0 3 116416 1195020 6617 12902 0 9741 22708 304968 0 2952 0 2648 (radio 1.48% / 0.90% tx 0.50% / 0.00% listen 0.98% / 0.90%)
+00:40.543	ID:8	timer triggered!
+00:40.556	ID:2	 5124 P 2.0 3 151231 1160205 16802 25847 0 13223 41640 286036 1418 6110 0 2606 (radio 3.25% / 2.29% tx 1.28% / 0.43% listen 1.97% / 1.86%)
+00:40.570	ID:6	 5124 P 6.0 3 116733 1194703 7020 13439 0 10182 31533 296143 550 3519 0 2849 (radio 1.56% / 1.24% tx 0.53% / 0.16% listen 1.02% / 1.07%)
+00:40.666	ID:4	 5124 P 4.0 3 119015 1192421 7843 14013 0 9866 22715 304961 0 3210 0 2866 (radio 1.66% / 0.97% tx 0.59% / 0.00% listen 1.06% / 0.97%)
+00:40.701	ID:1	 5124 P 1.0 3 112082 1199346 9237 12268 0 8633 33591 294082 2754 3436 0 2051 (radio 1.63% / 1.88% tx 0.70% / 0.84% listen 0.93% / 1.04%)
+00:40.721	ID:7	 5124 P 7.0 3 121058 1190370 14966 16869 0 8373 23904 303769 2158 2213 0 2133 (radio 2.42% / 1.33% tx 1.14% / 0.65% listen 1.28% / 0.67%)
+00:40.963	ID:6	timer triggered!
+00:41.027	ID:9	 5124 P 9.0 3 102227 1209201 8658 10735 0 9035 24119 303554 2168 2768 0 2689 (radio 1.47% / 1.50% tx 0.66% / 0.66% listen 0.81% / 0.84%)
+00:41.035	ID:5	 5124 P 5.0 3 175172 1136270 13124 19557 0 9454 58867 268808 4216 6367 0 2402 (radio 2.49% / 3.22% tx 1.00% / 1.28% listen 1.49% / 1.94%)
+00:41.084	ID:4	timer triggered!
+00:41.102	ID:1	timer triggered!
+00:41.122	ID:7	timer triggered!
+00:41.179	ID:9	timer triggered!
+00:41.206	ID:2	timer triggered!
+00:41.217	ID:3	 5124 P 3.0 3 97338 1214093 6485 10632 0 8914 19904 307772 0 2160 0 2160 (radio 1.30% / 0.65% tx 0.49% / 0.00% listen 0.81% / 0.65%)
+00:41.370	ID:3	timer triggered!
+00:41.935	ID:5	timer triggered!
+00:45.543	ID:8	timer triggered!
+00:45.963	ID:6	timer triggered!
+00:46.084	ID:4	timer triggered!
+00:46.102	ID:1	timer triggered!
+00:46.122	ID:7	timer triggered!
+00:46.179	ID:9	timer triggered!
+00:46.206	ID:2	timer triggered!
+00:46.370	ID:3	timer triggered!
+00:46.935	ID:5	timer triggered!
+00:50.392	ID:8	 6404 P 8.0 4 142266 1496847 8776 15232 0 11847 25847 301827 2159 2330 0 2106 (radio 1.46% / 1.36% tx 0.53% / 0.65% listen 0.92% / 0.71%)
+00:50.543	ID:8	timer triggered!
+00:50.555	ID:2	 6404 P 2.0 4 173900 1465216 16802 28125 0 15356 22666 305011 0 2278 0 2133 (radio 2.74% / 0.69% tx 1.02% / 0.00% listen 1.71% / 0.69%)
+00:50.570	ID:6	 6404 P 6.0 4 143555 1495558 9180 15771 0 12288 26819 300855 2160 2332 0 2106 (radio 1.52% / 1.37% tx 0.56% / 0.65% listen 0.96% / 0.71%)
+00:50.667	ID:4	 6404 P 4.0 4 141617 1497499 7843 16283 0 11999 22599 305078 0 2270 0 2133 (radio 1.47% / 0.69% tx 0.47% / 0.00% listen 0.99% / 0.69%)
+00:50.700	ID:1	 6404 P 1.0 4 130741 1508367 9237 14428 0 10793 18656 309021 0 2160 0 2160 (radio 1.44% / 0.65% tx 0.56% / 0.00% listen 0.88% / 0.65%)
+00:50.720	ID:7	 6404 P 7.0 4 139816 1499292 14966 19188 0 10506 18755 308922 0 2319 0 2133 (radio 2.08% / 0.70% tx 0.91% / 0.00% listen 1.17% / 0.70%)
+00:50.963	ID:6	timer triggered!
+00:51.026	ID:9	 6404 P 9.0 4 121026 1518082 8658 13168 0 11141 18796 308881 0 2433 0 2106 (radio 1.33% / 0.74% tx 0.52% / 0.00% listen 0.80% / 0.74%)
+00:51.034	ID:5	 6404 P 5.0 4 201831 1437291 13124 21979 0 11574 26656 301021 0 2422 0 2120 (radio 2.14% / 0.73% tx 0.80% / 0.00% listen 1.34% / 0.73%)
+00:51.102	ID:1	timer triggered!
+00:51.122	ID:7	timer triggered!
+00:51.123	ID:7	data sent from: 7
+00:51.129	ID:7	node 7.0 fwdto-> node 8.0 (0 in list), hops 1   ->state: 7, action: 8
+00:51.131	ID:7	temp_max == qMatrix[8][1]
+00:51.133	ID:7	temp_max == qMatrix[8][2]
+00:51.134	ID:7	temp_max == qMatrix[8][3]
+00:51.136	ID:7	temp_max == qMatrix[8][4]
+00:51.138	ID:7	temp_max == qMatrix[8][5]
+00:51.140	ID:7	temp_max == qMatrix[8][6]
+00:51.142	ID:7	temp_max == qMatrix[8][7]
+00:51.144	ID:7	temp_max == qMatrix[8][8]
+00:51.146	ID:7	temp_max == qMatrix[8][9]
+00:51.149	ID:7	random a out of all max: 3 index of max= 4
+00:51.150	ID:7	0.0
+00:51.153	ID:7	qMatrix state of 7 & action of 8 
+00:51.156	ID:7	rMatrix value = -1.0
+00:51.158	ID:7	GAMMA * max_value = 0.0
+00:51.161	ID:7	qMatrix state = 0.9600
+00:51.170	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.9600
+00:51.177	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:51.179	ID:9	timer triggered!
+00:51.183	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:51.189	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:51.189	ID:7	
+00:51.191	ID:7	Q Max: 0.0
+00:51.193	ID:7	Matrix updatedqMatrix: 
+00:51.201	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.206	ID:2	timer triggered!
+00:51.208	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.216	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.217	ID:4	timer triggered!
+00:51.218	ID:3	 6404 P 3.0 4 117318 1521793 6485 12943 0 11061 19977 307700 0 2311 0 2147 (radio 1.18% / 0.70% tx 0.39% / 0.00% listen 0.78% / 0.70%)
+00:51.224	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.232	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.240	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.248	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9600	0.0	
+00:51.256	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.265	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.284	ID:7	qMatrix got updaTED with sumA = 0.0
+00:51.285	ID:7	
+00:51.286	ID:7	Score: 0.0
+00:51.294	ID:7	new final_max is: 0.9600
+00:51.298	ID:7	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:51.306	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.315	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.323	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.331	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.339	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.346	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.355	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9600	0.0	
+00:51.363	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.370	ID:3	timer triggered!
+00:51.372	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.489	ID:8	node 8.0 fwdto-> node 5.0 (1 in list), hops 2   ->state: 8, action: 5
+00:51.491	ID:8	temp_max == qMatrix[5][1]
+00:51.493	ID:8	temp_max == qMatrix[5][2]
+00:51.495	ID:8	temp_max == qMatrix[5][3]
+00:51.497	ID:8	temp_max == qMatrix[5][4]
+00:51.499	ID:8	temp_max == qMatrix[5][5]
+00:51.500	ID:8	temp_max == qMatrix[5][6]
+00:51.502	ID:8	temp_max == qMatrix[5][7]
+00:51.504	ID:8	temp_max == qMatrix[5][8]
+00:51.506	ID:8	temp_max == qMatrix[5][9]
+00:51.509	ID:8	random a out of all max: 3 index of max= 4
+00:51.510	ID:8	0.0
+00:51.514	ID:8	qMatrix state of 8 & action of 5 
+00:51.516	ID:8	rMatrix value = -1.0
+00:51.518	ID:8	GAMMA * max_value = 0.0
+00:51.521	ID:8	qMatrix state = 0.9600
+00:51.531	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.9600
+00:51.537	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:51.543	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:51.548	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:51.548	ID:8	
+00:51.550	ID:8	Q Max: 0.0
+00:51.551	ID:8	Matrix updatedqMatrix: 
+00:51.559	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.567	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.575	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.583	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.590	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.598	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.608	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.616	ID:8	0.0	0.0	0.0	0.0	0.9600	0.0	0.0	0.0	0.0	
+00:51.625	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.645	ID:8	qMatrix got updaTED with sumA = 0.0
+00:51.645	ID:8	
+00:51.646	ID:8	Score: 0.0
+00:51.654	ID:8	new final_max is: 0.9600
+00:51.658	ID:8	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:51.666	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.674	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.682	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.690	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.698	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.705	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.713	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.722	ID:8	0.0	0.0	0.0	0.0	0.9600	0.0	0.0	0.0	0.0	
+00:51.732	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.757	ID:5	node 5.0 fwdto-> node 1.0 (3 in list), hops 3   ->state: 5, action: 1
+00:51.759	ID:5	temp_max == qMatrix[1][1]
+00:51.761	ID:5	temp_max == qMatrix[1][2]
+00:51.763	ID:5	temp_max == qMatrix[1][3]
+00:51.765	ID:5	temp_max == qMatrix[1][4]
+00:51.767	ID:5	temp_max == qMatrix[1][5]
+00:51.769	ID:5	temp_max == qMatrix[1][6]
+00:51.771	ID:5	temp_max == qMatrix[1][7]
+00:51.773	ID:5	temp_max == qMatrix[1][8]
+00:51.775	ID:5	temp_max == qMatrix[1][9]
+00:51.778	ID:5	random a out of all max: 1 index of max= 2
+00:51.779	ID:5	0.0
+00:51.782	ID:5	qMatrix state of 5 & action of 1 
+00:51.784	ID:5	rMatrix value = -1.0
+00:51.787	ID:5	GAMMA * max_value = 0.0
+00:51.789	ID:5	qMatrix state = 0.9999
+00:51.798	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9999
+00:51.805	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:51.811	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:51.816	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:51.816	ID:5	
+00:51.818	ID:5	Q Max: 0.0
+00:51.820	ID:5	Matrix updatedqMatrix: 
+00:51.827	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.835	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.843	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.851	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.859	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.867	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.877	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.885	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.893	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.913	ID:5	qMatrix got updaTED with sumA = 0.0
+00:51.913	ID:5	
+00:51.915	ID:5	Score: 0.0
+00:51.920	ID:5	new final_max is: 0.9999
+00:51.927	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:51.935	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.943	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.951	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.958	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.967	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.975	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.983	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:51.991	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:52.001	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:52.046	ID:5	timer triggered!
+00:52.047	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+00:55.543	ID:8	timer triggered!
+00:55.963	ID:6	timer triggered!
+00:56.102	ID:1	timer triggered!
+00:56.179	ID:9	timer triggered!
+00:56.217	ID:4	timer triggered!
+00:56.236	ID:2	timer triggered!
+00:56.370	ID:3	timer triggered!
+00:56.372	ID:7	timer triggered!
+00:56.373	ID:7	data sent from: 7
+00:56.379	ID:7	node 7.0 fwdto-> node 8.0 (2 in list), hops 1   ->state: 7, action: 8
+00:56.381	ID:7	temp_max == qMatrix[8][1]
+00:56.383	ID:7	temp_max == qMatrix[8][2]
+00:56.384	ID:7	temp_max == qMatrix[8][3]
+00:56.386	ID:7	temp_max == qMatrix[8][4]
+00:56.388	ID:7	temp_max == qMatrix[8][5]
+00:56.390	ID:7	temp_max == qMatrix[8][6]
+00:56.392	ID:7	temp_max == qMatrix[8][7]
+00:56.394	ID:7	temp_max == qMatrix[8][8]
+00:56.396	ID:7	temp_max == qMatrix[8][9]
+00:56.399	ID:7	random a out of all max: 2 index of max= 3
+00:56.400	ID:7	0.0
+00:56.403	ID:7	qMatrix state of 7 & action of 8 
+00:56.406	ID:7	rMatrix value = -1.0
+00:56.408	ID:7	GAMMA * max_value = 0.0
+00:56.411	ID:7	qMatrix state = 0.9920
+00:56.421	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.9920
+00:56.427	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:56.434	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:56.439	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+00:56.439	ID:7	
+00:56.441	ID:7	Q Max: 0.0
+00:56.443	ID:7	Matrix updatedqMatrix: 
+00:56.451	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.458	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.466	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.474	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.482	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.490	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.498	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9920	0.0	
+00:56.506	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.515	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.534	ID:7	qMatrix got updaTED with sumA = 0.0
+00:56.535	ID:7	
+00:56.536	ID:7	Score: 0.0
+00:56.544	ID:7	new final_max is: 0.9920
+00:56.548	ID:7	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:56.556	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.566	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.574	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.581	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.589	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.597	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.606	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9920	0.0	
+00:56.614	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.622	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.737	ID:8	node 8.0 fwdto-> node 5.0 (1 in list), hops 2   ->state: 8, action: 5
+00:56.739	ID:8	temp_max == qMatrix[5][1]
+00:56.741	ID:8	temp_max == qMatrix[5][2]
+00:56.743	ID:8	temp_max == qMatrix[5][3]
+00:56.745	ID:8	temp_max == qMatrix[5][4]
+00:56.747	ID:8	temp_max == qMatrix[5][5]
+00:56.749	ID:8	temp_max == qMatrix[5][6]
+00:56.751	ID:8	temp_max == qMatrix[5][7]
+00:56.753	ID:8	temp_max == qMatrix[5][8]
+00:56.755	ID:8	temp_max == qMatrix[5][9]
+00:56.758	ID:8	random a out of all max: 1 index of max= 2
+00:56.759	ID:8	0.0
+00:56.762	ID:8	qMatrix state of 8 & action of 5 
+00:56.765	ID:8	rMatrix value = -1.0
+00:56.767	ID:8	GAMMA * max_value = 0.0
+00:56.770	ID:8	qMatrix state = 0.9920
+00:56.780	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.9920
+00:56.786	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:56.791	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:56.796	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+00:56.796	ID:8	
+00:56.798	ID:8	Q Max: 0.0
+00:56.800	ID:8	Matrix updatedqMatrix: 
+00:56.807	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.815	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.823	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.831	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.839	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.847	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.856	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.865	ID:8	0.0	0.0	0.0	0.0	0.9920	0.0	0.0	0.0	0.0	
+00:56.873	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.893	ID:8	qMatrix got updaTED with sumA = 0.0
+00:56.893	ID:8	
+00:56.894	ID:8	Score: 0.0
+00:56.903	ID:8	new final_max is: 0.9920
+00:56.907	ID:8	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:56.915	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.922	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.930	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.938	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.946	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.954	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.962	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:56.970	ID:8	0.0	0.0	0.0	0.0	0.9920	0.0	0.0	0.0	0.0	
+00:56.981	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.008	ID:5	node 5.0 fwdto-> node 1.0 (6 in list), hops 3   ->state: 5, action: 1
+00:57.010	ID:5	temp_max == qMatrix[1][1]
+00:57.012	ID:5	temp_max == qMatrix[1][2]
+00:57.014	ID:5	temp_max == qMatrix[1][3]
+00:57.016	ID:5	temp_max == qMatrix[1][4]
+00:57.018	ID:5	temp_max == qMatrix[1][5]
+00:57.020	ID:5	temp_max == qMatrix[1][6]
+00:57.021	ID:5	temp_max == qMatrix[1][7]
+00:57.023	ID:5	temp_max == qMatrix[1][8]
+00:57.025	ID:5	temp_max == qMatrix[1][9]
+00:57.029	ID:5	random a out of all max: 8 index of max= 9
+00:57.029	ID:5	0.0
+00:57.033	ID:5	qMatrix state of 5 & action of 1 
+00:57.035	ID:5	rMatrix value = -1.0
+00:57.037	ID:5	GAMMA * max_value = 0.0
+00:57.040	ID:5	qMatrix state = 0.9999
+00:57.048	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9999
+00:57.056	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:57.062	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:57.067	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+00:57.067	ID:5	
+00:57.069	ID:5	Q Max: 0.0
+00:57.071	ID:5	Matrix updatedqMatrix: 
+00:57.078	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.086	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.094	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.102	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.110	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.118	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.128	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.136	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.144	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.164	ID:5	qMatrix got updaTED with sumA = 0.0
+00:57.164	ID:5	
+00:57.166	ID:5	Score: 0.0
+00:57.172	ID:5	new final_max is: 0.9999
+00:57.178	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+00:57.186	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.194	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.202	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.210	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.218	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.226	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.234	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.242	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.252	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+00:57.295	ID:5	timer triggered!
+00:57.295	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:00.392	ID:8	 7684 P 8.0 5 180899 1785894 9096 18162 0 13924 38630 289047 320 2930 0 2077 (radio 1.38% / 0.99% tx 0.46% / 0.09% listen 0.92% / 0.89%)
+01:00.543	ID:8	timer triggered!
+01:00.556	ID:2	 7684 P 2.0 5 200521 1766272 18958 30985 0 17801 26618 301056 2156 2860 0 2445 (radio 2.53% / 1.53% tx 0.96% / 0.65% listen 1.57% / 0.87%)
+01:00.569	ID:6	 7684 P 6.0 5 164971 1801822 9180 18599 0 14774 21413 306264 0 2828 0 2486 (radio 1.41% / 0.86% tx 0.46% / 0.00% listen 0.94% / 0.86%)
+01:00.668	ID:4	 7684 P 4.0 5 167528 1799265 10007 18697 0 14078 25908 301766 2164 2414 0 2079 (radio 1.45% / 1.39% tx 0.50% / 0.66% listen 0.95% / 0.73%)
+01:00.700	ID:1	 7684 P 1.0 5 149990 1816798 9237 17450 0 12847 19246 308431 0 3022 0 2054 (radio 1.35% / 0.92% tx 0.46% / 0.00% listen 0.88% / 0.92%)
+01:00.721	ID:7	 7684 P 7.0 5 181726 1785062 18723 28292 0 16655 41907 285770 3757 9104 0 6149 (radio 2.39% / 3.92% tx 0.95% / 1.14% listen 1.43% / 2.77%)
+01:00.963	ID:6	timer triggered!
+01:01.026	ID:9	 7684 P 9.0 5 139728 1827060 8658 15501 0 13288 18699 308978 0 2333 0 2147 (radio 1.22% / 0.71% tx 0.44% / 0.00% listen 0.78% / 0.71%)
+01:01.035	ID:5	 7684 P 5.0 5 251688 1715112 16416 25966 0 13611 49854 277821 3292 3987 0 2037 (radio 2.15% / 2.22% tx 0.83% / 1.00% listen 1.32% / 1.21%)
+01:01.102	ID:1	timer triggered!
+01:01.179	ID:9	timer triggered!
+01:01.217	ID:4	timer triggered!
+01:01.218	ID:3	 7684 P 3.0 5 141660 1825128 8643 15293 0 13139 24339 303335 2158 2350 0 2078 (radio 1.21% / 1.37% tx 0.43% / 0.65% listen 0.77% / 0.71%)
+01:01.237	ID:2	timer triggered!
+01:01.370	ID:3	timer triggered!
+01:01.622	ID:7	timer triggered!
+01:02.295	ID:5	timer triggered!
+01:05.543	ID:8	timer triggered!
+01:05.963	ID:6	timer triggered!
+01:06.102	ID:1	timer triggered!
+01:06.179	ID:9	timer triggered!
+01:06.217	ID:4	timer triggered!
+01:06.237	ID:2	timer triggered!
+01:06.370	ID:3	timer triggered!
+01:06.371	ID:3	data sent from: 3
+01:06.377	ID:3	node 3.0 fwdto-> node 6.0 (1 in list), hops 1   ->state: 3, action: 6
+01:06.379	ID:3	temp_max == qMatrix[6][1]
+01:06.381	ID:3	temp_max == qMatrix[6][2]
+01:06.383	ID:3	temp_max == qMatrix[6][3]
+01:06.385	ID:3	temp_max == qMatrix[6][4]
+01:06.386	ID:3	temp_max == qMatrix[6][5]
+01:06.388	ID:3	temp_max == qMatrix[6][6]
+01:06.390	ID:3	temp_max == qMatrix[6][7]
+01:06.392	ID:3	temp_max == qMatrix[6][8]
+01:06.394	ID:3	temp_max == qMatrix[6][9]
+01:06.397	ID:3	random a out of all max: 3 index of max= 4
+01:06.398	ID:3	0.0
+01:06.401	ID:3	qMatrix state of 3 & action of 6 
+01:06.404	ID:3	rMatrix value = -1.0
+01:06.406	ID:3	GAMMA * max_value = 0.0
+01:06.409	ID:3	qMatrix state = 0.8000
+01:06.416	ID:3	updating qMatrix at state of 3 & action of 6 with value of 0.8000
+01:06.425	ID:3	updating qMatrix at state of 3 & action of 6 with value of 0.0
+01:06.432	ID:3	updating qMatrix at state of 3 & action of 6 with value of 0.0
+01:06.437	ID:3	updating qMatrix at state of 3 & action of 6 with value of 0.0
+01:06.437	ID:3	
+01:06.439	ID:3	Q Max: 0.0
+01:06.441	ID:3	Matrix updatedqMatrix: 
+01:06.448	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.456	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.465	ID:3	0.0	0.0	0.0	0.0	0.0	0.8000	0.0	0.0	0.0	
+01:06.473	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.481	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.488	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.496	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.504	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.513	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.533	ID:3	qMatrix got updaTED with sumA = 0.0
+01:06.533	ID:3	
+01:06.534	ID:3	Score: 0.0
+01:06.539	ID:3	new final_max is: 0.8000
+01:06.546	ID:3	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:06.554	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.564	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.572	ID:3	0.0	0.0	0.0	0.0	0.0	0.8000	0.0	0.0	0.0	
+01:06.580	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.588	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.596	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.604	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.612	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.620	ID:3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.622	ID:7	timer triggered!
+01:06.666	ID:6	node 6.0 fwdto-> node 5.0 (4 in list), hops 2   ->state: 6, action: 5
+01:06.668	ID:6	temp_max == qMatrix[5][1]
+01:06.670	ID:6	temp_max == qMatrix[5][2]
+01:06.672	ID:6	temp_max == qMatrix[5][3]
+01:06.674	ID:6	temp_max == qMatrix[5][4]
+01:06.676	ID:6	temp_max == qMatrix[5][5]
+01:06.678	ID:6	temp_max == qMatrix[5][6]
+01:06.680	ID:6	temp_max == qMatrix[5][7]
+01:06.682	ID:6	temp_max == qMatrix[5][8]
+01:06.684	ID:6	temp_max == qMatrix[5][9]
+01:06.687	ID:6	random a out of all max: 5 index of max= 6
+01:06.688	ID:6	0.0
+01:06.691	ID:6	qMatrix state of 6 & action of 5 
+01:06.693	ID:6	rMatrix value = 0.0
+01:06.695	ID:6	GAMMA * max_value = 0.0
+01:06.697	ID:6	qMatrix state = 0.0
+01:06.707	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:06.713	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:06.718	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:06.718	ID:6	
+01:06.720	ID:6	Q Max: 0.0
+01:06.721	ID:6	Matrix updatedqMatrix: 
+01:06.729	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.737	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.745	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.753	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.760	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.768	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.776	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.787	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.795	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.816	ID:6	qMatrix got updaTED with sumA = -13544.-1
+01:06.816	ID:6	
+01:06.818	ID:6	Score: -13544.-1
+01:06.827	ID:6	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:06.835	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.843	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.851	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.858	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.866	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.874	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.882	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.890	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:06.898	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.132	ID:5	node 5.0 fwdto-> node 1.0 (3 in list), hops 3   ->state: 5, action: 1
+01:07.134	ID:5	temp_max == qMatrix[1][1]
+01:07.136	ID:5	temp_max == qMatrix[1][2]
+01:07.138	ID:5	temp_max == qMatrix[1][3]
+01:07.139	ID:5	temp_max == qMatrix[1][4]
+01:07.141	ID:5	temp_max == qMatrix[1][5]
+01:07.143	ID:5	temp_max == qMatrix[1][6]
+01:07.145	ID:5	temp_max == qMatrix[1][7]
+01:07.147	ID:5	temp_max == qMatrix[1][8]
+01:07.149	ID:5	temp_max == qMatrix[1][9]
+01:07.152	ID:5	random a out of all max: 4 index of max= 5
+01:07.153	ID:5	0.0
+01:07.157	ID:5	qMatrix state of 5 & action of 1 
+01:07.159	ID:5	rMatrix value = -1.0
+01:07.161	ID:5	GAMMA * max_value = 0.0
+01:07.164	ID:5	qMatrix state = 0.9999
+01:07.172	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9999
+01:07.180	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:07.185	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:07.191	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:07.191	ID:5	
+01:07.192	ID:5	Q Max: 0.0
+01:07.194	ID:5	Matrix updatedqMatrix: 
+01:07.202	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.210	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.217	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.225	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.234	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.242	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.251	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.259	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.268	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.288	ID:5	qMatrix got updaTED with sumA = 0.0
+01:07.288	ID:5	
+01:07.289	ID:5	Score: 0.0
+01:07.295	ID:5	new final_max is: 0.9999
+01:07.301	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:07.309	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.317	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.325	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.333	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.341	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.349	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.357	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.365	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.375	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:07.419	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:07.419	ID:5	timer triggered!
+01:10.391	ID:8	 8964 P 8.0 6 203436 2091041 9096 20662 0 16247 22534 305147 0 2500 0 2323 (radio 1.29% / 0.76% tx 0.39% / 0.00% listen 0.90% / 0.76%)
+01:10.543	ID:8	timer triggered!
+01:10.555	ID:2	 8964 P 2.0 6 223315 2071162 18958 33782 0 20273 22791 304890 0 2797 0 2472 (radio 2.29% / 0.85% tx 0.82% / 0.00% listen 1.47% / 0.85%)
+01:10.570	ID:6	 8964 P 6.0 6 199184 2095293 11109 26517 0 17014 34210 293471 1929 7918 0 2240 (radio 1.63% / 3.00% tx 0.48% / 0.58% listen 1.15% / 2.41%)
+01:10.667	ID:4	 8964 P 4.0 6 190114 2104363 10007 20857 0 16238 22583 305098 0 2160 0 2160 (radio 1.34% / 0.65% tx 0.43% / 0.00% listen 0.90% / 0.65%)
+01:10.700	ID:1	 8964 P 1.0 6 170090 2124382 9237 19680 0 14980 20097 307584 0 2230 0 2133 (radio 1.26% / 0.68% tx 0.40% / 0.00% listen 0.85% / 0.68%)
+01:10.720	ID:7	 8964 P 7.0 6 201726 2092746 18723 30452 0 18815 19997 307684 0 2160 0 2160 (radio 2.14% / 0.65% tx 0.81% / 0.00% listen 1.32% / 0.65%)
+01:10.963	ID:6	timer triggered!
+01:11.027	ID:9	 8964 P 9.0 6 159734 2134738 8658 18021 0 15631 20003 307678 0 2520 0 2343 (radio 1.16% / 0.76% tx 0.37% / 0.00% listen 0.78% / 0.76%)
+01:11.102	ID:1	timer triggered!
+01:11.146	ID:5	 8978 P 5.0 6 292047 2006007 19120 28944 0 15702 40356 290895 2704 2978 0 2091 (radio 2.09% / 1.71% tx 0.83% / 0.81% listen 1.25% / 0.89%)
+01:11.179	ID:9	timer triggered!
+01:11.180	ID:9	data sent from: 9
+01:11.186	ID:9	node 9.0 fwdto-> node 6.0 (2 in list), hops 1   ->state: 9, action: 6
+01:11.188	ID:9	temp_max == qMatrix[6][1]
+01:11.190	ID:9	temp_max == qMatrix[6][2]
+01:11.192	ID:9	temp_max == qMatrix[6][3]
+01:11.194	ID:9	temp_max == qMatrix[6][4]
+01:11.196	ID:9	temp_max == qMatrix[6][5]
+01:11.197	ID:9	temp_max == qMatrix[6][6]
+01:11.199	ID:9	temp_max == qMatrix[6][7]
+01:11.201	ID:9	temp_max == qMatrix[6][8]
+01:11.203	ID:9	temp_max == qMatrix[6][9]
+01:11.206	ID:9	random a out of all max: 2 index of max= 3
+01:11.207	ID:9	0.0
+01:11.211	ID:9	qMatrix state of 9 & action of 6 
+01:11.212	ID:9	rMatrix value = 0.0
+01:11.215	ID:9	GAMMA * max_value = 0.0
+01:11.217	ID:9	qMatrix state = 0.0
+01:11.217	ID:4	timer triggered!
+01:11.219	ID:3	 8964 P 3.0 6 174945 2119524 11350 18345 0 15448 33282 294396 2707 3052 0 2309 (radio 1.29% / 1.75% tx 0.49% / 0.82% listen 0.79% / 0.93%)
+01:11.227	ID:9	updating qMatrix at state of 9 & action of 6 with value of 0.0
+01:11.233	ID:9	updating qMatrix at state of 9 & action of 6 with value of 0.0
+01:11.237	ID:2	timer triggered!
+01:11.238	ID:9	updating qMatrix at state of 9 & action of 6 with value of 0.0
+01:11.238	ID:9	
+01:11.241	ID:9	Q Max: 0.0
+01:11.243	ID:9	Matrix updatedqMatrix: 
+01:11.251	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.259	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.267	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.274	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.282	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.290	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.298	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.306	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.314	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.335	ID:9	qMatrix got updaTED with sumA = -10674.-1
+01:11.335	ID:9	
+01:11.338	ID:9	Score: -10674.-1
+01:11.346	ID:9	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:11.354	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.362	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.372	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.379	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.387	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.395	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.403	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.411	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.420	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.542	ID:6	node 6.0 fwdto-> node 5.0 (4 in list), hops 2   ->state: 6, action: 5
+01:11.544	ID:6	temp_max == qMatrix[5][1]
+01:11.546	ID:6	temp_max == qMatrix[5][2]
+01:11.548	ID:6	temp_max == qMatrix[5][3]
+01:11.550	ID:6	temp_max == qMatrix[5][4]
+01:11.552	ID:6	temp_max == qMatrix[5][5]
+01:11.554	ID:6	temp_max == qMatrix[5][6]
+01:11.556	ID:6	temp_max == qMatrix[5][7]
+01:11.558	ID:6	temp_max == qMatrix[5][8]
+01:11.560	ID:6	temp_max == qMatrix[5][9]
+01:11.563	ID:6	random a out of all max: 8 index of max= 9
+01:11.564	ID:6	0.0
+01:11.567	ID:6	qMatrix state of 6 & action of 5 
+01:11.569	ID:6	rMatrix value = 0.0
+01:11.571	ID:6	GAMMA * max_value = 0.0
+01:11.573	ID:6	qMatrix state = 0.0
+01:11.583	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:11.588	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:11.594	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:11.594	ID:6	
+01:11.596	ID:6	Q Max: 0.0
+01:11.597	ID:6	Matrix updatedqMatrix: 
+01:11.605	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.613	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.619	ID:3	timer triggered!
+01:11.621	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.622	ID:7	timer triggered!
+01:11.628	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.636	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.644	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.652	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.661	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.670	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.691	ID:6	qMatrix got updaTED with sumA = -13544.-1
+01:11.691	ID:6	
+01:11.693	ID:6	Score: -13544.-1
+01:11.702	ID:6	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:11.710	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.718	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.726	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.733	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.741	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.749	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.757	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.765	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.773	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.882	ID:5	node 5.0 fwdto-> node 1.0 (6 in list), hops 3   ->state: 5, action: 1
+01:11.884	ID:5	temp_max == qMatrix[1][1]
+01:11.885	ID:5	temp_max == qMatrix[1][2]
+01:11.887	ID:5	temp_max == qMatrix[1][3]
+01:11.889	ID:5	temp_max == qMatrix[1][4]
+01:11.891	ID:5	temp_max == qMatrix[1][5]
+01:11.893	ID:5	temp_max == qMatrix[1][6]
+01:11.895	ID:5	temp_max == qMatrix[1][7]
+01:11.897	ID:5	temp_max == qMatrix[1][8]
+01:11.899	ID:5	temp_max == qMatrix[1][9]
+01:11.902	ID:5	random a out of all max: 7 index of max= 8
+01:11.903	ID:5	0.0
+01:11.906	ID:5	qMatrix state of 5 & action of 1 
+01:11.909	ID:5	rMatrix value = -1.0
+01:11.911	ID:5	GAMMA * max_value = 0.0
+01:11.914	ID:5	qMatrix state = 0.9999
+01:11.922	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9999
+01:11.930	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:11.935	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:11.940	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:11.941	ID:5	
+01:11.942	ID:5	Q Max: 0.0
+01:11.944	ID:5	Matrix updatedqMatrix: 
+01:11.952	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.960	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.967	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.975	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.984	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:11.992	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.001	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.009	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.018	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.038	ID:5	qMatrix got updaTED with sumA = 0.0
+01:12.038	ID:5	
+01:12.039	ID:5	Score: 0.0
+01:12.045	ID:5	new final_max is: 0.9999
+01:12.051	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:12.059	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.067	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.075	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.083	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.091	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.099	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.107	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.115	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.125	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:12.171	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:12.419	ID:5	timer triggered!
+01:15.543	ID:8	timer triggered!
+01:15.963	ID:6	timer triggered!
+01:16.102	ID:1	timer triggered!
+01:16.217	ID:4	timer triggered!
+01:16.237	ID:2	timer triggered!
+01:16.421	ID:9	timer triggered!
+01:16.619	ID:3	timer triggered!
+01:16.622	ID:7	timer triggered!
+01:17.419	ID:5	timer triggered!
+01:20.391	ID:8	 10244 P 8.0 7 226026 2396130 9096 23421 0 18705 22587 305089 0 2759 0 2458 (radio 1.24% / 0.84% tx 0.34% / 0.00% listen 0.89% / 0.84%)
+01:20.543	ID:8	timer triggered!
+01:20.555	ID:2	 10244 P 2.0 7 246042 2376114 18958 36438 0 22583 22724 304952 0 2656 0 2310 (radio 2.11% / 0.81% tx 0.72% / 0.00% listen 1.38% / 0.81%)
+01:20.571	ID:6	 10244 P 6.0 7 237102 2385051 15005 30468 0 19241 37915 289758 3896 3951 0 2227 (radio 1.73% / 2.39% tx 0.57% / 1.18% listen 1.16% / 1.20%)
+01:20.667	ID:4	 10244 P 4.0 7 212713 2409443 10007 23167 0 18371 22596 305080 0 2310 0 2133 (radio 1.26% / 0.70% tx 0.38% / 0.00% listen 0.88% / 0.70%)
+01:20.701	ID:1	 10244 P 1.0 7 190269 2431882 9237 22100 0 17086 20176 307500 0 2420 0 2106 (radio 1.19% / 0.73% tx 0.35% / 0.00% listen 0.84% / 0.73%)
+01:20.721	ID:7	 10244 P 7.0 7 221766 2400385 18723 32783 0 20962 20037 307639 0 2331 0 2147 (radio 1.96% / 0.71% tx 0.71% / 0.00% listen 1.25% / 0.71%)
+01:20.963	ID:6	timer triggered!
+01:21.029	ID:9	 10244 P 9.0 7 191200 2430951 10676 21976 0 17911 31463 296213 2018 3955 0 2280 (radio 1.24% / 1.82% tx 0.40% / 0.61% listen 0.83% / 1.20%)
+01:21.035	ID:5	 10244 P 5.0 7 326147 2296013 19717 32243 0 18133 34097 290006 597 3299 0 2431 (radio 1.98% / 1.20% tx 0.75% / 0.18% listen 1.22% / 1.01%)
+01:21.102	ID:1	timer triggered!
+01:21.217	ID:4	timer triggered!
+01:21.218	ID:3	 10244 P 3.0 7 193715 2428433 11350 20872 0 17791 18767 308909 0 2527 0 2343 (radio 1.22% / 0.77% tx 0.43% / 0.00% listen 0.79% / 0.77%)
+01:21.237	ID:2	timer triggered!
+01:21.421	ID:9	timer triggered!
+01:21.619	ID:3	timer triggered!
+01:21.622	ID:7	timer triggered!
+01:21.623	ID:7	data sent from: 7
+01:21.629	ID:7	node 7.0 fwdto-> node 8.0 (1 in list), hops 1   ->state: 7, action: 8
+01:21.631	ID:7	temp_max == qMatrix[8][1]
+01:21.633	ID:7	temp_max == qMatrix[8][2]
+01:21.635	ID:7	temp_max == qMatrix[8][3]
+01:21.636	ID:7	temp_max == qMatrix[8][4]
+01:21.638	ID:7	temp_max == qMatrix[8][5]
+01:21.640	ID:7	temp_max == qMatrix[8][6]
+01:21.642	ID:7	temp_max == qMatrix[8][7]
+01:21.644	ID:7	temp_max == qMatrix[8][8]
+01:21.646	ID:7	temp_max == qMatrix[8][9]
+01:21.649	ID:7	random a out of all max: 3 index of max= 4
+01:21.650	ID:7	0.0
+01:21.653	ID:7	qMatrix state of 7 & action of 8 
+01:21.656	ID:7	rMatrix value = -1.0
+01:21.658	ID:7	GAMMA * max_value = 0.0
+01:21.661	ID:7	qMatrix state = 0.9984
+01:21.671	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.9984
+01:21.677	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+01:21.684	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+01:21.689	ID:7	updating qMatrix at state of 7 & action of 8 with value of 0.0
+01:21.690	ID:7	
+01:21.691	ID:7	Q Max: 0.0
+01:21.693	ID:7	Matrix updatedqMatrix: 
+01:21.701	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.708	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.716	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.724	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.732	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.740	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.748	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9984	0.0	
+01:21.756	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.765	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.785	ID:7	qMatrix got updaTED with sumA = 0.0
+01:21.785	ID:7	
+01:21.786	ID:7	Score: 0.0
+01:21.794	ID:7	new final_max is: 0.9984
+01:21.798	ID:7	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:21.806	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.816	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.824	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.831	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.839	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.847	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.856	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.9984	0.0	
+01:21.864	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.872	ID:7	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:21.988	ID:8	node 8.0 fwdto-> node 5.0 (0 in list), hops 2   ->state: 8, action: 5
+01:21.990	ID:8	temp_max == qMatrix[5][1]
+01:21.991	ID:8	temp_max == qMatrix[5][2]
+01:21.993	ID:8	temp_max == qMatrix[5][3]
+01:21.995	ID:8	temp_max == qMatrix[5][4]
+01:21.997	ID:8	temp_max == qMatrix[5][5]
+01:21.999	ID:8	temp_max == qMatrix[5][6]
+01:22.001	ID:8	temp_max == qMatrix[5][7]
+01:22.003	ID:8	temp_max == qMatrix[5][8]
+01:22.005	ID:8	temp_max == qMatrix[5][9]
+01:22.008	ID:8	random a out of all max: 1 index of max= 2
+01:22.009	ID:8	0.0
+01:22.012	ID:8	qMatrix state of 8 & action of 5 
+01:22.015	ID:8	rMatrix value = -1.0
+01:22.017	ID:8	GAMMA * max_value = 0.0
+01:22.020	ID:8	qMatrix state = 0.9984
+01:22.030	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.9984
+01:22.036	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+01:22.041	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+01:22.046	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+01:22.047	ID:8	
+01:22.048	ID:8	Q Max: 0.0
+01:22.050	ID:8	Matrix updatedqMatrix: 
+01:22.058	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.065	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.073	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.081	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.089	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.097	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.106	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.115	ID:8	0.0	0.0	0.0	0.0	0.9984	0.0	0.0	0.0	0.0	
+01:22.124	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.143	ID:8	qMatrix got updaTED with sumA = 0.0
+01:22.143	ID:8	
+01:22.144	ID:8	Score: 0.0
+01:22.153	ID:8	new final_max is: 0.9984
+01:22.157	ID:8	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:22.165	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.173	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.180	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.188	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.196	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.204	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.212	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.220	ID:8	0.0	0.0	0.0	0.0	0.9984	0.0	0.0	0.0	0.0	
+01:22.231	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.258	ID:5	node 5.0 fwdto-> node 1.0 (2 in list), hops 3   ->state: 5, action: 1
+01:22.260	ID:5	temp_max == qMatrix[1][1]
+01:22.262	ID:5	temp_max == qMatrix[1][2]
+01:22.264	ID:5	temp_max == qMatrix[1][3]
+01:22.266	ID:5	temp_max == qMatrix[1][4]
+01:22.268	ID:5	temp_max == qMatrix[1][5]
+01:22.270	ID:5	temp_max == qMatrix[1][6]
+01:22.272	ID:5	temp_max == qMatrix[1][7]
+01:22.273	ID:5	temp_max == qMatrix[1][8]
+01:22.275	ID:5	temp_max == qMatrix[1][9]
+01:22.279	ID:5	random a out of all max: 1 index of max= 2
+01:22.279	ID:5	0.0
+01:22.283	ID:5	qMatrix state of 5 & action of 1 
+01:22.285	ID:5	rMatrix value = -1.0
+01:22.288	ID:5	GAMMA * max_value = 0.0
+01:22.290	ID:5	qMatrix state = 0.9999
+01:22.299	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.9999
+01:22.306	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:22.312	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:22.317	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:22.317	ID:5	
+01:22.319	ID:5	Q Max: 0.0
+01:22.321	ID:5	Matrix updatedqMatrix: 
+01:22.328	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.336	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.344	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.352	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.361	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.368	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.378	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.386	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.395	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.414	ID:5	qMatrix got updaTED with sumA = 0.0
+01:22.414	ID:5	
+01:22.416	ID:5	Score: 0.0
+01:22.422	ID:5	new final_max is: 0.9999
+01:22.428	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:22.436	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.444	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.452	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.460	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.468	ID:5	0.9999	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.476	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.484	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.492	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.502	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:22.545	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:22.545	ID:5	timer triggered!
+01:25.543	ID:8	timer triggered!
+01:25.963	ID:6	timer triggered!
+01:26.102	ID:1	timer triggered!
+01:26.217	ID:4	timer triggered!
+01:26.237	ID:2	timer triggered!
+01:26.421	ID:9	timer triggered!
+01:26.619	ID:3	timer triggered!
+01:26.872	ID:7	timer triggered!
+01:27.545	ID:5	timer triggered!
+01:30.392	ID:8	 11524 P 8.0 8 257168 2692668 9280 25893 0 20836 31139 296538 184 2472 0 2131 (radio 1.19% / 0.81% tx 0.31% / 0.05% listen 0.87% / 0.75%)
+01:30.543	ID:8	timer triggered!
+01:30.555	ID:2	 11524 P 2.0 8 268694 2681142 18958 38895 0 24892 22649 305028 0 2457 0 2309 (radio 1.96% / 0.74% tx 0.64% / 0.00% listen 1.31% / 0.74%)
+01:30.570	ID:6	 11524 P 6.0 8 258651 2691182 15005 32804 0 21577 21546 306131 0 2336 0 2336 (radio 1.62% / 0.71% tx 0.50% / 0.00% listen 1.11% / 0.71%)
+01:30.667	ID:4	 11524 P 4.0 8 235333 2714503 10007 25484 0 20518 22617 305060 0 2317 0 2147 (radio 1.20% / 0.70% tx 0.33% / 0.00% listen 0.86% / 0.70%)
+01:30.702	ID:1	 11524 P 1.0 8 214521 2735307 11400 24440 0 19192 24249 303425 2163 2340 0 2106 (radio 1.21% / 1.37% tx 0.38% / 0.66% listen 0.82% / 0.71%)
+01:30.722	ID:7	 11524 P 7.0 8 253266 2696565 20602 36327 0 23095 31497 296180 1879 3544 0 2133 (radio 1.92% / 1.65% tx 0.69% / 0.57% listen 1.23% / 1.08%)
+01:30.963	ID:6	timer triggered!
+01:31.027	ID:9	 11524 P 9.0 8 211171 2738660 10676 24136 0 20071 19968 307709 0 2160 0 2160 (radio 1.18% / 0.65% tx 0.36% / 0.00% listen 0.81% / 0.65%)
+01:31.035	ID:5	 11524 P 5.0 8 360283 2589557 20266 35198 0 20266 34133 293544 549 2955 0 2133 (radio 1.88% / 1.06% tx 0.68% / 0.16% listen 1.19% / 0.90%)
+01:31.102	ID:1	timer triggered!
+01:31.103	ID:1	data sent from: 1
+01:31.109	ID:1	node 1.0 fwdto-> node 2.0 (1 in list), hops 1   ->state: 1, action: 2
+01:31.111	ID:1	temp_max == qMatrix[2][1]
+01:31.113	ID:1	temp_max == qMatrix[2][2]
+01:31.115	ID:1	temp_max == qMatrix[2][3]
+01:31.117	ID:1	temp_max == qMatrix[2][4]
+01:31.119	ID:1	temp_max == qMatrix[2][5]
+01:31.121	ID:1	temp_max == qMatrix[2][6]
+01:31.123	ID:1	temp_max == qMatrix[2][7]
+01:31.125	ID:1	temp_max == qMatrix[2][8]
+01:31.126	ID:1	temp_max == qMatrix[2][9]
+01:31.130	ID:1	random a out of all max: 7 index of max= 8
+01:31.130	ID:1	0.0
+01:31.134	ID:1	qMatrix state of 1 & action of 2 
+01:31.136	ID:1	rMatrix value = -1.0
+01:31.138	ID:1	GAMMA * max_value = 0.0
+01:31.141	ID:1	qMatrix state = 0.9600
+01:31.147	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.9600
+01:31.157	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.0
+01:31.164	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.0
+01:31.170	ID:1	updating qMatrix at state of 1 & action of 2 with value of 0.0
+01:31.170	ID:1	
+01:31.171	ID:1	Q Max: 0.0
+01:31.173	ID:1	Matrix updatedqMatrix: 
+01:31.182	ID:1	0.0	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.190	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.197	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.205	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.213	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.217	ID:4	timer triggered!
+01:31.218	ID:3	 11524 P 3.0 8 212372 2737456 11350 23032 0 19951 18654 309023 0 2160 0 2160 (radio 1.16% / 0.65% tx 0.38% / 0.00% listen 0.78% / 0.65%)
+01:31.221	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.229	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.237	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.237	ID:2	timer triggered!
+01:31.245	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.266	ID:1	qMatrix got updaTED with sumA = 0.0
+01:31.266	ID:1	
+01:31.267	ID:1	Score: 0.0
+01:31.270	ID:1	new final_max is: 0.9600
+01:31.279	ID:1	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:31.290	ID:1	0.0	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.298	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.306	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.313	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.321	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.329	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.337	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.345	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.353	ID:1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.402	ID:2	node 2.0 fwdto-> node 1.0 (1 in list), hops 2   ->state: 2, action: 1
+01:31.404	ID:2	temp_max == qMatrix[1][1]
+01:31.406	ID:2	temp_max == qMatrix[1][2]
+01:31.408	ID:2	temp_max == qMatrix[1][3]
+01:31.410	ID:2	temp_max == qMatrix[1][4]
+01:31.412	ID:2	temp_max == qMatrix[1][5]
+01:31.413	ID:2	temp_max == qMatrix[1][6]
+01:31.416	ID:2	temp_max == qMatrix[1][7]
+01:31.417	ID:2	temp_max == qMatrix[1][8]
+01:31.419	ID:2	temp_max == qMatrix[1][9]
+01:31.421	ID:9	timer triggered!
+01:31.422	ID:2	random a out of all max: 8 index of max= 9
+01:31.423	ID:2	0.0
+01:31.427	ID:2	qMatrix state of 2 & action of 1 
+01:31.429	ID:2	rMatrix value = -1.0
+01:31.431	ID:2	GAMMA * max_value = 0.0
+01:31.434	ID:2	qMatrix state = 0.9984
+01:31.441	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.9984
+01:31.450	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+01:31.456	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+01:31.461	ID:2	updating qMatrix at state of 2 & action of 1 with value of 0.0
+01:31.461	ID:2	
+01:31.463	ID:2	Q Max: 0.0
+01:31.464	ID:2	Matrix updatedqMatrix: 
+01:31.472	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.481	ID:2	0.9984	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.489	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.497	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.504	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.512	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.522	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.529	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.538	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.558	ID:2	qMatrix got updaTED with sumA = 0.0
+01:31.558	ID:2	
+01:31.560	ID:2	Score: 0.0
+01:31.563	ID:2	new final_max is: 0.9984
+01:31.572	ID:2	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:31.580	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.589	ID:2	0.9984	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.597	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.604	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.612	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.619	ID:3	timer triggered!
+01:31.620	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.628	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.636	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.646	ID:2	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:31.670	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:31.872	ID:7	timer triggered!
+01:32.545	ID:5	timer triggered!
+01:35.543	ID:8	timer triggered!
+01:35.963	ID:6	timer triggered!
+01:35.965	ID:6	data sent from: 6
+01:35.970	ID:6	node 6.0 fwdto-> node 5.0 (3 in list), hops 1   ->state: 6, action: 5
+01:35.972	ID:6	temp_max == qMatrix[5][1]
+01:35.974	ID:6	temp_max == qMatrix[5][2]
+01:35.976	ID:6	temp_max == qMatrix[5][3]
+01:35.978	ID:6	temp_max == qMatrix[5][4]
+01:35.980	ID:6	temp_max == qMatrix[5][5]
+01:35.982	ID:6	temp_max == qMatrix[5][6]
+01:35.984	ID:6	temp_max == qMatrix[5][7]
+01:35.986	ID:6	temp_max == qMatrix[5][8]
+01:35.988	ID:6	temp_max == qMatrix[5][9]
+01:35.991	ID:6	random a out of all max: 5 index of max= 6
+01:35.992	ID:6	0.0
+01:35.995	ID:6	qMatrix state of 6 & action of 5 
+01:35.996	ID:6	rMatrix value = 0.0
+01:35.999	ID:6	GAMMA * max_value = 0.0
+01:36.001	ID:6	qMatrix state = 0.0
+01:36.011	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:36.016	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:36.022	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:36.022	ID:6	
+01:36.023	ID:6	Q Max: 0.0
+01:36.025	ID:6	Matrix updatedqMatrix: 
+01:36.034	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.042	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.050	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.058	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.066	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.074	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.081	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.089	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.098	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.119	ID:6	qMatrix got updaTED with sumA = -13544.-1
+01:36.119	ID:6	
+01:36.121	ID:6	Score: -13544.-1
+01:36.130	ID:6	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:36.138	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.146	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.153	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.163	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.171	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.179	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.186	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.194	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.203	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.217	ID:4	timer triggered!
+01:36.219	ID:4	data sent from: 4
+01:36.224	ID:4	node 4.0 fwdto-> node 1.0 (0 in list), hops 1   ->state: 4, action: 1
+01:36.226	ID:4	temp_max == qMatrix[1][1]
+01:36.228	ID:4	temp_max == qMatrix[1][2]
+01:36.230	ID:4	temp_max == qMatrix[1][3]
+01:36.232	ID:4	temp_max == qMatrix[1][4]
+01:36.234	ID:4	temp_max == qMatrix[1][5]
+01:36.236	ID:4	temp_max == qMatrix[1][6]
+01:36.237	ID:2	timer triggered!
+01:36.238	ID:4	temp_max == qMatrix[1][7]
+01:36.240	ID:4	temp_max == qMatrix[1][8]
+01:36.242	ID:4	temp_max == qMatrix[1][9]
+01:36.245	ID:4	random a out of all max: 5 index of max= 6
+01:36.246	ID:4	0.0
+01:36.249	ID:4	qMatrix state of 4 & action of 1 
+01:36.251	ID:4	rMatrix value = -1.0
+01:36.254	ID:4	GAMMA * max_value = 0.0
+01:36.257	ID:5	node 5.0 fwdto-> node 1.0 (7 in list), hops 2   ->state: 5, action: 1
+01:36.258	ID:4	qMatrix state = 0.9600
+01:36.259	ID:5	temp_max == qMatrix[1][1]
+01:36.260	ID:5	temp_max == qMatrix[1][2]
+01:36.262	ID:5	temp_max == qMatrix[1][3]
+01:36.264	ID:5	temp_max == qMatrix[1][4]
+01:36.266	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.9600
+01:36.266	ID:5	temp_max == qMatrix[1][5]
+01:36.268	ID:5	temp_max == qMatrix[1][6]
+01:36.270	ID:5	temp_max == qMatrix[1][7]
+01:36.272	ID:5	temp_max == qMatrix[1][8]
+01:36.274	ID:5	temp_max == qMatrix[1][9]
+01:36.274	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+01:36.277	ID:5	random a out of all max: 5 index of max= 6
+01:36.278	ID:5	0.0
+01:36.279	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+01:36.281	ID:5	qMatrix state of 5 & action of 1 
+01:36.284	ID:5	rMatrix value = -1.0
+01:36.285	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+01:36.285	ID:4	
+01:36.286	ID:5	GAMMA * max_value = 0.0
+01:36.286	ID:4	Q Max: 0.0
+01:36.288	ID:4	Matrix updatedqMatrix: 
+01:36.288	ID:5	qMatrix state = -1.0
+01:36.296	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.296	ID:5	updating qMatrix at state of 5 & action of 1 with value of -1.0
+01:36.304	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.304	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:36.310	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:36.312	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.315	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:36.315	ID:5	
+01:36.317	ID:5	Q Max: 0.0
+01:36.318	ID:5	Matrix updatedqMatrix: 
+01:36.320	ID:4	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.326	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.328	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.334	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.336	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.342	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.344	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.350	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.352	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.352	ID:1	timer triggered!
+01:36.358	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.360	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.366	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.375	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.382	ID:4	qMatrix got updaTED with sumA = 0.0
+01:36.382	ID:4	
+01:36.383	ID:4	Score: 0.0
+01:36.383	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.388	ID:4	new final_max is: 0.9600
+01:36.392	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.396	ID:4	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:36.403	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.411	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.412	ID:5	qMatrix got updaTED with sumA = 0.0
+01:36.412	ID:5	
+01:36.413	ID:5	Score: 0.0
+01:36.419	ID:5	new final_max is: -1.0
+01:36.419	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.421	ID:9	timer triggered!
+01:36.425	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:36.428	ID:4	0.9600	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.433	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.436	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.441	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.443	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.449	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.451	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.457	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.459	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.465	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.468	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.473	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.481	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.488	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.499	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:36.547	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:36.619	ID:3	timer triggered!
+01:36.672	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:36.872	ID:7	timer triggered!
+01:37.544	ID:5	timer triggered!
+01:40.391	ID:8	 12804 P 8.0 9 279698 2997818 9280 28748 0 23525 22527 305150 0 2855 0 2689 (radio 1.16% / 0.87% tx 0.28% / 0.00% listen 0.87% / 0.87%)
+01:40.543	ID:8	timer triggered!
+01:40.556	ID:2	 12804 P 2.0 9 300018 2977498 19140 41763 0 27390 31321 296356 182 2868 0 2498 (radio 1.85% / 0.93% tx 0.58% / 0.05% listen 1.27% / 0.87%)
+01:40.570	ID:6	 12804 P 6.0 9 289376 2988137 15690 35921 0 24101 30722 296955 685 3117 0 2524 (radio 1.57% / 1.16% tx 0.47% / 0.20% listen 1.09% / 0.95%)
+01:40.668	ID:4	 12804 P 4.0 9 268410 3009106 11246 29084 0 22988 33074 294603 1239 3600 0 2470 (radio 1.23% / 1.47% tx 0.34% / 0.37% listen 0.88% / 1.09%)
+01:40.702	ID:1	 12804 P 1.0 9 243111 3034397 11997 27524 0 21297 28587 299090 597 3084 0 2105 (radio 1.20% / 1.12% tx 0.36% / 0.18% listen 0.83% / 0.94%)
+01:40.722	ID:7	 12804 P 7.0 9 276699 3000809 22756 38714 0 25404 23430 304244 2154 2387 0 2309 (radio 1.87% / 1.38% tx 0.69% / 0.65% listen 1.18% / 0.72%)
+01:41.027	ID:9	 12804 P 9.0 9 231116 3046395 10676 26668 0 22603 19942 307735 0 2532 0 2532 (radio 1.13% / 0.77% tx 0.32% / 0.00% listen 0.81% / 0.77%)
+01:41.035	ID:5	 12804 P 5.0 9 397412 2880108 22517 39682 0 22724 37126 290551 2251 4484 0 2458 (radio 1.89% / 2.05% tx 0.68% / 0.68% listen 1.21% / 1.36%)
+01:41.205	ID:6	timer triggered!
+01:41.218	ID:3	 12804 P 3.0 9 231035 3046473 11350 25368 0 22287 18660 309017 0 2336 0 2336 (radio 1.12% / 0.71% tx 0.34% / 0.00% listen 0.77% / 0.71%)
+01:41.237	ID:2	timer triggered!
+01:41.352	ID:1	timer triggered!
+01:41.421	ID:9	timer triggered!
+01:41.467	ID:4	timer triggered!
+01:41.619	ID:3	timer triggered!
+01:41.872	ID:7	timer triggered!
+01:42.544	ID:5	timer triggered!
+01:45.543	ID:8	timer triggered!
+01:46.205	ID:6	timer triggered!
+01:46.237	ID:2	timer triggered!
+01:46.352	ID:1	timer triggered!
+01:46.421	ID:9	timer triggered!
+01:46.467	ID:4	timer triggered!
+01:46.469	ID:4	data sent from: 4
+01:46.474	ID:4	node 4.0 fwdto-> node 1.0 (3 in list), hops 1   ->state: 4, action: 1
+01:46.476	ID:4	temp_max == qMatrix[1][1]
+01:46.478	ID:4	temp_max == qMatrix[1][2]
+01:46.480	ID:4	temp_max == qMatrix[1][3]
+01:46.482	ID:4	temp_max == qMatrix[1][4]
+01:46.484	ID:4	temp_max == qMatrix[1][5]
+01:46.486	ID:4	temp_max == qMatrix[1][6]
+01:46.488	ID:4	temp_max == qMatrix[1][7]
+01:46.490	ID:4	temp_max == qMatrix[1][8]
+01:46.492	ID:4	temp_max == qMatrix[1][9]
+01:46.495	ID:4	random a out of all max: 7 index of max= 8
+01:46.496	ID:4	0.0
+01:46.499	ID:4	qMatrix state of 4 & action of 1 
+01:46.501	ID:4	rMatrix value = -1.0
+01:46.505	ID:4	GAMMA * max_value = 0.0
+01:46.508	ID:4	qMatrix state = 0.9920
+01:46.516	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.9920
+01:46.524	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+01:46.529	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+01:46.535	ID:4	updating qMatrix at state of 4 & action of 1 with value of 0.0
+01:46.535	ID:4	
+01:46.537	ID:4	Q Max: 0.0
+01:46.538	ID:4	Matrix updatedqMatrix: 
+01:46.546	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.554	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.562	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.570	ID:4	0.9920	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.578	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.586	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.594	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.602	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.610	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.619	ID:3	timer triggered!
+01:46.632	ID:4	qMatrix got updaTED with sumA = 0.0
+01:46.632	ID:4	
+01:46.633	ID:4	Score: 0.0
+01:46.638	ID:4	new final_max is: 0.9920
+01:46.646	ID:4	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:46.654	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.661	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.669	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.678	ID:4	0.9920	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.686	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.694	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.701	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.709	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.718	ID:4	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:46.797	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:46.872	ID:7	timer triggered!
+01:47.544	ID:5	timer triggered!
+01:50.393	ID:8	 14084 P 8.0 10 306169 3299024 11437 31150 0 25848 26468 301206 2157 2402 0 2323 (radio 1.18% / 1.39% tx 0.31% / 0.65% listen 0.86% / 0.73%)
+01:50.543	ID:8	timer triggered!
+01:50.544	ID:8	data sent from: 8
+01:50.550	ID:8	node 8.0 fwdto-> node 5.0 (3 in list), hops 1   ->state: 8, action: 5
+01:50.552	ID:8	temp_max == qMatrix[5][1]
+01:50.554	ID:8	temp_max == qMatrix[5][2]
+01:50.555	ID:2	 14084 P 2.0 10 322592 3282604 19140 44113 0 29740 22571 305106 0 2350 0 2350 (radio 1.75% / 0.71% tx 0.53% / 0.00% listen 1.22% / 0.71%)
+01:50.556	ID:8	temp_max == qMatrix[5][3]
+01:50.557	ID:8	temp_max == qMatrix[5][4]
+01:50.559	ID:8	temp_max == qMatrix[5][5]
+01:50.561	ID:8	temp_max == qMatrix[5][6]
+01:50.563	ID:8	temp_max == qMatrix[5][7]
+01:50.565	ID:8	temp_max == qMatrix[5][8]
+01:50.567	ID:8	temp_max == qMatrix[5][9]
+01:50.570	ID:6	 14084 P 6.0 10 311028 3294165 15690 38232 0 26234 21649 306028 0 2311 0 2133 (radio 1.49% / 0.70% tx 0.43% / 0.00% listen 1.06% / 0.70%)
+01:50.570	ID:8	random a out of all max: 7 index of max= 8
+01:50.571	ID:8	0.0
+01:50.574	ID:8	qMatrix state of 8 & action of 5 
+01:50.577	ID:8	rMatrix value = -1.0
+01:50.579	ID:8	GAMMA * max_value = 0.0
+01:50.582	ID:8	qMatrix state = 0.9996
+01:50.592	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.9996
+01:50.598	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+01:50.605	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+01:50.610	ID:8	updating qMatrix at state of 8 & action of 5 with value of 0.0
+01:50.610	ID:8	
+01:50.612	ID:8	Q Max: 0.0
+01:50.614	ID:8	Matrix updatedqMatrix: 
+01:50.621	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.629	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.637	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.645	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.653	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.661	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.668	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.669	ID:4	 14084 P 4.0 10 301528 3303668 12488 32334 0 25094 33115 294562 1242 3250 0 2106 (radio 1.24% / 1.37% tx 0.34% / 0.37% listen 0.89% / 0.99%)
+01:50.677	ID:8	0.0	0.0	0.0	0.0	0.9996	0.0	0.0	0.0	0.0	
+01:50.686	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.701	ID:1	 14084 P 1.0 10 261935 3343253 11997 29825 0 23444 18821 308856 0 2301 0 2147 (radio 1.16% / 0.70% tx 0.33% / 0.00% listen 0.82% / 0.70%)
+01:50.705	ID:8	qMatrix got updaTED with sumA = 0.0
+01:50.705	ID:8	
+01:50.707	ID:8	Score: 0.0
+01:50.715	ID:8	new final_max is: 0.9996
+01:50.719	ID:8	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:50.721	ID:7	 14084 P 7.0 10 295476 3309712 22756 41048 0 27551 18774 308903 0 2334 0 2147 (radio 1.76% / 0.71% tx 0.63% / 0.00% listen 1.13% / 0.71%)
+01:50.727	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.736	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.744	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.752	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.760	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.768	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.776	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.784	ID:8	0.0	0.0	0.0	0.0	0.9996	0.0	0.0	0.0	0.0	
+01:50.793	ID:8	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.880	ID:5	node 5.0 fwdto-> node 1.0 (1 in list), hops 2   ->state: 5, action: 1
+01:50.882	ID:5	temp_max == qMatrix[1][1]
+01:50.884	ID:5	temp_max == qMatrix[1][2]
+01:50.886	ID:5	temp_max == qMatrix[1][3]
+01:50.888	ID:5	temp_max == qMatrix[1][4]
+01:50.889	ID:5	temp_max == qMatrix[1][5]
+01:50.891	ID:5	temp_max == qMatrix[1][6]
+01:50.893	ID:5	temp_max == qMatrix[1][7]
+01:50.895	ID:5	temp_max == qMatrix[1][8]
+01:50.897	ID:5	temp_max == qMatrix[1][9]
+01:50.900	ID:5	random a out of all max: 6 index of max= 7
+01:50.901	ID:5	0.0
+01:50.904	ID:5	qMatrix state of 5 & action of 1 
+01:50.906	ID:5	rMatrix value = -1.0
+01:50.909	ID:5	GAMMA * max_value = 0.0
+01:50.911	ID:5	qMatrix state = -1.0
+01:50.919	ID:5	updating qMatrix at state of 5 & action of 1 with value of -1.0
+01:50.927	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:50.932	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:50.938	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:50.938	ID:5	
+01:50.939	ID:5	Q Max: 0.0
+01:50.941	ID:5	Matrix updatedqMatrix: 
+01:50.949	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.957	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.964	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.972	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.981	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.989	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:50.998	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.006	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.015	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.028	ID:9	 14084 P 9.0 10 251137 3354054 10676 29134 0 24912 20018 307659 0 2466 0 2309 (radio 1.10% / 0.75% tx 0.29% / 0.00% listen 0.80% / 0.75%)
+01:51.035	ID:5	qMatrix got updaTED with sumA = 0.0
+01:51.035	ID:5	
+01:51.036	ID:5	Score: 0.0
+01:51.046	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:51.053	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.061	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.069	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.077	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.085	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.093	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.101	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.109	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.117	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.172	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:51.200	ID:5	 14105 P 5.0 10 431685 3178924 23251 42891 0 25045 34270 298816 734 3209 0 2321 (radio 1.83% / 1.18% tx 0.64% / 0.22% listen 1.18% / 0.96%)
+01:51.205	ID:6	timer triggered!
+01:51.218	ID:3	 14084 P 3.0 10 249692 3355496 11350 27528 0 24447 18654 309023 0 2160 0 2160 (radio 1.07% / 0.65% tx 0.31% / 0.00% listen 0.76% / 0.65%)
+01:51.237	ID:2	timer triggered!
+01:51.352	ID:1	timer triggered!
+01:51.421	ID:9	timer triggered!
+01:51.422	ID:9	data sent from: 9
+01:51.428	ID:9	node 9.0 fwdto-> node 6.0 (2 in list), hops 1   ->state: 9, action: 6
+01:51.430	ID:9	temp_max == qMatrix[6][1]
+01:51.432	ID:9	temp_max == qMatrix[6][2]
+01:51.434	ID:9	temp_max == qMatrix[6][3]
+01:51.436	ID:9	temp_max == qMatrix[6][4]
+01:51.438	ID:9	temp_max == qMatrix[6][5]
+01:51.440	ID:9	temp_max == qMatrix[6][6]
+01:51.442	ID:9	temp_max == qMatrix[6][7]
+01:51.443	ID:9	temp_max == qMatrix[6][8]
+01:51.445	ID:9	temp_max == qMatrix[6][9]
+01:51.449	ID:9	random a out of all max: 7 index of max= 8
+01:51.449	ID:9	0.0
+01:51.453	ID:9	qMatrix state of 9 & action of 6 
+01:51.455	ID:9	rMatrix value = 0.0
+01:51.457	ID:9	GAMMA * max_value = 0.0
+01:51.459	ID:9	qMatrix state = 0.0
+01:51.469	ID:9	updating qMatrix at state of 9 & action of 6 with value of 0.0
+01:51.475	ID:9	updating qMatrix at state of 9 & action of 6 with value of 0.0
+01:51.480	ID:9	updating qMatrix at state of 9 & action of 6 with value of 0.0
+01:51.480	ID:9	
+01:51.482	ID:9	Q Max: 0.0
+01:51.484	ID:9	Matrix updatedqMatrix: 
+01:51.493	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.501	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.509	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.517	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.524	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.532	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.540	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.548	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.557	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.577	ID:9	qMatrix got updaTED with sumA = -5268.-1
+01:51.577	ID:9	
+01:51.580	ID:9	Score: -5268.-1
+01:51.588	ID:9	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:51.596	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.604	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.612	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.619	ID:3	timer triggered!
+01:51.621	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.629	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.637	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.645	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.653	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.661	ID:9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.717	ID:4	timer triggered!
+01:51.793	ID:6	node 6.0 fwdto-> node 5.0 (2 in list), hops 2   ->state: 6, action: 5
+01:51.795	ID:6	temp_max == qMatrix[5][1]
+01:51.797	ID:6	temp_max == qMatrix[5][2]
+01:51.799	ID:6	temp_max == qMatrix[5][3]
+01:51.801	ID:6	temp_max == qMatrix[5][4]
+01:51.803	ID:6	temp_max == qMatrix[5][5]
+01:51.805	ID:6	temp_max == qMatrix[5][6]
+01:51.807	ID:6	temp_max == qMatrix[5][7]
+01:51.809	ID:6	temp_max == qMatrix[5][8]
+01:51.811	ID:6	temp_max == qMatrix[5][9]
+01:51.814	ID:6	random a out of all max: 8 index of max= 9
+01:51.815	ID:6	0.0
+01:51.818	ID:6	qMatrix state of 6 & action of 5 
+01:51.820	ID:6	rMatrix value = 0.0
+01:51.822	ID:6	GAMMA * max_value = 0.0
+01:51.824	ID:6	qMatrix state = 0.0
+01:51.834	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:51.839	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:51.845	ID:6	updating qMatrix at state of 6 & action of 5 with value of 0.0
+01:51.845	ID:6	
+01:51.847	ID:6	Q Max: 0.0
+01:51.848	ID:6	Matrix updatedqMatrix: 
+01:51.856	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.864	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.872	ID:7	timer triggered!
+01:51.872	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.880	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.887	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.895	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.903	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.913	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.921	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.942	ID:6	qMatrix got updaTED with sumA = -13544.-1
+01:51.942	ID:6	
+01:51.944	ID:6	Score: -13544.-1
+01:51.953	ID:6	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:51.961	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.969	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.977	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.984	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:51.992	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.000	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.008	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.016	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.025	ID:6	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.133	ID:5	node 5.0 fwdto-> node 1.0 (7 in list), hops 3   ->state: 5, action: 1
+01:52.135	ID:5	temp_max == qMatrix[1][1]
+01:52.137	ID:5	temp_max == qMatrix[1][2]
+01:52.138	ID:5	temp_max == qMatrix[1][3]
+01:52.140	ID:5	temp_max == qMatrix[1][4]
+01:52.142	ID:5	temp_max == qMatrix[1][5]
+01:52.144	ID:5	temp_max == qMatrix[1][6]
+01:52.146	ID:5	temp_max == qMatrix[1][7]
+01:52.148	ID:5	temp_max == qMatrix[1][8]
+01:52.150	ID:5	temp_max == qMatrix[1][9]
+01:52.153	ID:5	random a out of all max: 7 index of max= 8
+01:52.154	ID:5	0.0
+01:52.157	ID:5	qMatrix state of 5 & action of 1 
+01:52.159	ID:5	rMatrix value = -1.0
+01:52.162	ID:5	GAMMA * max_value = 0.0
+01:52.164	ID:5	qMatrix state = -1.0
+01:52.172	ID:5	updating qMatrix at state of 5 & action of 1 with value of -1.0
+01:52.180	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:52.185	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:52.190	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:52.191	ID:5	
+01:52.192	ID:5	Q Max: 0.0
+01:52.194	ID:5	Matrix updatedqMatrix: 
+01:52.202	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.210	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.217	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.225	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.234	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.241	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.251	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.259	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.267	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.287	ID:5	qMatrix got updaTED with sumA = 0.0
+01:52.287	ID:5	
+01:52.289	ID:5	Score: 0.0
+01:52.298	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:52.306	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.314	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.322	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.330	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.338	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.346	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.354	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.362	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.371	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.420	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+01:52.544	ID:5	timer triggered!
+01:52.546	ID:5	data sent from: 5
+01:52.552	ID:5	node 5.0 fwdto-> node 1.0 (2 in list), hops 1   ->state: 5, action: 1
+01:52.554	ID:5	temp_max == qMatrix[1][1]
+01:52.555	ID:5	temp_max == qMatrix[1][2]
+01:52.557	ID:5	temp_max == qMatrix[1][3]
+01:52.559	ID:5	temp_max == qMatrix[1][4]
+01:52.561	ID:5	temp_max == qMatrix[1][5]
+01:52.563	ID:5	temp_max == qMatrix[1][6]
+01:52.565	ID:5	temp_max == qMatrix[1][7]
+01:52.567	ID:5	temp_max == qMatrix[1][8]
+01:52.569	ID:5	temp_max == qMatrix[1][9]
+01:52.572	ID:5	random a out of all max: 0 index of max= 1
+01:52.573	ID:5	0.0
+01:52.576	ID:5	qMatrix state of 5 & action of 1 
+01:52.578	ID:5	rMatrix value = -1.0
+01:52.580	ID:5	GAMMA * max_value = 0.0
+01:52.583	ID:5	qMatrix state = -1.0
+01:52.591	ID:5	updating qMatrix at state of 5 & action of 1 with value of -1.0
+01:52.599	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:52.604	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:52.609	ID:5	updating qMatrix at state of 5 & action of 1 with value of 0.0
+01:52.610	ID:5	
+01:52.611	ID:5	Q Max: 0.0
+01:52.613	ID:5	Matrix updatedqMatrix: 
+01:52.622	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.630	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.638	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.646	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.654	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.662	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.670	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.678	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.686	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.706	ID:5	qMatrix got updaTED with sumA = 0.0
+01:52.706	ID:5	
+01:52.708	ID:5	Score: 0.0
+01:52.717	ID:5	Matrix qmatrixLINKADDRafter linkaddr is done: 
+01:52.725	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.733	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.741	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.750	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.759	ID:5	-1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.766	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.774	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.782	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.791	ID:5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+01:52.920	ID:1	MULTIHOP MESSAGE RECEIVED 'Hello'
+

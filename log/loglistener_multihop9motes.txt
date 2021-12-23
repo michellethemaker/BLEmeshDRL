@@ -1,0 +1,907 @@
+00:00.337	ID:8	Rime started with address 8.0
+00:00.347	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.356	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.358	ID:8	Starting 'multihop example'
+00:00.363	ID:8	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.501	ID:2	Rime started with address 2.0
+00:00.510	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.515	ID:6	Rime started with address 6.0
+00:00.519	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.521	ID:2	Starting 'multihop example'
+00:00.525	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.526	ID:2	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.534	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.536	ID:6	Starting 'multihop example'
+00:00.541	ID:6	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.613	ID:4	Rime started with address 4.0
+00:00.622	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.632	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.634	ID:4	Starting 'multihop example'
+00:00.638	ID:4	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.647	ID:1	Rime started with address 1.0
+00:00.656	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.665	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.666	ID:7	Rime started with address 7.0
+00:00.667	ID:1	Starting 'multihop example'
+00:00.672	ID:1	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.676	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.685	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.687	ID:7	Starting 'multihop example'
+00:00.692	ID:7	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.973	ID:9	Rime started with address 9.0
+00:00.980	ID:5	Rime started with address 5.0
+00:00.983	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.989	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.992	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.994	ID:9	Starting 'multihop example'
+00:00.998	ID:9	whoopeedooMnew maxMaximum element in the matrix is 11
+00:00.998	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.000	ID:5	Starting 'multihop example'
+00:01.005	ID:5	whoopeedooMnew maxMaximum element in the matrix is 11
+00:01.164	ID:3	Rime started with address 3.0
+00:01.173	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.183	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.185	ID:3	Starting 'multihop example'
+00:01.189	ID:3	whoopeedooMnew maxMaximum element in the matrix is 11
+00:06.926	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 1
+00:07.061	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 2
+00:07.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 3
+00:07.243	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 4
+00:07.359	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 5
+00:07.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 6
+00:07.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 7
+00:07.616	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 8
+00:07.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 9
+00:07.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 10
+00:07.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 11
+00:08.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 12
+00:08.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 13
+00:08.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 14
+00:08.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 15
+00:08.492	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 16
+00:08.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 17
+00:08.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 18
+00:08.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 19
+00:08.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 20
+00:08.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 21
+00:09.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 22
+00:09.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 23
+00:09.113	ID:5	5.0: Forwarding packet to 4.0 (2 in list), hops 1
+00:09.259	ID:4	4.0: Forwarding packet to 1.0 (1 in list), hops 2
+00:09.290	ID:1	multihop message received 'Hello'
+00:09.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 24
+00:09.610	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 25
+00:09.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 26
+00:09.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 27
+00:10.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 28
+00:10.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 29
+00:10.242	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 30
+00:10.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 31
+00:10.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 32
+00:10.462	ID:8	 1293 P 8.0 0 87247 243628 35765 28477 0 1854 87247 243628 35765 28477 0 1854 (radio 19.41% / 19.41% tx 10.80% / 10.80% listen 8.60% / 8.60%)
+00:10.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 1
+00:10.548	ID:2	 1284 P 2.0 0 25920 302466 4322 2916 0 2241 25920 302466 4322 2916 0 2241 (radio 2.20% / 2.20% tx 1.31% / 1.31% listen 0.88% / 0.88%)
+00:10.562	ID:6	 1284 P 6.0 0 24474 303909 4316 2913 0 2432 24474 303909 4316 2913 0 2432 (radio 2.20% / 2.20% tx 1.31% / 1.31% listen 0.88% / 0.88%)
+00:10.614	ID:2	2.0: Forwarding packet to 3.0 (2 in list), hops 1
+00:10.616	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 2
+00:10.660	ID:4	 1284 P 4.0 0 25685 302698 4649 2972 0 2012 25685 302698 4649 2972 0 2012 (radio 2.32% / 2.32% tx 1.41% / 1.41% listen 0.90% / 0.90%)
+00:10.694	ID:1	 1284 P 1.0 0 20205 308181 2155 3265 0 2544 20205 308181 2155 3265 0 2544 (radio 1.65% / 1.65% tx 0.65% / 0.65% listen 0.99% / 0.99%)
+00:10.713	ID:7	 1284 P 7.0 0 36016 292363 8905 9478 0 3734 36016 292363 8905 9478 0 3734 (radio 5.59% / 5.59% tx 2.71% / 2.71% listen 2.88% / 2.88%)
+00:11.027	ID:5	 1284 P 5.0 0 26032 302357 4644 5488 0 2919 26032 302357 4644 5488 0 2919 (radio 3.08% / 3.08% tx 1.41% / 1.41% listen 1.67% / 1.67%)
+00:11.185	ID:3	3.0: Forwarding packet to 6.0 (0 in list), hops 2
+00:11.198	ID:9	 1306 P 9.0 0 71215 262940 29729 89474 0 1905 71215 262940 29729 89474 0 1905 (radio 35.67% / 35.67% tx 8.89% / 8.89% listen 26.77% / 26.77%)
+00:11.353	ID:3	 1302 P 3.0 0 29500 303532 6802 5355 0 2907 29500 303532 6802 5355 0 2907 (radio 3.65% / 3.65% tx 2.04% / 2.04% listen 1.60% / 1.60%)
+00:11.357	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 3
+00:11.561	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 4
+00:11.844	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:12.672	ID:6	6.0: Forwarding packet to 5.0 (0 in list), hops 1
+00:12.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:13.494	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:13.516	ID:3	3.0: Forwarding packet to 6.0 (0 in list), hops 1
+00:14.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:14.311	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:14.317	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:14.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:14.366	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:14.494	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:14.502	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:14.609	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:14.617	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:14.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:14.695	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:15.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:15.215	ID:4	4.0: Forwarding packet to 1.0 (1 in list), hops 1
+00:15.789	ID:1	multihop message received 'Hello'
+00:15.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:16.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:16.123	ID:1	1.0: Forwarding packet to 4.0 (1 in list), hops 1
+00:16.128	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:16.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:16.240	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:16.258	ID:4	4.0: Forwarding packet to 5.0 (0 in list), hops 2
+00:16.626	ID:5	5.0: Forwarding packet to 2.0 (1 in list), hops 3
+00:16.770	ID:2	2.0: Forwarding packet to 5.0 (0 in list), hops 4
+00:17.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:17.499	ID:5	5.0: Forwarding packet to 6.0 (0 in list), hops 5
+00:17.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:17.660	ID:6	6.0: Forwarding packet to 3.0 (1 in list), hops 6
+00:17.683	ID:3	3.0: Forwarding packet to 6.0 (0 in list), hops 7
+00:17.785	ID:6	6.0: Forwarding packet to 5.0 (0 in list), hops 8
+00:19.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:19.243	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:19.359	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:19.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:19.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:19.994	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:20.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:20.185	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:20.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:20.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:20.395	ID:8	 2565 P 8.0 1 199234 457076 84947 73058 0 7826 111984 213448 49182 44581 0 5972 (radio 24.07% / 28.81% tx 12.94% / 15.11% listen 11.13% / 13.69%)
+00:20.481	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:20.549	ID:2	 2564 P 2.0 1 85111 570956 27157 25728 0 7947 59188 268490 22835 22812 0 5706 (radio 8.06% / 13.93% tx 4.13% / 6.96% listen 3.92% / 6.96%)
+00:20.559	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:20.564	ID:6	 2564 P 6.0 1 119286 536775 47618 38262 0 7244 94810 232866 43302 35349 0 4812 (radio 13.09% / 24.00% tx 7.25% / 13.21% listen 5.83% / 10.78%)
+00:20.606	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:20.661	ID:4	 2564 P 4.0 1 72172 583892 21159 18005 0 4715 46485 281194 16510 15033 0 2703 (radio 5.96% / 9.62% tx 3.22% / 5.03% listen 2.74% / 4.58%)
+00:20.694	ID:1	 2564 P 1.0 1 45593 610471 6610 9575 0 6939 25385 302290 4455 6310 0 4395 (radio 2.46% / 3.28% tx 1.00% / 1.35% listen 1.45% / 1.92%)
+00:20.716	ID:7	 2564 P 7.0 1 164181 491878 69108 58065 0 7881 128162 199515 60203 48587 0 4147 (radio 19.38% / 33.20% tx 10.53% / 18.37% listen 8.85% / 14.82%)
+00:20.744	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:20.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:20.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:20.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:21.023	ID:9	 2564 P 9.0 1 168889 487173 72587 190544 0 5362 97671 224233 42858 101070 0 3457 (radio 40.10% / 44.71% tx 11.06% / 13.31% listen 29.04% / 31.39%)
+00:21.028	ID:5	 2564 P 5.0 1 60141 595926 12702 16385 0 8687 34106 293569 8058 10897 0 5768 (radio 4.43% / 5.78% tx 1.93% / 2.45% listen 2.49% / 3.32%)
+00:21.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:21.213	ID:3	 2564 P 3.0 1 116236 539828 45596 39040 0 7992 86733 236296 38794 33685 0 5085 (radio 12.90% / 22.43% tx 6.94% / 12.00% listen 5.95% / 10.42%)
+00:21.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:21.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:21.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:21.492	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:21.731	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:21.809	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:21.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:22.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:22.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:22.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:22.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:22.744	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:22.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:22.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:22.980	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:23.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:23.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:23.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:23.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:23.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:23.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:23.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:23.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:23.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:24.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:24.310	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:24.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:24.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:24.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:24.813	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:24.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:24.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:25.109	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:25.184	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:25.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:25.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:25.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:25.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:25.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:25.742	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:25.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:25.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:25.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:26.116	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:26.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:26.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:26.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:26.492	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:26.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:26.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:26.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:26.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:26.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:27.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:27.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:27.242	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:27.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:27.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:27.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:27.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:27.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:27.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:27.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:27.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:28.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:28.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:28.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:28.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:28.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+00:28.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:28.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+00:28.811	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:28.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+00:28.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:29.106	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+00:29.184	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:29.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+00:29.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:29.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+00:29.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:29.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+00:29.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:29.856	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+00:29.934	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:29.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+00:30.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:30.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+00:30.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:30.464	ID:8	 3853 P 8.0 2 403701 582529 179992 152518 0 8050 204464 125453 95045 79460 0 224 (radio 33.71% / 52.89% tx 18.25% / 28.80% listen 15.46% / 24.08%)
+00:30.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+00:30.549	ID:2	 3844 P 2.0 2 106589 877158 29306 28563 0 10699 21475 306202 2149 2835 0 2752 (radio 5.88% / 1.52% tx 2.97% / 0.65% listen 2.90% / 0.86%)
+00:30.563	ID:6	 3844 P 6.0 2 139098 844643 49778 40663 0 9567 19809 307868 2160 2401 0 2323 (radio 9.19% / 1.39% tx 5.06% / 0.65% listen 4.13% / 0.73%)
+00:30.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:30.661	ID:4	 3844 P 4.0 2 92224 891520 23323 20483 0 6950 20049 307628 2164 2478 0 2235 (radio 4.45% / 1.41% tx 2.37% / 0.66% listen 2.08% / 0.75%)
+00:30.694	ID:1	 3844 P 1.0 2 66031 917713 8767 12091 0 9046 20435 307242 2157 2516 0 2107 (radio 2.12% / 1.42% tx 0.89% / 0.65% listen 1.22% / 0.76%)
+00:30.716	ID:7	 3844 P 7.0 2 218017 765725 84655 81778 0 14538 53833 273847 15547 23713 0 6657 (radio 16.91% / 11.98% tx 8.60% / 4.74% listen 8.31% / 7.23%)
+00:30.734	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:30.867	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:31.024	ID:9	 3844 P 9.0 2 283001 700744 122580 232522 0 7610 114109 213571 49993 41978 0 2248 (radio 36.09% / 28.06% tx 12.46% / 15.25% listen 23.63% / 12.81%)
+00:31.028	ID:5	 3844 P 5.0 2 81381 902366 14858 18904 0 11124 21237 306440 2156 2519 0 2437 (radio 3.43% / 1.42% tx 1.51% / 0.65% listen 1.92% / 0.76%)
+00:31.212	ID:3	 3844 P 3.0 2 136249 847495 47758 41499 0 10370 20010 307667 2162 2459 0 2378 (radio 9.07% / 1.41% tx 4.85% / 0.65% listen 4.21% / 0.75%)
+00:31.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:31.435	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:31.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:31.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:31.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:31.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:31.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:31.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:32.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:32.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:32.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:32.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:32.481	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:32.561	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:32.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:32.741	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:32.857	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:32.937	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:32.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:33.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:33.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:33.310	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:33.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:33.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:33.606	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:33.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:33.731	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:33.869	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:33.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:34.063	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:34.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:34.243	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:34.359	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:34.434	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:34.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:34.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:34.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:34.810	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:34.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:34.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:35.109	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:35.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:35.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:35.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:35.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:35.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:35.606	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:35.744	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:35.857	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:35.937	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:35.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:36.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:36.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:36.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:36.356	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:36.494	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:36.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:36.685	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:36.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:36.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:36.981	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:37.059	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:37.106	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:37.244	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:37.483	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:37.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:37.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:37.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:37.856	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:37.934	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:37.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:38.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:38.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:38.310	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:38.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:38.492	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:38.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:38.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:38.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:38.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:38.981	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:39.059	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:39.106	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:39.244	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:39.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:39.435	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:39.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:39.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:39.731	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:39.809	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:39.856	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:40.117	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:40.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:40.311	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:40.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:40.491	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:40.519	ID:8	 5140 P 8.0 3 605572 710135 273171 229454 0 8434 201868 127606 93179 76936 0 384 (radio 38.-3245% / 51.63% tx 20.76% / 28.28% listen 17.43% / 23.35%)
+00:40.550	ID:2	 5124 P 2.0 3 128288 1183135 31467 30967 0 13022 21696 305977 2161 2404 0 2323 (radio 4.76% / 1.39% tx 2.39% / 0.65% listen 2.36% / 0.73%)
+00:40.563	ID:6	 5124 P 6.0 3 154132 1157289 49778 42823 0 11727 15031 312646 0 2160 0 2160 (radio 7.06% / 0.65% tx 3.79% / 0.00% listen 3.26% / 0.65%)
+00:40.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:40.660	ID:4	 5124 P 4.0 3 108526 1202897 23323 22643 0 9110 16299 311377 0 2160 0 2160 (radio 3.50% / 0.65% tx 1.77% / 0.00% listen 1.72% / 0.65%)
+00:40.688	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:40.694	ID:1	 5124 P 1.0 3 82408 1229015 8767 14389 0 11179 16374 311302 0 2298 0 2133 (radio 1.76% / 0.70% tx 0.66% / 0.00% listen 1.09% / 0.70%)
+00:40.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:40.759	ID:7	 5129 P 7.0 3 271979 1040851 99176 104557 0 20740 53959 275126 14521 22779 0 6202 (radio 15.51% / 11.33% tx 7.55% / 4.41% listen 7.96% / 6.92%)
+00:40.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:40.984	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:41.024	ID:9	 5124 P 9.0 3 403363 908055 176508 276807 0 9356 120359 207311 53928 44285 0 1746 (radio 34.-3219% / 29.97% tx 13.45% / 16.45% listen 21.10% / 13.51%)
+00:41.027	ID:5	 5124 P 5.0 3 99022 1212404 14858 21310 0 13530 17638 310038 0 2406 0 2406 (radio 2.75% / 0.73% tx 1.13% / 0.00% listen 1.62% / 0.73%)
+00:41.059	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:41.106	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:41.213	ID:3	 5124 P 3.0 3 156891 1154530 49913 43887 0 12679 20639 307035 2155 2388 0 2309 (radio 7.15% / 1.38% tx 3.80% / 0.65% listen 3.34% / 0.72%)
+00:41.244	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:41.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:41.435	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:41.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:41.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:41.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:41.811	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:41.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:41.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:42.106	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:42.184	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:42.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:42.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:42.483	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:42.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:42.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:42.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:42.859	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:42.934	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:42.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:43.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:43.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:43.310	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:43.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:43.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:43.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:43.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:43.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:43.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:43.983	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:44.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:44.109	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:44.244	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:44.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:44.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:44.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:44.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:44.731	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:44.809	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:44.856	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:44.994	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:45.107	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:45.187	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:45.232	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:45.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:45.483	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:45.561	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:45.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:45.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:45.857	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:45.937	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:45.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:46.117	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:46.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:46.311	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:46.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:46.491	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:46.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:46.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:46.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:46.867	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:46.983	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:47.061	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:47.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:47.241	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:47.357	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:47.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:47.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:47.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:47.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:47.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:47.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:48.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:48.231	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:48.311	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:48.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:48.491	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:48.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:48.810	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:48.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:48.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:49.106	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:49.184	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:49.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:49.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:49.483	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:49.561	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:49.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:49.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:49.859	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:49.934	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:49.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:50.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:50.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:50.310	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:50.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:50.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:50.521	ID:8	 6421 P 8.0 4 807714 835739 366523 308249 0 8644 202139 125604 93352 78795 0 210 (radio 41.-2608% / 52.52% tx 22.30% / 28.48% listen 18.75% / 24.04%)
+00:50.548	ID:2	 6404 P 2.0 4 144619 1494484 31467 33127 0 15182 16328 311349 0 2160 0 2160 (radio 3.94% / 0.65% tx 1.91% / 0.00% listen 2.02% / 0.65%)
+00:50.563	ID:6	 6404 P 6.0 4 169149 1469952 49778 44983 0 13887 15014 312663 0 2160 0 2160 (radio 5.78% / 0.65% tx 3.03% / 0.00% listen 2.74% / 0.65%)
+00:50.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:50.662	ID:4	 6404 P 4.0 4 128949 1510152 25481 24857 0 11243 20420 307255 2158 2214 0 2133 (radio 3.07% / 1.33% tx 1.55% / 0.65% listen 1.51% / 0.67%)
+00:50.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:50.694	ID:1	 6404 P 1.0 4 98762 1540341 8767 16686 0 13326 16351 311326 0 2297 0 2147 (radio 1.55% / 0.70% tx 0.53% / 0.00% listen 1.01% / 0.70%)
+00:50.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:50.759	ID:7	 6409 P 7.0 4 331941 1308549 116502 128159 0 27195 59959 267698 17326 23602 0 6455 (radio 14.91% / 12.49% tx 7.10% / 5.28% listen 7.81% / 7.20%)
+00:50.869	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:50.980	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:51.025	ID:9	 6404 P 9.0 4 518849 1120249 227987 320968 0 11116 115483 212194 51479 44161 0 1760 (radio 33.-2572% / 29.18% tx 13.90% / 15.71% listen 19.58% / 13.47%)
+00:51.028	ID:5	 6404 P 5.0 4 116586 1522520 14858 23646 0 15866 17561 310116 0 2336 0 2336 (radio 2.34% / 0.71% tx 0.90% / 0.00% listen 1.44% / 0.71%)
+00:51.060	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:51.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:51.212	ID:3	 6404 P 3.0 4 171943 1467158 49913 46047 0 14839 15049 312628 0 2160 0 2160 (radio 5.85% / 0.65% tx 3.04% / 0.00% listen 2.80% / 0.65%)
+00:51.242	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:51.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:51.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:51.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:51.616	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:51.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:51.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:51.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:51.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:52.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:52.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:52.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:52.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:52.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:52.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:52.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:52.742	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:52.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:52.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:52.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:53.116	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:53.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:53.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:53.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:53.492	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:53.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:53.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:53.856	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:53.994	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:54.107	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:54.187	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:54.232	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:54.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:54.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:54.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:54.608	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:54.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:54.859	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:54.934	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:54.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:55.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:55.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:55.310	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:55.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:55.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:55.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:55.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:55.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:55.867	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:55.983	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:56.061	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:56.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:56.243	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:56.357	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:56.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:56.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:56.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:56.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:56.811	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:56.855	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+00:56.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+00:57.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+00:57.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+00:57.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+00:57.492	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+00:57.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 8
+00:57.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 9
+00:57.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+00:57.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+00:57.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 12
+00:58.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 13
+00:58.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+00:58.242	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+00:58.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 16
+00:58.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 17
+00:58.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+00:58.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+00:58.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 20
+00:58.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 21
+00:58.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+00:58.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+00:59.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 24
+00:59.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 25
+00:59.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+00:59.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+00:59.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 28
+00:59.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 29
+00:59.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+00:59.742	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+00:59.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 32
+00:59.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 1
+00:59.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+01:00.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:00.231	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 4
+01:00.311	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:00.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+01:00.491	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:00.519	ID:8	 7700 P 8.0 5 1009991 961075 459912 387056 0 8924 202274 125336 93389 78807 0 280 (radio 42.-2083% / 52.56% tx 23.-2146% / 28.50% listen 19.63% / 24.05%)
+01:00.549	ID:2	 7684 P 2.0 5 161037 1805747 31467 35691 0 17580 16415 311263 0 2564 0 2398 (radio 3.41% / 0.78% tx 1.59% / 0.00% listen 1.81% / 0.78%)
+01:00.563	ID:6	 7684 P 6.0 5 184201 1782580 49778 47226 0 16130 15049 312628 0 2243 0 2243 (radio 4.93% / 0.68% tx 2.53% / 0.00% listen 2.40% / 0.68%)
+01:00.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:00.661	ID:4	 7684 P 4.0 5 144157 1822624 25481 27332 0 13377 15205 312472 0 2475 0 2134 (radio 2.68% / 0.75% tx 1.29% / 0.00% listen 1.38% / 0.75%)
+01:00.696	ID:1	 7684 P 1.0 5 118628 1848153 10928 18881 0 15432 19863 307812 2161 2195 0 2106 (radio 1.51% / 1.32% tx 0.55% / 0.65% listen 0.95% / 0.66%)
+01:00.717	ID:7	 7684 P 7.0 5 384295 1582484 130848 151487 0 33950 52351 273935 14346 23328 0 6755 (radio 14.35% / 11.54% tx 6.65% / 4.39% listen 7.70% / 7.14%)
+01:00.744	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:00.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:00.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:00.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:01.025	ID:9	 7684 P 9.0 5 634981 1331797 279849 365139 0 12778 116129 211548 51862 44171 0 1662 (radio 32.-2105% / 29.30% tx 14.22% / 15.82% listen 18.56% / 13.48%)
+01:01.029	ID:5	 7684 P 5.0 5 138138 1828646 17018 25837 0 17972 21549 306126 2160 2191 0 2106 (radio 2.17% / 1.32% tx 0.86% / 0.65% listen 1.31% / 0.66%)
+01:01.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:01.212	ID:3	 7684 P 3.0 5 186960 1779821 49913 48207 0 16999 15014 312663 0 2160 0 2160 (radio 4.98% / 0.65% tx 2.53% / 0.00% listen 2.45% / 0.65%)
+01:01.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:01.313	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:01.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:01.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:01.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+01:01.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:01.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:01.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:01.984	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 22
+01:02.059	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:02.106	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:02.244	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:02.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 26
+01:02.435	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:02.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:02.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:02.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 30
+01:02.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:02.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:02.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:03.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+01:03.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:03.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:03.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:03.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+01:03.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:03.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:03.742	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:03.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:03.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:03.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:04.116	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:04.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:04.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:04.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:04.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:04.609	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+01:04.684	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:04.731	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:04.869	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:04.983	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 22
+01:05.060	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:05.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:05.243	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:05.356	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 26
+01:05.434	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:05.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:05.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:05.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 30
+01:05.811	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:05.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:05.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:06.107	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+01:06.187	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:06.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:06.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:06.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+01:06.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:06.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:06.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:06.859	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:06.934	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:06.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:07.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:07.233	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:07.311	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:07.358	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:07.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:07.607	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+01:07.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:07.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:07.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:07.984	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 22
+01:08.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:08.106	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:08.244	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:08.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 26
+01:08.435	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:08.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:08.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:08.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 30
+01:08.812	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:08.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:08.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:09.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+01:09.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:09.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:09.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:09.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+01:09.562	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:09.606	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:09.744	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:09.857	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:09.935	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:09.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:10.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:10.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:10.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:10.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:10.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:10.522	ID:8	 8981 P 8.0 6 1213952 1084842 553407 466048 0 9106 203958 123767 93495 78992 0 182 (radio 44.-3702% / 52.63% tx 24.-1861% / 28.52% listen 20.-1841% / 24.10%)
+01:10.548	ID:2	 8964 P 2.0 6 176839 2117623 31467 37851 0 19740 15799 311876 0 2160 0 2160 (radio 3.02% / 0.65% tx 1.37% / 0.00% listen 1.64% / 0.65%)
+01:10.563	ID:6	 8964 P 6.0 6 198686 2095773 49778 49386 0 18290 14482 313193 0 2160 0 2160 (radio 4.32% / 0.65% tx 2.16% / 0.00% listen 2.15% / 0.65%)
+01:10.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+01:10.661	ID:4	 8964 P 4.0 6 160485 2133979 25481 29492 0 15537 16325 311355 0 2160 0 2160 (radio 2.39% / 0.65% tx 1.11% / 0.00% listen 1.28% / 0.65%)
+01:10.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:10.695	ID:1	 8964 P 1.0 6 134987 2159477 10928 21041 0 17592 16356 311324 0 2160 0 2160 (radio 1.39% / 0.65% tx 0.47% / 0.00% listen 0.91% / 0.65%)
+01:10.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:10.761	ID:7	 8969 P 7.0 6 441207 1854698 146419 175490 0 40215 56910 272214 15571 24003 0 6265 (radio 14.02% / 12.02% tx 6.37% / 4.73% listen 7.64% / 7.29%)
+01:10.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:10.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 22
+01:11.026	ID:9	 8964 P 9.0 6 751642 1542820 331096 474625 0 14307 116658 211023 51247 109486 0 1529 (radio 35.-1861% / 49.05% tx 14.43% / 15.63% listen 20.-1804% / 33.41%)
+01:11.027	ID:5	 8964 P 5.0 6 154113 2140349 17018 27997 0 20132 15972 311703 0 2160 0 2160 (radio 1.96% / 0.65% tx 0.74% / 0.00% listen 1.22% / 0.65%)
+01:11.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:11.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:11.212	ID:3	 8964 P 3.0 6 202256 2092206 49913 50367 0 19159 15293 312385 0 2160 0 2160 (radio 4.37% / 0.65% tx 2.17% / 0.00% listen 2.19% / 0.65%)
+01:11.242	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:11.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 26
+01:11.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:11.484	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:11.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:11.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 30
+01:11.811	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:11.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:11.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:12.107	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+01:12.187	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:12.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:12.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:12.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+01:12.560	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:12.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:12.742	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:12.858	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:12.936	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:12.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:13.116	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:13.232	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:13.312	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:13.357	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:13.493	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:13.608	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+01:13.687	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:13.734	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:13.869	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:13.983	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 22
+01:14.061	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:14.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:14.241	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:14.357	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 26
+01:14.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:14.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:14.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:14.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 30
+01:14.811	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:14.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:14.991	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:15.107	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+01:15.187	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:15.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:15.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:15.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+01:15.686	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:15.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:15.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:15.982	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:16.062	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:16.107	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:16.242	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:16.358	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:16.436	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:16.484	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:16.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:16.733	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 18
+01:16.810	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:16.858	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:16.993	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:17.107	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 22
+01:17.187	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:17.232	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:17.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:17.481	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 26
+01:17.559	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:17.606	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:17.744	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:17.980	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 30
+01:18.061	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:18.108	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:18.241	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:18.357	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 2
+01:18.437	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:18.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:18.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:18.732	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 6
+01:18.810	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:18.857	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:18.992	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:19.108	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 10
+01:19.186	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:19.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:19.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:19.482	ID:8	8.0: Forwarding packet to 7.0 (1 in list), hops 14
+01:19.563	ID:7	7.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:19.607	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:19.743	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:19.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+01:20.117	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:20.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:20.366	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:20.396	ID:8	 10244 P 8.0 7 1411608 1210729 644220 542824 0 9575 197653 125887 90813 76776 0 469 (radio 45.-3250% / 51.79% tx 24.-1582% / 28.06% listen 20.-1568% / 23.72%)
+01:20.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+01:20.549	ID:2	 10244 P 2.0 7 192371 2429773 31467 40297 0 21874 15529 312150 0 2446 0 2134 (radio 2.73% / 0.74% tx 1.20% / 0.00% listen 1.53% / 0.74%)
+01:20.564	ID:6	 10244 P 6.0 7 216369 2405767 51943 51964 0 20790 17680 309994 2165 2578 0 2500 (radio 3.96% / 1.44% tx 1.98% / 0.66% listen 1.98% / 0.78%)
+01:20.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:20.661	ID:4	 10244 P 4.0 7 176785 2445358 25481 31828 0 17873 16297 311379 0 2336 0 2336 (radio 2.18% / 0.71% tx 0.97% / 0.00% listen 1.21% / 0.71%)
+01:20.695	ID:1	 10244 P 1.0 7 151287 2470856 10928 23201 0 19752 16297 311379 0 2160 0 2160 (radio 1.30% / 0.65% tx 0.41% / 0.00% listen 0.88% / 0.65%)
+01:20.717	ID:7	 10244 P 7.0 7 491931 2130210 159707 197547 0 47008 50721 275512 13288 22057 0 6793 (radio 13.62% / 10.83% tx 6.09% / 4.07% listen 7.53% / 6.76%)
+01:20.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:20.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:20.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+01:21.025	ID:9	 10244 P 9.0 7 876629 1745512 386966 521710 0 15882 124984 202692 55870 47085 0 1575 (radio 34.-3211% / 31.41% tx 14.75% / 17.05% listen 19.-1549% / 14.36%)
+01:21.029	ID:5	 10244 P 5.0 7 172593 2449543 19186 30385 0 22441 18477 309194 2168 2388 0 2309 (radio 1.89% / 1.39% tx 0.73% / 0.66% listen 1.15% / 0.72%)
+01:21.117	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:21.213	ID:3	 10244 P 3.0 7 220466 2401670 52076 52824 0 21537 18207 309464 2163 2457 0 2378 (radio 4.00% / 1.40% tx 1.98% / 0.66% listen 2.01% / 0.74%)
+01:21.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:21.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:21.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+01:21.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:21.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:21.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:21.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+01:22.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:22.230	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:22.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:22.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+01:22.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:22.730	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:22.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:22.984	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+01:23.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:23.232	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:23.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:23.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+01:23.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:23.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:23.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:23.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+01:24.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:24.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:24.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:24.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+01:24.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:24.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:24.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:24.981	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+01:25.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:25.232	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:25.367	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:25.483	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+01:25.618	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:25.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:25.869	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:25.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+01:26.118	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:26.231	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:26.369	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:26.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+01:26.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:26.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:26.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:26.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+01:27.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 11
+01:27.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 12
+01:27.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 13
+01:27.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 14
+01:27.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 15
+01:27.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 16
+01:27.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 17
+01:27.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 18
+01:28.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 19
+01:28.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 20
+01:28.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 21
+01:28.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 22
+01:28.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 23
+01:28.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 24
+01:28.868	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 25
+01:28.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 26
+01:29.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 27
+01:29.233	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 28
+01:29.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 29
+01:29.482	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 30
+01:29.617	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 31
+01:29.733	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 32
+01:29.866	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 1
+01:29.982	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 2
+01:30.119	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 3
+01:30.232	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 4
+01:30.368	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 5
+01:30.398	ID:8	 11525 P 8.0 8 1604599 1345468 736426 682669 0 9743 192988 134739 92206 139845 0 168 (radio 48.-4358% / 70.80% tx 24.-1360% / 28.13% listen 23.-1442% / 42.67%)
+01:30.481	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 6
+01:30.549	ID:2	 11524 P 2.0 8 208680 2741143 31467 42457 0 24034 16306 311370 0 2160 0 2160 (radio 2.50% / 0.65% tx 1.06% / 0.00% listen 1.43% / 0.65%)
+01:30.563	ID:6	 11524 P 6.0 8 228871 2720945 51943 54124 0 22950 12499 315178 0 2160 0 2160 (radio 3.59% / 0.65% tx 1.76% / 0.00% listen 1.83% / 0.65%)
+01:30.619	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 7
+01:30.661	ID:4	 11524 P 4.0 8 193095 2756728 25481 33988 0 20033 16307 311370 0 2160 0 2160 (radio 2.01% / 0.65% tx 0.86% / 0.00% listen 1.15% / 0.65%)
+01:30.695	ID:1	 11524 P 1.0 8 167596 2782227 10928 25361 0 21912 16306 311371 0 2160 0 2160 (radio 1.23% / 0.65% tx 0.37% / 0.00% listen 0.85% / 0.65%)
+01:30.715	ID:7	 11524 P 7.0 8 507043 2442778 159707 206943 0 56404 15109 312568 0 9396 0 9396 (radio 12.42% / 2.86% tx 5.41% / 0.00% listen 7.01% / 2.86%)
+01:30.732	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 8
+01:30.867	ID:9	9.0: Forwarding packet to 8.0 (0 in list), hops 9
+01:30.983	ID:8	8.0: Forwarding packet to 9.0 (0 in list), hops 10
+01:31.026	ID:9	 11524 P 9.0 8 1041644 1908174 462577 651224 0 17158 165012 162662 75611 129514 0 1276 (radio 37.-2837% / 62.60% tx 15.-1388% / 23.07% listen 22.-1449% / 39.52%)
+01:31.028	ID:5	 11524 P 5.0 8 185096 2764720 19186 32545 0 24601 12500 315177 0 2160 0 2160 (radio 1.75% / 0.65% tx 0.65% / 0.00% listen 1.10% / 0.65%)
+01:31.117	ID:9	9.0: did not find a neighbor to foward to
+01:31.212	ID:3	 11524 P 3.0 8 232963 2716853 52076 54984 0 23697 12494 315183 0 2160 0 2160 (radio 3.62% / 0.65% tx 1.76% / 0.00% listen 1.86% / 0.65%)
